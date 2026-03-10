@@ -25,14 +25,28 @@ def serve_dashboard():
 @app.route("/api/latest", methods=["GET"])
 def get_latest_report():
     try:
+        # Search in reports/ folder
         files = [f for f in os.listdir(REPORTS_DIR) if f.endswith(".json")]
-        if not files:
-            return jsonify({"error": "No reports found. Please run the analysis first."}), 404
         
-        # Sort by filename (analysis_YYYYMMDD_HHMM.json)
+        # Fallback: check root folder if reports/ is empty
+        if not files:
+            files = [f for f in os.listdir(BASE_DIR) if f.startswith("analysis_") and f.endswith(".json")]
+            search_dir = BASE_DIR
+        else:
+            search_dir = REPORTS_DIR
+
+        if not files:
+            return jsonify({
+                "error": "no_reports",
+                "message": "Analysis not yet run",
+                "all_results": [],
+                "summary": {"strong_buys":0,"buys":0,"neutrals":0,"sells":0}
+            }), 200
+        
+        # Sort by filename
         latest_file = sorted(files, reverse=True)[0]
         
-        with open(os.path.join(REPORTS_DIR, latest_file), "r") as f:
+        with open(os.path.join(search_dir, latest_file), "r") as f:
             data = json.load(f)
         return jsonify(data)
     except Exception as e:
@@ -92,6 +106,22 @@ def get_history():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
+    import threading
+    import sys
+
+    # Startup Check: If no reports, run an initial one in background
+    report_files = [f for f in os.listdir(REPORTS_DIR) if f.endswith(".json")]
+    if not report_files:
+        print("🔍 No reports found - running initial analysis in background...")
+        def run_initial():
+            try:
+                subprocess.run([sys.executable, "indicator_engine.py"], capture_output=True)
+                print("✅ Initial analysis complete.")
+            except Exception as e:
+                print(f"❌ Initial analysis failed: {e}")
+        
+        threading.Thread(target=run_initial, daemon=True).start()
+
     print(f"🚀 Equity Research Assistant Server starting...")
     print(f"📂 Reports Folder: {os.path.abspath(REPORTS_DIR)}")
     print(f"📍 Local URL: http://localhost:{PORT}")

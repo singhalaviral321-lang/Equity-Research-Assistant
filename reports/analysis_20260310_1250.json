@@ -1,0 +1,239 @@
+{
+  "date": "2026-03-10",
+  "time": "12:50",
+  "total_stocks": 1,
+  "summary": {
+    "strong_buys": 0,
+    "buys": 0,
+    "neutrals": 0,
+    "sells": 1,
+    "errors": 0
+  },
+  "top_momentum": [
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": 2492.9,
+      "change_1d": -1.37,
+      "change_1w": -4.61,
+      "change_1m": -15.25,
+      "signal": "SELL",
+      "composite_score": 41.8,
+      "scores": {
+        "technical": 29.0,
+        "volume": 20.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 21.2,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": 51.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.41,
+        "obv_trend": "falling",
+        "bb_position": 13.0,
+        "stoch_k": 1.1,
+        "cmf": -0.25,
+        "mfi": 29.2
+      },
+      "price_levels": {
+        "sma_50": 2951.97,
+        "sma_200": null,
+        "ema_21": 2689.46,
+        "bb_upper": 2902.36,
+        "bb_lower": 2431.85,
+        "pivot": 2530.8,
+        "r1": 2556.6,
+        "r2": 2585.8,
+        "s1": 2501.6,
+        "s2": 2475.8,
+        "pct_from_52w_high": -23.66
+      },
+      "fundamentals": {
+        "pe": 18.895626,
+        "pb": 7.9460807,
+        "dividend_yield": 2.49,
+        "analyst_target": 3481.2727,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 9019529887744
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading",
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T12:50:29.884621"
+    }
+  ],
+  "watchlist": [],
+  "avoid": [
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": 2492.9,
+      "change_1d": -1.37,
+      "change_1w": -4.61,
+      "change_1m": -15.25,
+      "signal": "SELL",
+      "composite_score": 41.8,
+      "scores": {
+        "technical": 29.0,
+        "volume": 20.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 21.2,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": 51.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.41,
+        "obv_trend": "falling",
+        "bb_position": 13.0,
+        "stoch_k": 1.1,
+        "cmf": -0.25,
+        "mfi": 29.2
+      },
+      "price_levels": {
+        "sma_50": 2951.97,
+        "sma_200": null,
+        "ema_21": 2689.46,
+        "bb_upper": 2902.36,
+        "bb_lower": 2431.85,
+        "pivot": 2530.8,
+        "r1": 2556.6,
+        "r2": 2585.8,
+        "s1": 2501.6,
+        "s2": 2475.8,
+        "pct_from_52w_high": -23.66
+      },
+      "fundamentals": {
+        "pe": 18.895626,
+        "pb": 7.9460807,
+        "dividend_yield": 2.49,
+        "analyst_target": 3481.2727,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 9019529887744
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading",
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T12:50:29.884621"
+    }
+  ],
+  "all_results": [
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": 2492.9,
+      "change_1d": -1.37,
+      "change_1w": -4.61,
+      "change_1m": -15.25,
+      "signal": "SELL",
+      "composite_score": 41.8,
+      "scores": {
+        "technical": 29.0,
+        "volume": 20.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 21.2,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": 51.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.41,
+        "obv_trend": "falling",
+        "bb_position": 13.0,
+        "stoch_k": 1.1,
+        "cmf": -0.25,
+        "mfi": 29.2
+      },
+      "price_levels": {
+        "sma_50": 2951.97,
+        "sma_200": null,
+        "ema_21": 2689.46,
+        "bb_upper": 2902.36,
+        "bb_lower": 2431.85,
+        "pivot": 2530.8,
+        "r1": 2556.6,
+        "r2": 2585.8,
+        "s1": 2501.6,
+        "s2": 2475.8,
+        "pct_from_52w_high": -23.66
+      },
+      "fundamentals": {
+        "pe": 18.895626,
+        "pb": 7.9460807,
+        "dividend_yield": 2.49,
+        "analyst_target": 3481.2727,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 9019529887744
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading",
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T12:50:29.884621"
+    }
+  ],
+  "errors": []
+}
