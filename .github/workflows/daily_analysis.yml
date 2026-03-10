@@ -1,0 +1,49 @@
+name: 📊 Daily Stock Analysis
+
+on:
+  schedule:
+    # 12:30 PM UTC = 6:00 PM IST, Monday to Friday
+    - cron: '30 12 * * 1-5'
+  workflow_dispatch:
+    # Allows manual trigger from GitHub UI
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛒 Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 📁 Create reports directory
+        run: mkdir -p reports
+
+      - name: 🚀 Run Daily Analysis
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+        run: python run_daily.py
+
+      - name: 💾 Commit & Push Reports
+        run: |
+          git config --global user.name "Stock Research Bot"
+          git config --global user.email "bot@stock-research.com"
+          git add reports/*.json
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 Daily analysis $(date +'%Y-%m-%d')" && git push)

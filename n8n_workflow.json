@@ -1,0 +1,218 @@
+{
+  "name": "Equity Research Assistant — Daily Stock Analysis",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{ "field": "cronExpression", "expression": "0 18 * * 1-5" }]
+        }
+      },
+      "name": "⏰ Daily Trigger (6PM Weekdays)",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [0, 300],
+      "id": "node_trigger"
+    },
+    {
+      "parameters": {
+        "operation": "read",
+        "fileSelector": "stocks.txt",
+        "options": {}
+      },
+      "name": "📂 Read Stock Pool (File)",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [220, 300],
+      "id": "node_read_file",
+      "notes": "Alternatively use Google Sheets node to read your stock list"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse the stock list from file or Google Sheets\n// Replace this with Google Sheets input if preferred\n\nconst rawText = $input.first().json.data || '';\nconst lines = rawText.split('\\n').filter(l => l.trim() && !l.startsWith('#'));\nconst tickers = lines.map(l => l.trim().toUpperCase());\n\nconsole.log(`Loaded ${tickers.length} tickers: ${tickers.join(', ')}`);\n\n// Output as array for downstream loop\nreturn tickers.map(ticker => ({ json: { ticker } }));"
+      },
+      "name": "🔧 Parse Ticker List",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [440, 300],
+      "id": "node_parse"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ══════════════════════════════════════════════\n// FULL INDICATOR ENGINE — runs per ticker\n// ══════════════════════════════════════════════\n// This is a simplified version. For production,\n// call your Python indicator_engine.py via Execute Command node.\n\nconst ticker = $input.first().json.ticker;\n\n// ── Fetch from Yahoo Finance (via HTTP request below) ──\n// This node receives the OHLCV JSON from the HTTP node\nconst ohlcv = $input.first().json.ohlcv || [];\n\nif (!ohlcv || ohlcv.length < 30) {\n  return [{ json: { ticker, error: 'Insufficient data', signal: 'UNKNOWN' } }];\n}\n\nconst closes  = ohlcv.map(d => d.close);\nconst highs   = ohlcv.map(d => d.high);\nconst lows    = ohlcv.map(d => d.low);\nconst volumes = ohlcv.map(d => d.volume);\nconst n       = closes.length;\n\n// ── Helpers ──────────────────────────────────\nconst mean = arr => arr.reduce((a,b) => a+b, 0) / arr.length;\nconst last  = arr => arr[arr.length - 1];\nconst prev  = arr => arr[arr.length - 2];\n\n// ── RSI (14) ─────────────────────────────────\nfunction calcRSI(closes, period=14) {\n  const deltas = closes.slice(1).map((c,i) => c - closes[i]);\n  const gains  = deltas.map(d => d > 0 ? d : 0);\n  const losses = deltas.map(d => d < 0 ? -d : 0);\n  const avgG   = mean(gains.slice(-period));\n  const avgL   = mean(losses.slice(-period));\n  return avgL === 0 ? 100 : 100 - (100 / (1 + avgG / avgL));\n}\n\n// ── EMA ──────────────────────────────────────\nfunction ema(arr, period) {\n  const k = 2 / (period + 1);\n  let e = arr[0];\n  for (let i=1; i<arr.length; i++) e = arr[i]*k + e*(1-k);\n  return e;\n}\n\n// ── MACD ─────────────────────────────────────\nconst ema12 = ema(closes, 12);\nconst ema26 = ema(closes, 26);\nconst macd  = ema12 - ema26;\n\n// ── SMA ──────────────────────────────────────\nconst sma20  = mean(closes.slice(-20));\nconst sma50  = mean(closes.slice(-50));\nconst sma200 = closes.length >= 200 ? mean(closes.slice(-200)) : null;\n\n// ── Bollinger Bands ───────────────────────────\nconst std20  = Math.sqrt(closes.slice(-20).map(c=>(c-sma20)**2).reduce((a,b)=>a+b)/20);\nconst bbUpper = sma20 + 2*std20;\nconst bbLower = sma20 - 2*std20;\nconst bbPos   = ((last(closes) - bbLower) / (bbUpper - bbLower) * 100).toFixed(1);\n\n// ── Volume ───────────────────────────────────\nconst volAvg20 = mean(volumes.slice(-20));\nconst volRatio = (last(volumes) / volAvg20).toFixed(2);\n\n// ── RSI signal ───────────────────────────────\nconst rsi = calcRSI(closes);\nconst rsiSignal = rsi >= 70 ? 'overbought' : rsi >= 55 ? 'bullish' :\n                  rsi >= 45 ? 'neutral'    : rsi >= 30 ? 'bearish' : 'oversold';\n\n// ── Scoring ──────────────────────────────────\nlet score = 50;\nif (rsi > 50 && rsi < 65)  score += 12;\nelse if (rsi < 35)          score -= 15;\nif (macd > 0)               score += 10;\nelse                        score -= 10;\nif (last(closes) > sma50)   score += 10;\nelse                        score -= 10;\nif (sma200 && last(closes) > sma200) score += 8;\nif (volRatio > 1.5 && last(closes) > prev(closes)) score += 12;\n\nscore = Math.max(0, Math.min(100, score));\n\nconst signal = score >= 72 ? 'STRONG BUY' :\n               score >= 58 ? 'BUY'        :\n               score >= 42 ? 'NEUTRAL'    :\n               score >= 28 ? 'SELL'       : 'STRONG SELL';\n\nconst price   = last(closes);\nconst change1d = ((price - prev(closes)) / prev(closes) * 100).toFixed(2);\n\nreturn [{ json: {\n  ticker,\n  price,\n  change_1d: parseFloat(change1d),\n  signal,\n  composite_score: parseFloat(score.toFixed(1)),\n  indicators: {\n    rsi: parseFloat(rsi.toFixed(1)),\n    rsi_signal: rsiSignal,\n    macd: parseFloat(macd.toFixed(4)),\n    sma20, sma50,\n    bb_position: parseFloat(bbPos),\n    volume_ratio: parseFloat(volRatio),\n  }\n}}];"
+      },
+      "name": "📊 Compute Indicators (JS)",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [880, 300],
+      "id": "node_indicators",
+      "notes": "For production, replace with Execute Command node calling indicator_engine.py"
+    },
+    {
+      "parameters": {
+        "url": "=https://query1.finance.yahoo.com/v8/finance/chart/{{ $json.ticker }}?interval=1d&range=6mo",
+        "options": {
+          "timeout": 10000,
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (compatible; StockBot/1.0)"
+          }
+        }
+      },
+      "name": "🌐 Fetch Yahoo Finance OHLCV",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [660, 300],
+      "id": "node_fetch_yahoo",
+      "notes": "Fetches 6 months daily OHLCV data. Free, no API key needed."
+    },
+    {
+      "parameters": {
+        "jsCode": "// Transform Yahoo Finance response into clean OHLCV array\nconst response = $input.first().json;\nconst ticker   = $input.first().json.ticker || $('node_parse').first().json.ticker;\n\ntry {\n  const result    = response.chart.result[0];\n  const timestamps = result.timestamp;\n  const quote     = result.indicators.quote[0];\n\n  const ohlcv = timestamps.map((ts, i) => ({\n    date:   new Date(ts * 1000).toISOString().split('T')[0],\n    open:   quote.open[i],\n    high:   quote.high[i],\n    low:    quote.low[i],\n    close:  quote.close[i],\n    volume: quote.volume[i],\n  })).filter(d => d.close !== null);\n\n  return [{ json: { ticker, ohlcv } }];\n} catch(e) {\n  return [{ json: { ticker, ohlcv: [], error: e.message } }];\n}"
+      },
+      "name": "🔄 Transform OHLCV",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [770, 300],
+      "id": "node_transform"
+    },
+    {
+      "parameters": {
+        "url": "=https://query2.finance.yahoo.com/v1/finance/search?q={{ $json.ticker }}&newsCount=5",
+        "options": { "timeout": 8000 }
+      },
+      "name": "📰 Fetch News Headlines",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [660, 460],
+      "id": "node_fetch_news"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Simple keyword-based sentiment from headlines\nconst data    = $input.first().json;\nconst ticker  = $('node_parse').first().json.ticker;\nconst news    = data.news || [];\n\nconst POS = ['surge','rally','beat','record','growth','strong','upgrade','buy','bullish','profit','gain','rise','high'];\nconst NEG = ['fall','drop','miss','loss','weak','downgrade','sell','bearish','decline','crash','concern','risk'];\n\nlet sentimentScore = 0;\nconst headlines = news.slice(0, 5).map(n => {\n  const title = n.title || '';\n  const lower = title.toLowerCase();\n  const pos   = POS.filter(w => lower.includes(w)).length;\n  const neg   = NEG.filter(w => lower.includes(w)).length;\n  sentimentScore += (pos - neg);\n  return title;\n});\n\nsentimentScore = Math.max(-1, Math.min(1, sentimentScore / Math.max(headlines.length, 1)));\n\nreturn [{ json: {\n  ticker,\n  news_sentiment: parseFloat(sentimentScore.toFixed(2)),\n  sentiment_label: sentimentScore > 0.1 ? 'positive' : sentimentScore < -0.1 ? 'negative' : 'neutral',\n  headlines\n}}];"
+      },
+      "name": "😊 Sentiment Scoring",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [880, 460],
+      "id": "node_sentiment"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combinationMode": "mergeByPosition",
+        "options": {}
+      },
+      "name": "🔀 Merge Indicators + News",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 2,
+      "position": [1100, 380],
+      "id": "node_merge"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Aggregate all stock analyses into one daily report\nconst results = $input.all().map(i => i.json);\n\n// Sort by composite score descending\nconst valid = results.filter(r => !r.error).sort((a,b) => b.composite_score - a.composite_score);\n\n// Categorize\nconst strongBuys = valid.filter(r => r.signal === 'STRONG BUY');\nconst buys       = valid.filter(r => r.signal === 'BUY');\nconst neutrals   = valid.filter(r => r.signal === 'NEUTRAL');\nconst sells      = valid.filter(r => ['SELL','STRONG SELL'].includes(r.signal));\n\nconst fmt = (r) => {\n  const ind = r.indicators || {};\n  return `${r.signal.padEnd(12)} ${r.ticker.padEnd(14)} Score:${String(r.composite_score).padStart(5)} RSI:${String(ind.rsi || '-').padStart(5)} 1D:${r.change_1d > 0 ? '+' : ''}${r.change_1d}%`;\n};\n\nconst lines = [\n  `📊 DAILY EQUITY RESEARCH REPORT — ${new Date().toLocaleDateString('en-IN')}`,\n  `${'═'.repeat(60)}`,\n  ``,\n  `📈 MARKET BREADTH`,\n  `  🟢 Strong Buy: ${strongBuys.length}  🟢 Buy: ${buys.length}  🟡 Neutral: ${neutrals.length}  🔴 Sell: ${sells.length}`,\n  ``,\n  `🚀 TOP MOMENTUM (Strong Buy)`,\n  ...strongBuys.slice(0,5).map(r => `  ✅ ${fmt(r)}`),\n  ...buys.slice(0,3).map(r => `  🟢 ${fmt(r)}`),\n  ``,\n  `⚠️  STOCKS TO AVOID / WATCH FOR SHORTS`,\n  ...sells.slice(0,5).map(r => `  🔴 ${fmt(r)}`),\n  ``,\n  `📋 ALL RESULTS`,\n  ...valid.map(r => `  ${r.signal.padEnd(12)} ${fmt(r)}`),\n  ``,\n  `Generated by Equity Research Assistant`,\n];\n\nreturn [{ json: {\n  report_text: lines.join('\\n'),\n  summary: {\n    date: new Date().toISOString().split('T')[0],\n    total: results.length,\n    strong_buys: strongBuys.length,\n    buys: buys.length,\n    neutrals: neutrals.length,\n    sells: sells.length,\n  },\n  top_picks:    strongBuys.concat(buys).slice(0,5),\n  avoid_list:   sells.slice(0,5),\n  all_results:  valid,\n}}];"
+      },
+      "name": "📋 Generate Daily Report",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1300, 380],
+      "id": "node_report"
+    },
+    {
+      "parameters": {
+        "authentication": "predefinedCredentialType",
+        "resource": "message",
+        "operation": "sendMessage",
+        "chatId": "={{$env.TELEGRAM_CHAT_ID}}",
+        "text": "={{$json.report_text}}",
+        "additionalFields": { "parse_mode": "Markdown" }
+      },
+      "name": "📱 Send Telegram Alert",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1,
+      "position": [1520, 300],
+      "id": "node_telegram",
+      "credentials": { "telegramApi": { "id": "YOUR_TELEGRAM_CRED_ID", "name": "Telegram Bot" } }
+    },
+    {
+      "parameters": {
+        "operation": "appendOrUpdate",
+        "documentId": { "value": "={{$env.GOOGLE_SHEET_ID}}" },
+        "sheetName": { "value": "DailyReports" },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {}
+        }
+      },
+      "name": "📊 Save to Google Sheets",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [1520, 460],
+      "id": "node_sheets"
+    },
+    {
+      "parameters": {
+        "url": "={{$env.WEBHOOK_URL}}",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            { "name": "report", "value": "={{JSON.stringify($json)}}" }
+          ]
+        }
+      },
+      "name": "🌐 Send to Dashboard (Webhook)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1520, 540],
+      "id": "node_webhook",
+      "notes": "Optional: POST results to your self-hosted dashboard"
+    }
+  ],
+  "connections": {
+    "⏰ Daily Trigger (6PM Weekdays)": {
+      "main": [[{ "node": "📂 Read Stock Pool (File)", "type": "main", "index": 0 }]]
+    },
+    "📂 Read Stock Pool (File)": {
+      "main": [[{ "node": "🔧 Parse Ticker List", "type": "main", "index": 0 }]]
+    },
+    "🔧 Parse Ticker List": {
+      "main": [[
+        { "node": "🌐 Fetch Yahoo Finance OHLCV", "type": "main", "index": 0 },
+        { "node": "📰 Fetch News Headlines", "type": "main", "index": 0 }
+      ]]
+    },
+    "🌐 Fetch Yahoo Finance OHLCV": {
+      "main": [[{ "node": "🔄 Transform OHLCV", "type": "main", "index": 0 }]]
+    },
+    "🔄 Transform OHLCV": {
+      "main": [[{ "node": "📊 Compute Indicators (JS)", "type": "main", "index": 0 }]]
+    },
+    "📰 Fetch News Headlines": {
+      "main": [[{ "node": "😊 Sentiment Scoring", "type": "main", "index": 0 }]]
+    },
+    "📊 Compute Indicators (JS)": {
+      "main": [[{ "node": "🔀 Merge Indicators + News", "type": "main", "index": 0 }]]
+    },
+    "😊 Sentiment Scoring": {
+      "main": [[{ "node": "🔀 Merge Indicators + News", "type": "main", "index": 1 }]]
+    },
+    "🔀 Merge Indicators + News": {
+      "main": [[{ "node": "📋 Generate Daily Report", "type": "main", "index": 0 }]]
+    },
+    "📋 Generate Daily Report": {
+      "main": [[
+        { "node": "📱 Send Telegram Alert", "type": "main", "index": 0 },
+        { "node": "📊 Save to Google Sheets", "type": "main", "index": 0 },
+        { "node": "🌐 Send to Dashboard (Webhook)", "type": "main", "index": 0 }
+      ]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "meta": {
+    "description": "Daily equity research assistant. Fetches OHLCV from Yahoo Finance, computes 25+ indicators, scores stocks, fetches news sentiment, and sends a daily briefing via Telegram.",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,43 @@
+# ══════════════════════════════════════════════════════
+# STOCK POOL — Equity Research Assistant
+# One ticker per line. Lines starting with # are ignored.
+# 
+# Indian Stocks: Add .NS (NSE) or .BO (BSE) suffix
+# US Stocks: Use plain ticker (AAPL, MSFT etc.)
+# ══════════════════════════════════════════════════════
+
+# ── NIFTY 50 Blue Chips ────────────────────────────
+RELIANCE.NS
+TCS.NS
+HDFCBANK.NS
+INFY.NS
+ICICIBANK.NS
+HINDUNILVR.NS
+BAJFINANCE.NS
+SBIBANK.NS
+MARUTI.NS
+TATAMOTORS.NS
+
+# ── Mid Cap ────────────────────────────────────────
+ADANIENT.NS
+WIPRO.NS
+LTIM.NS
+HCLTECH.NS
+TECHM.NS
+APOLLOHOSP.NS
+DIVISLAB.NS
+TORNTPHARM.NS
+
+# ── Smallcap/High Momentum ─────────────────────────
+IRFC.NS
+IRCTC.NS
+ZOMATO.NS
+POLICYBZR.NS
+PAYTM.NS
+
+# ── US Stocks (optional) ──────────────────────────
+# AAPL
+# MSFT
+# NVDA
+# GOOGL
+# AMZN
