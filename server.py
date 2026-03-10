@@ -28,7 +28,7 @@ def get_latest_report():
         # Search in reports/ folder
         files = [f for f in os.listdir(REPORTS_DIR) if f.endswith(".json")]
         
-        # Fallback: check root folder if reports/ is empty
+        # Fallback: check root folder
         if not files:
             files = [f for f in os.listdir(BASE_DIR) if f.startswith("analysis_") and f.endswith(".json")]
             search_dir = BASE_DIR
@@ -43,8 +43,12 @@ def get_latest_report():
                 "summary": {"strong_buys":0,"buys":0,"neutrals":0,"sells":0}
             }), 200
         
-        # Sort by filename
-        latest_file = sorted(files, reverse=True)[0]
+        # Prioritize 'enriched' files if multiple exist for the same period
+        enriched_files = [f for f in files if "_enriched.json" in f]
+        if enriched_files:
+            latest_file = sorted(enriched_files, reverse=True)[0]
+        else:
+            latest_file = sorted(files, reverse=True)[0]
         
         with open(os.path.join(search_dir, latest_file), "r") as f:
             data = json.load(f)

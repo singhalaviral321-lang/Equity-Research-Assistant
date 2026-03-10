@@ -1,0 +1,415 @@
+{
+  "date": "2026-03-10",
+  "time": "15:50",
+  "total_stocks": 2,
+  "summary": {
+    "strong_buys": 1,
+    "buys": 0,
+    "neutrals": 1,
+    "sells": 0,
+    "errors": 0
+  },
+  "top_momentum": [
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": 1408.8,
+      "change_1d": -1.07,
+      "change_1w": 3.74,
+      "change_1m": -2.89,
+      "signal": "STRONG BUY",
+      "composite_score": 72.4,
+      "scores": {
+        "technical": 67.0,
+        "volume": 80.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 47.3,
+        "rsi_signal": "neutral",
+        "macd_crossover": "strengthening",
+        "adx": 36.4,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.26,
+        "obv_trend": "rising",
+        "bb_position": 44.4,
+        "stoch_k": 74.9,
+        "cmf": 0.108,
+        "mfi": 48.2
+      },
+      "price_levels": {
+        "sma_50": 1443.75,
+        "sma_200": null,
+        "ema_21": 1411.62,
+        "bb_upper": 1476.13,
+        "bb_lower": 1355.07,
+        "pivot": 1407.8,
+        "r1": 1445.6,
+        "r2": 1467.2,
+        "s1": 1386.2,
+        "s2": 1348.4,
+        "pct_from_52w_high": -11.52
+      },
+      "fundamentals": {
+        "pe": 22.89987,
+        "pb": 2.1736717,
+        "dividend_yield": 0.39,
+        "analyst_target": 1719.0555,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 19064548229120
+      },
+      "news": {
+        "ticker": "RELIANCE.NS",
+        "headlines": [
+          "Reliance Industries Limited (NSE:RELIANCE) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future? - simplywall.st",
+          "Reliance Industries Executives to Participate in JP Morgan India Forum in Singapore - scanx.trade",
+          "Reliance Industries' share price tumbles 5% a day after hitting all-time high; what you need to know - Upstox",
+          "Gong cha takes control of 170 US bubble tea outlets in US",
+          "Mineros to acquire Colombian gold exploration project",
+          "Everest Medicines to Announce 2025 Full-Year Financial Results on March 26, 2026"
+        ],
+        "sources": [
+          "Verdict Food Service",
+          "PR Newswire",
+          "Google News",
+          "Mining Technology"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Reliance Industries Limited (NSE:RELIANCE) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future? - simplywall.st. Reliance Industries Executives to Participate in JP Morgan India Forum in Singapore - scanx.trade. Reliance Industries' share price tumbles 5% a day after hitting all-time high; what you need to know - Upstox",
+        "fetched_at": "2026-03-10T15:50:48.255513"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T15:50:47.528167",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": 2513.1,
+      "change_1d": -0.57,
+      "change_1w": -3.84,
+      "change_1m": -14.57,
+      "signal": "NEUTRAL",
+      "composite_score": 49.9,
+      "scores": {
+        "technical": 47.0,
+        "volume": 20.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 22.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 51.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.95,
+        "obv_trend": "falling",
+        "bb_position": 16.6,
+        "stoch_k": 8.9,
+        "cmf": -0.233,
+        "mfi": 27.9
+      },
+      "price_levels": {
+        "sma_50": 2952.37,
+        "sma_200": null,
+        "ema_21": 2691.29,
+        "bb_upper": 2900.37,
+        "bb_lower": 2435.86,
+        "pivot": 2530.8,
+        "r1": 2556.6,
+        "r2": 2585.8,
+        "s1": 2501.6,
+        "s2": 2475.8,
+        "pct_from_52w_high": -23.04
+      },
+      "fundamentals": {
+        "pe": 19.04874,
+        "pb": 8.0104685,
+        "dividend_yield": 2.49,
+        "analyst_target": 3481.2727,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 9092615634944
+      },
+      "news": {
+        "ticker": "TCS.NS",
+        "headlines": [
+          "TCS.NS Tata Consultancy Services NSE \u20b92,525.70 intraday 09-03-2026: AI wins - Meyka",
+          "Tata Consultancy Services Ltd drops for fifth straight session - Business Standard",
+          "Tata Consultancy Services Limited's (NSE:TCS) Share Price Could Signal Some Risk - simplywall.st",
+          "Esperion Therapeutics Swings to Q4 Earnings, Revenue Rises",
+          "Gong cha takes control of 170 US bubble tea outlets in US",
+          "Mineros to acquire Colombian gold exploration project",
+          "TCS Share Price Live Updates: TCS Stock Price History "
+        ],
+        "sources": [
+          "Verdict Food Service",
+          "Google News",
+          "Mining Technology",
+          "Economic Times",
+          "MT Newswires"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ]
+        },
+        "news_summary": "TCS.NS Tata Consultancy Services NSE \u20b92,525.70 intraday 09-03-2026: AI wins - Meyka. Tata Consultancy Services Ltd drops for fifth straight session - Business Standard. Tata Consultancy Services Limited's (NSE:TCS) Share Price Could Signal Some Risk - simplywall.st",
+        "fetched_at": "2026-03-10T15:50:57.316550"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T15:50:48.252388",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "watchlist": [],
+  "avoid": [],
+  "all_results": [
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": 1408.8,
+      "change_1d": -1.07,
+      "change_1w": 3.74,
+      "change_1m": -2.89,
+      "signal": "STRONG BUY",
+      "composite_score": 72.4,
+      "scores": {
+        "technical": 67.0,
+        "volume": 80.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 47.3,
+        "rsi_signal": "neutral",
+        "macd_crossover": "strengthening",
+        "adx": 36.4,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.26,
+        "obv_trend": "rising",
+        "bb_position": 44.4,
+        "stoch_k": 74.9,
+        "cmf": 0.108,
+        "mfi": 48.2
+      },
+      "price_levels": {
+        "sma_50": 1443.75,
+        "sma_200": null,
+        "ema_21": 1411.62,
+        "bb_upper": 1476.13,
+        "bb_lower": 1355.07,
+        "pivot": 1407.8,
+        "r1": 1445.6,
+        "r2": 1467.2,
+        "s1": 1386.2,
+        "s2": 1348.4,
+        "pct_from_52w_high": -11.52
+      },
+      "fundamentals": {
+        "pe": 22.89987,
+        "pb": 2.1736717,
+        "dividend_yield": 0.39,
+        "analyst_target": 1719.0555,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 19064548229120
+      },
+      "news": {
+        "ticker": "RELIANCE.NS",
+        "headlines": [
+          "Reliance Industries Limited (NSE:RELIANCE) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future? - simplywall.st",
+          "Reliance Industries Executives to Participate in JP Morgan India Forum in Singapore - scanx.trade",
+          "Reliance Industries' share price tumbles 5% a day after hitting all-time high; what you need to know - Upstox",
+          "Gong cha takes control of 170 US bubble tea outlets in US",
+          "Mineros to acquire Colombian gold exploration project",
+          "Everest Medicines to Announce 2025 Full-Year Financial Results on March 26, 2026"
+        ],
+        "sources": [
+          "Verdict Food Service",
+          "PR Newswire",
+          "Google News",
+          "Mining Technology"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Reliance Industries Limited (NSE:RELIANCE) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future? - simplywall.st. Reliance Industries Executives to Participate in JP Morgan India Forum in Singapore - scanx.trade. Reliance Industries' share price tumbles 5% a day after hitting all-time high; what you need to know - Upstox",
+        "fetched_at": "2026-03-10T15:50:48.255513"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T15:50:47.528167",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": 2513.1,
+      "change_1d": -0.57,
+      "change_1w": -3.84,
+      "change_1m": -14.57,
+      "signal": "NEUTRAL",
+      "composite_score": 49.9,
+      "scores": {
+        "technical": 47.0,
+        "volume": 20.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 22.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 51.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.95,
+        "obv_trend": "falling",
+        "bb_position": 16.6,
+        "stoch_k": 8.9,
+        "cmf": -0.233,
+        "mfi": 27.9
+      },
+      "price_levels": {
+        "sma_50": 2952.37,
+        "sma_200": null,
+        "ema_21": 2691.29,
+        "bb_upper": 2900.37,
+        "bb_lower": 2435.86,
+        "pivot": 2530.8,
+        "r1": 2556.6,
+        "r2": 2585.8,
+        "s1": 2501.6,
+        "s2": 2475.8,
+        "pct_from_52w_high": -23.04
+      },
+      "fundamentals": {
+        "pe": 19.04874,
+        "pb": 8.0104685,
+        "dividend_yield": 2.49,
+        "analyst_target": 3481.2727,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 9092615634944
+      },
+      "news": {
+        "ticker": "TCS.NS",
+        "headlines": [
+          "TCS.NS Tata Consultancy Services NSE \u20b92,525.70 intraday 09-03-2026: AI wins - Meyka",
+          "Tata Consultancy Services Ltd drops for fifth straight session - Business Standard",
+          "Tata Consultancy Services Limited's (NSE:TCS) Share Price Could Signal Some Risk - simplywall.st",
+          "Esperion Therapeutics Swings to Q4 Earnings, Revenue Rises",
+          "Gong cha takes control of 170 US bubble tea outlets in US",
+          "Mineros to acquire Colombian gold exploration project",
+          "TCS Share Price Live Updates: TCS Stock Price History "
+        ],
+        "sources": [
+          "Verdict Food Service",
+          "Google News",
+          "Mining Technology",
+          "Economic Times",
+          "MT Newswires"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": [
+            "drop"
+          ]
+        },
+        "news_summary": "TCS.NS Tata Consultancy Services NSE \u20b92,525.70 intraday 09-03-2026: AI wins - Meyka. Tata Consultancy Services Ltd drops for fifth straight session - Business Standard. Tata Consultancy Services Limited's (NSE:TCS) Share Price Could Signal Some Risk - simplywall.st",
+        "fetched_at": "2026-03-10T15:50:57.316550"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T15:50:48.252388",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "errors": []
+}

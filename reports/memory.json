@@ -1,0 +1,30 @@
+{
+  "RELIANCE.NS": {
+    "history": [
+      {
+        "date": "2026-03-10",
+        "score": 72.4,
+        "signal": "STRONG BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 1408.8,
+        "rsi": 47.3,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  },
+  "TCS.NS": {
+    "history": [
+      {
+        "date": "2026-03-10",
+        "score": 49.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 2513.1,
+        "rsi": 22.3,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      }
+    ]
+  }
+}
