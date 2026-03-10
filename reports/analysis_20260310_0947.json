@@ -1,0 +1,1996 @@
+{
+  "date": "2026-03-10",
+  "time": "09:47",
+  "total_stocks": 19,
+  "summary": {
+    "strong_buys": 1,
+    "buys": 4,
+    "neutrals": 11,
+    "sells": 1,
+    "errors": 2
+  },
+  "top_momentum": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "name": "Apollo Hospitals Enterprise Limited",
+      "sector": "Healthcare",
+      "price": 7803.0,
+      "change_1d": 0.31,
+      "change_1w": 0.15,
+      "change_1m": 9.24,
+      "signal": "STRONG BUY",
+      "composite_score": 76.2,
+      "scores": {
+        "technical": 91.0,
+        "volume": 82.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": 63.6,
+        "rsi_signal": "bullish",
+        "macd_crossover": "weakening",
+        "adx": 59.7,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.76,
+        "obv_trend": "rising",
+        "bb_position": 74.8,
+        "stoch_k": 82.9,
+        "cmf": 0.339,
+        "mfi": 61.1
+      },
+      "price_levels": {
+        "sma_50": 7312.78,
+        "sma_200": null,
+        "ema_21": 7615.07,
+        "bb_upper": 7950.15,
+        "bb_lower": 7367.35,
+        "pivot": 7714.67,
+        "r1": 7873.33,
+        "r2": 7967.67,
+        "s1": 7620.33,
+        "s2": 7461.67,
+        "pct_from_52w_high": -2.48
+      },
+      "fundamentals": {
+        "pe": 62.300385,
+        "pb": 12.336885,
+        "dividend_yield": 0.26,
+        "analyst_target": 8771.5,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1121879719936
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "RSI at 63.6 \u2014 healthy momentum zone",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Within 2.5% of 52-week high \u2014 price strength"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-03-10T09:47:17.898192"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": 1409.8,
+      "change_1d": -1.0,
+      "change_1w": 3.81,
+      "change_1m": -2.83,
+      "signal": "BUY",
+      "composite_score": 70.4,
+      "scores": {
+        "technical": 67.0,
+        "volume": 72.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 47.5,
+        "rsi_signal": "neutral",
+        "macd_crossover": "strengthening",
+        "adx": 36.4,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.18,
+        "obv_trend": "rising",
+        "bb_position": 45.2,
+        "stoch_k": 75.6,
+        "cmf": 0.114,
+        "mfi": 47.9
+      },
+      "price_levels": {
+        "sma_50": 1443.77,
+        "sma_200": null,
+        "ema_21": 1411.71,
+        "bb_upper": 1476.16,
+        "bb_lower": 1355.14,
+        "pivot": 1407.8,
+        "r1": 1445.6,
+        "r2": 1467.2,
+        "s1": 1386.2,
+        "s2": 1348.4,
+        "pct_from_52w_high": -11.46
+      },
+      "fundamentals": {
+        "pe": 22.916126,
+        "pb": 2.1752145,
+        "dividend_yield": 0.39,
+        "analyst_target": 1719.0555,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 19078081150976
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:10.241078"
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "name": "Divi's Laboratories Limited",
+      "sector": "Healthcare",
+      "price": 6371.5,
+      "change_1d": 0.66,
+      "change_1w": -0.5,
+      "change_1m": 5.76,
+      "signal": "BUY",
+      "composite_score": 70.0,
+      "scores": {
+        "technical": 83.0,
+        "volume": 72.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": 63.9,
+        "rsi_signal": "bullish",
+        "macd_crossover": "weakening",
+        "adx": 52.7,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.72,
+        "obv_trend": "rising",
+        "bb_position": 68.3,
+        "stoch_k": 51.7,
+        "cmf": -0.034,
+        "mfi": 55.7
+      },
+      "price_levels": {
+        "sma_50": 6275.15,
+        "sma_200": null,
+        "ema_21": 6305.78,
+        "bb_upper": 6489.18,
+        "bb_lower": 6117.42,
+        "pivot": 6289.17,
+        "r1": 6404.83,
+        "r2": 6479.67,
+        "s1": 6214.33,
+        "s2": 6098.67,
+        "pct_from_52w_high": -7.44
+      },
+      "fundamentals": {
+        "pe": 68.01345,
+        "pb": 10.967342,
+        "dividend_yield": 0.47,
+        "analyst_target": 6875.3335,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 1691433041920
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "RSI at 63.9 \u2014 healthy momentum zone",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-03-10T09:47:18.558992"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "name": "Wipro Limited",
+      "sector": "Technology",
+      "price": 201.1,
+      "change_1d": 1.18,
+      "change_1w": 1.27,
+      "change_1m": -12.84,
+      "signal": "BUY",
+      "composite_score": 60.0,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 25.5,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 61.0,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.64,
+        "obv_trend": "rising",
+        "bb_position": 34.9,
+        "stoch_k": 34.5,
+        "cmf": -0.195,
+        "mfi": 31.3
+      },
+      "price_levels": {
+        "sma_50": 231.07,
+        "sma_200": null,
+        "ema_21": 208.59,
+        "bb_upper": 229.03,
+        "bb_lower": 186.11,
+        "pivot": 197.09,
+        "r1": 201.16,
+        "r2": 203.56,
+        "s1": 194.69,
+        "s2": 190.62,
+        "pct_from_52w_high": -24.34
+      },
+      "fundamentals": {
+        "pe": 15.935024,
+        "pb": 2.34897,
+        "dividend_yield": 8.55,
+        "analyst_target": 254.07143,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 2106824851456
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:15.403353"
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "name": "HCL Technologies Limited",
+      "sector": "Technology",
+      "price": 1361.4,
+      "change_1d": 0.21,
+      "change_1w": -0.7,
+      "change_1m": -14.58,
+      "signal": "BUY",
+      "composite_score": 58.5,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 25.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 53.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.42,
+        "obv_trend": "rising",
+        "bb_position": 27.8,
+        "stoch_k": 21.7,
+        "cmf": -0.234,
+        "mfi": 45.8
+      },
+      "price_levels": {
+        "sma_50": 1562.31,
+        "sma_200": null,
+        "ema_21": 1432.21,
+        "bb_upper": 1556.44,
+        "bb_lower": 1286.21,
+        "pivot": 1353.1,
+        "r1": 1378.2,
+        "r2": 1397.8,
+        "s1": 1333.5,
+        "s2": 1308.4,
+        "pct_from_52w_high": -21.29
+      },
+      "fundamentals": {
+        "pe": 22.417257,
+        "pb": 4.9392757,
+        "dividend_yield": 3.97,
+        "analyst_target": 1711.1464,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 3683475259392
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:16.913755"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": 1409.8,
+      "change_1d": -1.0,
+      "change_1w": 3.81,
+      "change_1m": -2.83,
+      "signal": "BUY",
+      "composite_score": 70.4,
+      "scores": {
+        "technical": 67.0,
+        "volume": 72.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 47.5,
+        "rsi_signal": "neutral",
+        "macd_crossover": "strengthening",
+        "adx": 36.4,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.18,
+        "obv_trend": "rising",
+        "bb_position": 45.2,
+        "stoch_k": 75.6,
+        "cmf": 0.114,
+        "mfi": 47.9
+      },
+      "price_levels": {
+        "sma_50": 1443.77,
+        "sma_200": null,
+        "ema_21": 1411.71,
+        "bb_upper": 1476.16,
+        "bb_lower": 1355.14,
+        "pivot": 1407.8,
+        "r1": 1445.6,
+        "r2": 1467.2,
+        "s1": 1386.2,
+        "s2": 1348.4,
+        "pct_from_52w_high": -11.46
+      },
+      "fundamentals": {
+        "pe": 22.916126,
+        "pb": 2.1752145,
+        "dividend_yield": 0.39,
+        "analyst_target": 1719.0555,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 19078081150976
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:10.241078"
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "name": "Divi's Laboratories Limited",
+      "sector": "Healthcare",
+      "price": 6371.5,
+      "change_1d": 0.66,
+      "change_1w": -0.5,
+      "change_1m": 5.76,
+      "signal": "BUY",
+      "composite_score": 70.0,
+      "scores": {
+        "technical": 83.0,
+        "volume": 72.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": 63.9,
+        "rsi_signal": "bullish",
+        "macd_crossover": "weakening",
+        "adx": 52.7,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.72,
+        "obv_trend": "rising",
+        "bb_position": 68.3,
+        "stoch_k": 51.7,
+        "cmf": -0.034,
+        "mfi": 55.7
+      },
+      "price_levels": {
+        "sma_50": 6275.15,
+        "sma_200": null,
+        "ema_21": 6305.78,
+        "bb_upper": 6489.18,
+        "bb_lower": 6117.42,
+        "pivot": 6289.17,
+        "r1": 6404.83,
+        "r2": 6479.67,
+        "s1": 6214.33,
+        "s2": 6098.67,
+        "pct_from_52w_high": -7.44
+      },
+      "fundamentals": {
+        "pe": 68.01345,
+        "pb": 10.967342,
+        "dividend_yield": 0.47,
+        "analyst_target": 6875.3335,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 1691433041920
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "RSI at 63.9 \u2014 healthy momentum zone",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-03-10T09:47:18.558992"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "name": "Wipro Limited",
+      "sector": "Technology",
+      "price": 201.1,
+      "change_1d": 1.18,
+      "change_1w": 1.27,
+      "change_1m": -12.84,
+      "signal": "BUY",
+      "composite_score": 60.0,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 25.5,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 61.0,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.64,
+        "obv_trend": "rising",
+        "bb_position": 34.9,
+        "stoch_k": 34.5,
+        "cmf": -0.195,
+        "mfi": 31.3
+      },
+      "price_levels": {
+        "sma_50": 231.07,
+        "sma_200": null,
+        "ema_21": 208.59,
+        "bb_upper": 229.03,
+        "bb_lower": 186.11,
+        "pivot": 197.09,
+        "r1": 201.16,
+        "r2": 203.56,
+        "s1": 194.69,
+        "s2": 190.62,
+        "pct_from_52w_high": -24.34
+      },
+      "fundamentals": {
+        "pe": 15.935024,
+        "pb": 2.34897,
+        "dividend_yield": 8.55,
+        "analyst_target": 254.07143,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 2106824851456
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:15.403353"
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "name": "HCL Technologies Limited",
+      "sector": "Technology",
+      "price": 1361.4,
+      "change_1d": 0.21,
+      "change_1w": -0.7,
+      "change_1m": -14.58,
+      "signal": "BUY",
+      "composite_score": 58.5,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 25.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 53.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.42,
+        "obv_trend": "rising",
+        "bb_position": 27.8,
+        "stoch_k": 21.7,
+        "cmf": -0.234,
+        "mfi": 45.8
+      },
+      "price_levels": {
+        "sma_50": 1562.31,
+        "sma_200": null,
+        "ema_21": 1432.21,
+        "bb_upper": 1556.44,
+        "bb_lower": 1286.21,
+        "pivot": 1353.1,
+        "r1": 1378.2,
+        "r2": 1397.8,
+        "s1": 1333.5,
+        "s2": 1308.4,
+        "pct_from_52w_high": -21.29
+      },
+      "fundamentals": {
+        "pe": 22.417257,
+        "pb": 4.9392757,
+        "dividend_yield": 3.97,
+        "analyst_target": 1711.1464,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 3683475259392
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:16.913755"
+    }
+  ],
+  "avoid": [
+    {
+      "ticker": "LTIM.NS",
+      "name": "LTIMindtree Ltd",
+      "sector": "Technology",
+      "price": 4317.2,
+      "change_1d": 0.59,
+      "change_1w": -3.25,
+      "change_1m": -24.04,
+      "signal": "SELL",
+      "composite_score": 39.8,
+      "scores": {
+        "technical": 39.0,
+        "volume": 20.0,
+        "event": 50.0,
+        "fundamental": 65.0
+      },
+      "key_indicators": {
+        "rsi": 12.2,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 74.5,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.76,
+        "obv_trend": "falling",
+        "bb_position": 21.2,
+        "stoch_k": 11.7,
+        "cmf": -0.287,
+        "mfi": 7.9
+      },
+      "price_levels": {
+        "sma_50": 5537.46,
+        "sma_200": null,
+        "ema_21": 4820.37,
+        "bb_upper": 5753.91,
+        "bb_lower": 3930.47,
+        "pivot": 4314.1,
+        "r1": 4366.2,
+        "r2": 4440.4,
+        "s1": 4239.9,
+        "s2": 4187.8,
+        "pct_from_52w_high": -32.62
+      },
+      "fundamentals": {
+        "pe": 28.09031,
+        "pb": 5.636277,
+        "dividend_yield": 0.0149,
+        "analyst_target": 6310.8,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 1335159685120
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:15.979742"
+    }
+  ],
+  "all_results": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "name": "Apollo Hospitals Enterprise Limited",
+      "sector": "Healthcare",
+      "price": 7803.0,
+      "change_1d": 0.31,
+      "change_1w": 0.15,
+      "change_1m": 9.24,
+      "signal": "STRONG BUY",
+      "composite_score": 76.2,
+      "scores": {
+        "technical": 91.0,
+        "volume": 82.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": 63.6,
+        "rsi_signal": "bullish",
+        "macd_crossover": "weakening",
+        "adx": 59.7,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.76,
+        "obv_trend": "rising",
+        "bb_position": 74.8,
+        "stoch_k": 82.9,
+        "cmf": 0.339,
+        "mfi": 61.1
+      },
+      "price_levels": {
+        "sma_50": 7312.78,
+        "sma_200": null,
+        "ema_21": 7615.07,
+        "bb_upper": 7950.15,
+        "bb_lower": 7367.35,
+        "pivot": 7714.67,
+        "r1": 7873.33,
+        "r2": 7967.67,
+        "s1": 7620.33,
+        "s2": 7461.67,
+        "pct_from_52w_high": -2.48
+      },
+      "fundamentals": {
+        "pe": 62.300385,
+        "pb": 12.336885,
+        "dividend_yield": 0.26,
+        "analyst_target": 8771.5,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1121879719936
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "RSI at 63.6 \u2014 healthy momentum zone",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Within 2.5% of 52-week high \u2014 price strength"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-03-10T09:47:17.898192"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": 1409.8,
+      "change_1d": -1.0,
+      "change_1w": 3.81,
+      "change_1m": -2.83,
+      "signal": "BUY",
+      "composite_score": 70.4,
+      "scores": {
+        "technical": 67.0,
+        "volume": 72.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 47.5,
+        "rsi_signal": "neutral",
+        "macd_crossover": "strengthening",
+        "adx": 36.4,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.18,
+        "obv_trend": "rising",
+        "bb_position": 45.2,
+        "stoch_k": 75.6,
+        "cmf": 0.114,
+        "mfi": 47.9
+      },
+      "price_levels": {
+        "sma_50": 1443.77,
+        "sma_200": null,
+        "ema_21": 1411.71,
+        "bb_upper": 1476.16,
+        "bb_lower": 1355.14,
+        "pivot": 1407.8,
+        "r1": 1445.6,
+        "r2": 1467.2,
+        "s1": 1386.2,
+        "s2": 1348.4,
+        "pct_from_52w_high": -11.46
+      },
+      "fundamentals": {
+        "pe": 22.916126,
+        "pb": 2.1752145,
+        "dividend_yield": 0.39,
+        "analyst_target": 1719.0555,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 19078081150976
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:10.241078"
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "name": "Divi's Laboratories Limited",
+      "sector": "Healthcare",
+      "price": 6371.5,
+      "change_1d": 0.66,
+      "change_1w": -0.5,
+      "change_1m": 5.76,
+      "signal": "BUY",
+      "composite_score": 70.0,
+      "scores": {
+        "technical": 83.0,
+        "volume": 72.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": 63.9,
+        "rsi_signal": "bullish",
+        "macd_crossover": "weakening",
+        "adx": 52.7,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.72,
+        "obv_trend": "rising",
+        "bb_position": 68.3,
+        "stoch_k": 51.7,
+        "cmf": -0.034,
+        "mfi": 55.7
+      },
+      "price_levels": {
+        "sma_50": 6275.15,
+        "sma_200": null,
+        "ema_21": 6305.78,
+        "bb_upper": 6489.18,
+        "bb_lower": 6117.42,
+        "pivot": 6289.17,
+        "r1": 6404.83,
+        "r2": 6479.67,
+        "s1": 6214.33,
+        "s2": 6098.67,
+        "pct_from_52w_high": -7.44
+      },
+      "fundamentals": {
+        "pe": 68.01345,
+        "pb": 10.967342,
+        "dividend_yield": 0.47,
+        "analyst_target": 6875.3335,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 1691433041920
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "RSI at 63.9 \u2014 healthy momentum zone",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-03-10T09:47:18.558992"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "name": "Wipro Limited",
+      "sector": "Technology",
+      "price": 201.1,
+      "change_1d": 1.18,
+      "change_1w": 1.27,
+      "change_1m": -12.84,
+      "signal": "BUY",
+      "composite_score": 60.0,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 25.5,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 61.0,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.64,
+        "obv_trend": "rising",
+        "bb_position": 34.9,
+        "stoch_k": 34.5,
+        "cmf": -0.195,
+        "mfi": 31.3
+      },
+      "price_levels": {
+        "sma_50": 231.07,
+        "sma_200": null,
+        "ema_21": 208.59,
+        "bb_upper": 229.03,
+        "bb_lower": 186.11,
+        "pivot": 197.09,
+        "r1": 201.16,
+        "r2": 203.56,
+        "s1": 194.69,
+        "s2": 190.62,
+        "pct_from_52w_high": -24.34
+      },
+      "fundamentals": {
+        "pe": 15.935024,
+        "pb": 2.34897,
+        "dividend_yield": 8.55,
+        "analyst_target": 254.07143,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 2106824851456
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:15.403353"
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "name": "HCL Technologies Limited",
+      "sector": "Technology",
+      "price": 1361.4,
+      "change_1d": 0.21,
+      "change_1w": -0.7,
+      "change_1m": -14.58,
+      "signal": "BUY",
+      "composite_score": 58.5,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 25.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 53.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.42,
+        "obv_trend": "rising",
+        "bb_position": 27.8,
+        "stoch_k": 21.7,
+        "cmf": -0.234,
+        "mfi": 45.8
+      },
+      "price_levels": {
+        "sma_50": 1562.31,
+        "sma_200": null,
+        "ema_21": 1432.21,
+        "bb_upper": 1556.44,
+        "bb_lower": 1286.21,
+        "pivot": 1353.1,
+        "r1": 1378.2,
+        "r2": 1397.8,
+        "s1": 1333.5,
+        "s2": 1308.4,
+        "pct_from_52w_high": -21.29
+      },
+      "fundamentals": {
+        "pe": 22.417257,
+        "pb": 4.9392757,
+        "dividend_yield": 3.97,
+        "analyst_target": 1711.1464,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 3683475259392
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:16.913755"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "name": "HDFC Bank Limited",
+      "sector": "Financial Services",
+      "price": 850.15,
+      "change_1d": 1.12,
+      "change_1w": -3.33,
+      "change_1m": -9.66,
+      "signal": "NEUTRAL",
+      "composite_score": 56.1,
+      "scores": {
+        "technical": 42.0,
+        "volume": 60.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 22.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 60.5,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.61,
+        "obv_trend": "rising",
+        "bb_position": 6.4,
+        "stoch_k": 26.6,
+        "cmf": -0.162,
+        "mfi": 23.3
+      },
+      "price_levels": {
+        "sma_50": 927.65,
+        "sma_200": null,
+        "ema_21": 893.84,
+        "bb_upper": 955.97,
+        "bb_lower": 842.97,
+        "pivot": 834.88,
+        "r1": 848.27,
+        "r2": 855.83,
+        "s1": 827.32,
+        "s2": 813.93,
+        "pct_from_52w_high": -15.79
+      },
+      "fundamentals": {
+        "pe": 18.972328,
+        "pb": 2.3149586,
+        "dividend_yield": 1.31,
+        "analyst_target": 1152.8158,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 13084049539072
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Volume 1.61x average \u2014 breakout conviction",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:11.238456"
+    },
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys Limited",
+      "sector": "Technology",
+      "price": 1296.4,
+      "change_1d": -1.41,
+      "change_1w": 0.58,
+      "change_1m": -13.98,
+      "signal": "NEUTRAL",
+      "composite_score": 52.9,
+      "scores": {
+        "technical": 47.0,
+        "volume": 32.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 26.5,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 46.1,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.54,
+        "obv_trend": "falling",
+        "bb_position": 30.3,
+        "stoch_k": 23.4,
+        "cmf": -0.15,
+        "mfi": 38.7
+      },
+      "price_levels": {
+        "sma_50": 1510.57,
+        "sma_200": null,
+        "ema_21": 1363.83,
+        "bb_upper": 1465.37,
+        "bb_lower": 1222.95,
+        "pivot": 1305.17,
+        "r1": 1327.83,
+        "r2": 1340.67,
+        "s1": 1292.33,
+        "s2": 1269.67,
+        "pct_from_52w_high": -23.28
+      },
+      "fundamentals": {
+        "pe": 18.322262,
+        "pb": 6.1787276,
+        "dividend_yield": 3.42,
+        "analyst_target": 1730.4147,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 5245357260800
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:11.743224"
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "name": "ICICI Bank Limited",
+      "sector": "Financial Services",
+      "price": 1313.4,
+      "change_1d": 2.74,
+      "change_1w": -4.41,
+      "change_1m": -6.59,
+      "signal": "NEUTRAL",
+      "composite_score": 51.6,
+      "scores": {
+        "technical": 42.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 98.0
+      },
+      "key_indicators": {
+        "rsi": 29.3,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 41.0,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.18,
+        "obv_trend": "falling",
+        "bb_position": 6.3,
+        "stoch_k": 38.6,
+        "cmf": 0.097,
+        "mfi": 41.7
+      },
+      "price_levels": {
+        "sma_50": 1382.4,
+        "sma_200": null,
+        "ema_21": 1366.33,
+        "bb_upper": 1460.37,
+        "bb_lower": 1303.48,
+        "pivot": 1270.73,
+        "r1": 1290.37,
+        "r2": 1302.33,
+        "s1": 1258.77,
+        "s2": 1239.13,
+        "pct_from_52w_high": -8.6
+      },
+      "fundamentals": {
+        "pe": 17.930376,
+        "pb": 2.6934025,
+        "dividend_yield": 0.86,
+        "analyst_target": 1708.4615,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 9400493277184
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:12.281000"
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "price": 13856.0,
+      "change_1d": 2.58,
+      "change_1w": -3.7,
+      "change_1m": -7.61,
+      "signal": "NEUTRAL",
+      "composite_score": 50.9,
+      "scores": {
+        "technical": 42.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": 30.8,
+        "rsi_signal": "bearish",
+        "macd_crossover": "strengthening",
+        "adx": 37.9,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.9,
+        "obv_trend": "falling",
+        "bb_position": 5.6,
+        "stoch_k": 25.7,
+        "cmf": 0.056,
+        "mfi": 34.4
+      },
+      "price_levels": {
+        "sma_50": 15454.32,
+        "sma_200": null,
+        "ema_21": 14670.59,
+        "bb_upper": 15865.2,
+        "bb_lower": 13736.5,
+        "pivot": 13557.67,
+        "r1": 13750.33,
+        "r2": 13992.67,
+        "s1": 13315.33,
+        "s2": 13122.67,
+        "pct_from_52w_high": -19.87
+      },
+      "fundamentals": {
+        "pe": 29.141077,
+        "pb": 4.367531,
+        "dividend_yield": 1.0,
+        "analyst_target": 17484.125,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4356361945088
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:13.977837"
+    },
+    {
+      "ticker": "TECHM.NS",
+      "name": "Tech Mahindra Limited",
+      "sector": "Technology",
+      "price": 1336.6,
+      "change_1d": 0.02,
+      "change_1w": -0.65,
+      "change_1m": -17.49,
+      "signal": "NEUTRAL",
+      "composite_score": 50.6,
+      "scores": {
+        "technical": 47.0,
+        "volume": 32.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": 11.2,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 70.3,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.4,
+        "obv_trend": "falling",
+        "bb_position": 26.0,
+        "stoch_k": 14.2,
+        "cmf": -0.276,
+        "mfi": 32.4
+      },
+      "price_levels": {
+        "sma_50": 1565.1,
+        "sma_200": null,
+        "ema_21": 1431.27,
+        "bb_upper": 1644.39,
+        "bb_lower": 1228.58,
+        "pivot": 1326.93,
+        "r1": 1349.77,
+        "r2": 1363.23,
+        "s1": 1313.47,
+        "s2": 1290.63,
+        "pct_from_52w_high": -24.42
+      },
+      "fundamentals": {
+        "pe": 25.644667,
+        "pb": 4.3063064,
+        "dividend_yield": 3.37,
+        "analyst_target": 1716.425,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 1183851216896
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:17.366031"
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": 2516.2,
+      "change_1d": -0.44,
+      "change_1w": -3.72,
+      "change_1m": -14.46,
+      "signal": "NEUTRAL",
+      "composite_score": 49.9,
+      "scores": {
+        "technical": 47.0,
+        "volume": 20.0,
+        "event": 70.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 22.5,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 51.4,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.9,
+        "obv_trend": "falling",
+        "bb_position": 17.2,
+        "stoch_k": 10.1,
+        "cmf": -0.228,
+        "mfi": 28.0
+      },
+      "price_levels": {
+        "sma_50": 2952.43,
+        "sma_200": null,
+        "ema_21": 2691.57,
+        "bb_upper": 2900.09,
+        "bb_lower": 2436.45,
+        "pivot": 2530.8,
+        "r1": 2556.6,
+        "r2": 2585.8,
+        "s1": 2501.6,
+        "s2": 2475.8,
+        "pct_from_52w_high": -22.95
+      },
+      "fundamentals": {
+        "pe": 19.072235,
+        "pb": 8.020349,
+        "dividend_yield": 2.49,
+        "analyst_target": 3481.2727,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 9103831203840
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:10.710553"
+    },
+    {
+      "ticker": "IRFC.NS",
+      "name": "Indian Railway Finance Corporation Limited",
+      "sector": "Financial Services",
+      "price": 100.64,
+      "change_1d": 3.15,
+      "change_1w": 1.31,
+      "change_1m": -12.13,
+      "signal": "NEUTRAL",
+      "composite_score": 49.6,
+      "scores": {
+        "technical": 47.0,
+        "volume": 40.0,
+        "event": 50.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": 24.5,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 58.3,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.74,
+        "obv_trend": "rising",
+        "bb_position": 24.8,
+        "stoch_k": 29.0,
+        "cmf": -0.111,
+        "mfi": 24.7
+      },
+      "price_levels": {
+        "sma_50": 115.22,
+        "sma_200": null,
+        "ema_21": 106.09,
+        "bb_upper": 120.19,
+        "bb_lower": 94.19,
+        "pivot": 96.93,
+        "r1": 98.59,
+        "r2": 99.61,
+        "s1": 95.91,
+        "s2": 94.25,
+        "pct_from_52w_high": -24.69
+      },
+      "fundamentals": {
+        "pe": 18.768656,
+        "pb": 2.3201106,
+        "dividend_yield": 2.72,
+        "analyst_target": 64.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1314946285568
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "OBV rising \u2014 accumulation pattern",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:18.972672"
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "name": "Adani Enterprises Limited",
+      "sector": "Energy",
+      "price": 1996.0,
+      "change_1d": -0.16,
+      "change_1w": -6.05,
+      "change_1m": -10.35,
+      "signal": "NEUTRAL",
+      "composite_score": 46.3,
+      "scores": {
+        "technical": 28.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 88.0
+      },
+      "key_indicators": {
+        "rsi": 21.8,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": 28.4,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.14,
+        "obv_trend": "falling",
+        "bb_position": -1.2,
+        "stoch_k": 17.7,
+        "cmf": 0.111,
+        "mfi": 35.1
+      },
+      "price_levels": {
+        "sma_50": 2151.08,
+        "sma_200": null,
+        "ema_21": 2122.32,
+        "bb_upper": 2308.09,
+        "bb_lower": 1999.58,
+        "pivot": 1981.87,
+        "r1": 2023.33,
+        "r2": 2047.47,
+        "s1": 1957.73,
+        "s2": 1916.27,
+        "pct_from_52w_high": -25.42
+      },
+      "fundamentals": {
+        "pe": 18.053547,
+        "pb": 4.4792533,
+        "dividend_yield": 0.06,
+        "analyst_target": 2870.0,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 2580194000896
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading",
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:20.432525"
+    },
+    {
+      "ticker": "IRCTC.NS",
+      "name": "Indian Railway Catering & Tourism Corporation Limited",
+      "sector": "Consumer Cyclical",
+      "price": 547.7,
+      "change_1d": 1.46,
+      "change_1w": -3.73,
+      "change_1m": -11.17,
+      "signal": "NEUTRAL",
+      "composite_score": 44.6,
+      "scores": {
+        "technical": 47.0,
+        "volume": 20.0,
+        "event": 50.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": 29.4,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 34.0,
+        "trend_strength": "strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.38,
+        "obv_trend": "falling",
+        "bb_position": 12.8,
+        "stoch_k": 10.8,
+        "cmf": -0.217,
+        "mfi": 25.0
+      },
+      "price_levels": {
+        "sma_50": 620.9,
+        "sma_200": null,
+        "ema_21": 588.39,
+        "bb_upper": 664.91,
+        "bb_lower": 530.51,
+        "pivot": 540.33,
+        "r1": 545.47,
+        "r2": 551.13,
+        "s1": 534.67,
+        "s2": 529.53,
+        "pct_from_52w_high": -24.69
+      },
+      "fundamentals": {
+        "pe": 30.752388,
+        "pb": 10.272136,
+        "dividend_yield": 1.76,
+        "analyst_target": 768.5,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 438159998976
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:19.445769"
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "name": "Bajaj Finance Limited",
+      "sector": "Financial Services",
+      "price": 940.35,
+      "change_1d": 0.25,
+      "change_1w": -3.87,
+      "change_1m": -4.21,
+      "signal": "NEUTRAL",
+      "composite_score": 44.5,
+      "scores": {
+        "technical": 33.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": 27.0,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": 46.0,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 1.0,
+        "obv_trend": "falling",
+        "bb_position": 10.4,
+        "stoch_k": 22.9,
+        "cmf": 0.096,
+        "mfi": 38.4
+      },
+      "price_levels": {
+        "sma_50": 971.55,
+        "sma_200": null,
+        "ema_21": 977.52,
+        "bb_upper": 1058.87,
+        "bb_lower": 926.64,
+        "pivot": 929.4,
+        "r1": 949.75,
+        "r2": 961.45,
+        "s1": 917.7,
+        "s2": 897.35,
+        "pct_from_52w_high": -14.06
+      },
+      "fundamentals": {
+        "pe": 32.437046,
+        "pb": 5.6583505,
+        "dividend_yield": 0.47,
+        "analyst_target": 1080.6285,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 5845540667392
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading",
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:13.439629"
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "name": "Hindustan Unilever Limited",
+      "sector": "Consumer Defensive",
+      "price": 2193.9,
+      "change_1d": -0.03,
+      "change_1w": -5.46,
+      "change_1m": -9.5,
+      "signal": "NEUTRAL",
+      "composite_score": 43.0,
+      "scores": {
+        "technical": 28.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 63.0
+      },
+      "key_indicators": {
+        "rsi": 33.0,
+        "rsi_signal": "bearish",
+        "macd_crossover": "weakening",
+        "adx": 41.6,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.53,
+        "obv_trend": "falling",
+        "bb_position": 7.3,
+        "stoch_k": 10.8,
+        "cmf": -0.045,
+        "mfi": 39.7
+      },
+      "price_levels": {
+        "sma_50": 2352.18,
+        "sma_200": null,
+        "ema_21": 2304.66,
+        "bb_upper": 2470.9,
+        "bb_lower": 2172.24,
+        "pivot": 2188.33,
+        "r1": 2206.27,
+        "r2": 2217.93,
+        "s1": 2176.67,
+        "s2": 2158.73,
+        "pct_from_52w_high": -16.36
+      },
+      "fundamentals": {
+        "pe": 51.009068,
+        "pb": 10.578977,
+        "dividend_yield": 1.96,
+        "analyst_target": 2692.1082,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 5155516841984
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "SuperTrend bullish \u2014 trend following signal",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading",
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:12.929103"
+    },
+    {
+      "ticker": "LTIM.NS",
+      "name": "LTIMindtree Ltd",
+      "sector": "Technology",
+      "price": 4317.2,
+      "change_1d": 0.59,
+      "change_1w": -3.25,
+      "change_1m": -24.04,
+      "signal": "SELL",
+      "composite_score": 39.8,
+      "scores": {
+        "technical": 39.0,
+        "volume": 20.0,
+        "event": 50.0,
+        "fundamental": 65.0
+      },
+      "key_indicators": {
+        "rsi": 12.2,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": 74.5,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.76,
+        "obv_trend": "falling",
+        "bb_position": 21.2,
+        "stoch_k": 11.7,
+        "cmf": -0.287,
+        "mfi": 7.9
+      },
+      "price_levels": {
+        "sma_50": 5537.46,
+        "sma_200": null,
+        "ema_21": 4820.37,
+        "bb_upper": 5753.91,
+        "bb_lower": 3930.47,
+        "pivot": 4314.1,
+        "r1": 4366.2,
+        "r2": 4440.4,
+        "s1": 4239.9,
+        "s2": 4187.8,
+        "pct_from_52w_high": -32.62
+      },
+      "fundamentals": {
+        "pe": 28.09031,
+        "pb": 5.636277,
+        "dividend_yield": 0.0149,
+        "analyst_target": 6310.8,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 1335159685120
+      },
+      "news": {
+        "headlines": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "sentiment_score": 0.0,
+        "sentiment_label": "neutral"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-03-10T09:47:15.979742"
+    }
+  ],
+  "errors": [
+    {
+      "ticker": "TATAMOTORS.NS",
+      "error": "No data"
+    },
+    {
+      "ticker": "ZOMATO.NS",
+      "error": "No data"
+    }
+  ]
+}
