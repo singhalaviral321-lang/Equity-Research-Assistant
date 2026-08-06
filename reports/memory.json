@@ -2,16 +2,6 @@
   "RELIANCE.NS": {
     "history": [
       {
-        "date": "2026-06-25",
-        "score": 67.0,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 1318.1,
-        "rsi": 57.4,
-        "reasoning": "The recent news of Reliance Industries going ex-dividend and the overall bullish trend in the stock, with a streak of 10 consecutive bullish days, support the buy verdict. Additionally, the strong trend strength indicated by the ADX of 27.7 and the rising OBV trend also suggest a positive outlook for the stock."
-      },
-      {
         "date": "2026-06-26",
         "score": 67.0,
         "signal": "BUY",
@@ -300,21 +290,21 @@
         "price": 1280.0,
         "rsi": 45.8,
         "reasoning": "The recent decline in Reliance's stock price can be attributed to concerns over the retail sector, as well as the overall market volatility due to the new closing price system. Additionally, the weakening MACD crossover and falling OBV trend are technical indicators that suggest a neutral stance. The news of potential IPOs by Jio and NSE may provide a future catalyst, but for now, it's best to hold and observe the market's reaction to these developments."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 66.5,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 1322.4,
+        "rsi": 48.8,
+        "reasoning": "The recent Q1 results beating earnings expectations and the strengthening MACD crossover are the two most important factors driving the buy verdict. Additionally, the bullish SuperTrend and the overall positive sentiment in the news support this decision. The SEBI's recent guidelines on corporate governance may also have a positive impact on Reliance Industries' stock price."
       }
     ]
   },
   "TCS.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 50.6,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 2094.7,
-        "rsi": 36.6,
-        "reasoning": "The current neutral signal is supported by a stable RSI of 36.6 and a bullish SuperTrend, indicating a potential for a trend reversal. However, the falling OBV trend and weak Trend Strength (ADX) of 19.1 suggest caution. Recent news about the company going ex-dividend may also impact the stock price."
-      },
       {
         "date": "2026-06-26",
         "score": 50.6,
@@ -604,21 +594,21 @@
         "price": 2413.0,
         "rsi": 67.2,
         "reasoning": "The recent dip in TCS stock price due to AI disruption worries presents a buying opportunity, considering the company's strong fundamentals and the Indian IT sector's growth prospects, as per SEBI and RBI guidelines. The very strong trend strength indicated by ADX and bullish SuperTrend also support this verdict. However, the falling OBV trend and weakening MACD crossover are concerns that need to be monitored."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 70.5,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 2391.3,
+        "rsi": 60.7,
+        "reasoning": "The recent analyst meetings scheduled by TCS and the strong trend strength indicated by the ADX suggest a positive outlook. However, the falling OBV trend and weakening MACD crossover are causes for caution, indicating a medium confidence level in the buy verdict."
       }
     ]
   },
   "APOLLOHOSP.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 70.0,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 8592.0,
-        "rsi": 72.2,
-        "reasoning": "The recent strong Q4 growth and strategic expansion have driven the stock to a fresh 52-week high, indicating a positive trend. Additionally, the overall sentiment is positive with keywords like 'expansion' and 'growth' dominating the news, which is in line with the SEBI's guidelines for promoting transparency in the healthcare sector."
-      },
       {
         "date": "2026-06-26",
         "score": 70.0,
@@ -908,21 +898,21 @@
         "price": 8910.0,
         "rsi": 51.1,
         "reasoning": "The recent news about Apollo Hospitals' attractive financial prospects and the upcoming Q1 FY27 results discussion on August 13 are positive catalysts. The company's past performance and the overall bullish trend in the healthcare sector, driven by increasing demand and regulatory support from SEBI and the government, also support the buy verdict."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 66.4,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 8918.0,
+        "rsi": 51.4,
+        "reasoning": "The recent news about Apollo Hospitals' attractive financial prospects and upcoming Q1 FY27 results discussion on August 13 could be positive catalysts. Additionally, the SuperTrend indicator is bullish, supporting the buy signal. However, the weakening MACD crossover and falling OBV trend are concerns that temper the confidence in this verdict."
       }
     ]
   },
   "DIVISLAB.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 68.7,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 6713.5,
-        "rsi": 54.9,
-        "reasoning": "The company's strong growth outlook and recent annual results update are the two most important factors driving the buy verdict, with analysts remaining positive despite margin worries. The bullish SuperTrend and strong Trend Strength (ADX) also support the buy case. Recent news on the company's annual results and growth outlook has been positive, with no negative news reported."
-      },
       {
         "date": "2026-06-26",
         "score": 68.7,
@@ -1212,6 +1202,16 @@
         "price": 8388.0,
         "rsi": 79.5,
         "reasoning": "The recent earnings beat and strong trend strength as indicated by the ADX of 75.2 are the two most important factors supporting the buy verdict. The company's ability to consistently deliver positive earnings surprises, as seen in the recent news, further reinforces this stance. However, the overbought RSI of 79.5 suggests caution."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 62.5,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 8397.0,
+        "rsi": 82.6,
+        "reasoning": "The recent earnings beat and strong trend strength as indicated by the ADX of 75.3 suggest a bullish outlook for Divi's Laboratories. Additionally, the rising OBV trend and bullish SuperTrend support the buy verdict, despite the stock being overbought with an RSI of 82.6."
       }
     ]
   },
@@ -1265,16 +1265,6 @@
   },
   "HDFCBANK.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 70.2,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 796.3,
-        "rsi": 75.8,
-        "reasoning": "The strengthening MACD crossover and rising OBV trend indicate a strong bullish momentum, while the recent streak of 9 consecutive bullish days suggests a continued upward trend. The RBI's recent measures to support the banking sector also bode well for HDFC Bank. The strong Trend Strength (ADX) of 36.2 further reinforces this view."
-      },
       {
         "date": "2026-06-26",
         "score": 70.2,
@@ -1564,21 +1554,21 @@
         "price": 735.0,
         "rsi": 24.3,
         "reasoning": "The Composite Score of 41.5/100 and the SELL signal, combined with the very strong trend strength indicated by the ADX of 49.4, suggest a bearish outlook. Additionally, the falling OBV trend and the recent 0.94% price drop contribute to this negative sentiment."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 48.4,
+        "signal": "NEUTRAL",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 736.15,
+        "rsi": 18.5,
+        "reasoning": "The stock's RSI is at 18.5, indicating an oversold condition, and the MACD crossover is strengthening, which could be a bullish sign. Additionally, the recent news about the bank's Q1 results may have led to an overreaction in the market, presenting a buying opportunity."
       }
     ]
   },
   "ICICIBANK.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 76.3,
-        "signal": "STRONG BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 1387.5,
-        "rsi": 80.8,
-        "reasoning": "The strong composite score of 76.3 and the bullish SuperTrend indicate a positive outlook for ICICI Bank. Additionally, the rising OBV trend and very strong trend strength (ADX) of 45.3 suggest sustained buying interest, supporting the buy verdict."
-      },
       {
         "date": "2026-06-26",
         "score": 76.3,
@@ -1868,21 +1858,21 @@
         "price": 1450.1,
         "rsi": 63.6,
         "reasoning": "The strong composite score of 82.7 and bullish SuperTrend indicate a positive outlook for ICICI Bank. Additionally, the stock's 10-day bullish streak and consistent 'BUY' verdicts in the past suggest sustained momentum, driven by factors like the bank's strong performance and favorable SEBI regulations."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 80.2,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 1454.0,
+        "rsi": 57.8,
+        "reasoning": "The strong composite score of 80.2 and the bullish SuperTrend indicate a positive outlook for ICICI Bank. Additionally, the stock's 10-day bullish streak and the lack of negative news suggest a favorable market sentiment, aligning with SEBI's regulatory environment and the overall positive trend in the Indian banking sector."
       }
     ]
   },
   "INFY.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 46.2,
-        "signal": "NEUTRAL",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 1041.2,
-        "rsi": 28.2,
-        "reasoning": "The recent decline in Infosys' stock price, driven by global tech selloff and AI fears, has led to an oversold condition with an RSI of 28.2, making it a potential buying opportunity. Additionally, the strengthening MACD crossover and bullish SuperTrend indicate a possible trend reversal. As per recent news, despite the stock's slide, fundamentals look decent, which could lead to a market correction in the future."
-      },
       {
         "date": "2026-06-26",
         "score": 46.2,
@@ -2172,21 +2162,21 @@
         "price": 1174.0,
         "rsi": 66.4,
         "reasoning": "The recent news on AI shares gaining and the tightening of the forecast range supports the bullish trend. Additionally, the strong Trend Strength (ADX) of 26.6 indicates a robust uptrend, which is a key factor in this analysis."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 74.5,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 1167.4,
+        "rsi": 63.1,
+        "reasoning": "The strong composite score of 74.5 and the bullish SuperTrend indicate a positive outlook for INFY.NS, driven by its decent fundamentals and the potential for AI-driven growth. The rising OBV trend and strong trend strength also support this view. Recent news articles highlighting the company's potential for future growth and the tightening of forecast ranges further reinforce this stance."
       }
     ]
   },
   "MARUTI.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 73.7,
-        "signal": "STRONG BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 13745.0,
-        "rsi": 65.2,
-        "reasoning": "The recent price surge of 3.75% and strengthening MACD crossover indicate a strong bullish trend, while the rising OBV trend suggests increasing buying pressure. Additionally, the company's closure of the trading window till Q1FY27 results may lead to a positive surprise, supporting the buy verdict."
-      },
       {
         "date": "2026-06-26",
         "score": 73.7,
@@ -2476,6 +2466,16 @@
         "price": 14190.0,
         "rsi": 63.2,
         "reasoning": "The strong composite score of 74.8 and bullish SuperTrend indicate a positive outlook for Maruti Suzuki India Limited, driven by its consistent performance and upcoming dividend. The rising OBV trend and strong trend strength (ADX) further support this bullish stance. Recent news on earnings to watch and potential upside also contribute to the positive sentiment."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 69.5,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 14018.0,
+        "rsi": 57.2,
+        "reasoning": "The strong trend strength indicated by the ADX of 32.7 and the bullish SuperTrend suggest that Maruti Suzuki India Limited is poised for further upside, supported by the overall positive sentiment and the recent streak of bullish days. The upcoming dividend and potential 34.00% upside as per GF Value also contribute to the positive outlook. Recent news about earnings and dividend also supports the buy verdict."
       }
     ]
   },
@@ -2505,16 +2505,6 @@
   },
   "IRFC.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 26.4,
-        "signal": "STRONG SELL",
-        "ai_verdict": "SELL",
-        "ai_confidence": "MEDIUM",
-        "price": 91.77,
-        "rsi": 40.3,
-        "reasoning": "The recent selling pressure and bearish MACD crossover indicate a strong downtrend, while the falling OBV trend suggests a lack of buying interest. Additionally, the negative sentiment with words like 'sell' and 'fall' further supports the sell verdict."
-      },
       {
         "date": "2026-06-26",
         "score": 26.4,
@@ -2804,6 +2794,16 @@
         "price": 88.9,
         "rsi": 52.7,
         "reasoning": "The current neutral signal and moderate trend strength indicate a need for caution. The recent 4% stake sale announcement by the government has led to a fall in IRFC's shares, which is a significant factor to consider. Additionally, the company's earnings results for the fourth quarter and full year ended March 31, 2026, will be crucial in determining the stock's future direction."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 58.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "MEDIUM",
+        "price": 89.2,
+        "rsi": 54.3,
+        "reasoning": "The current neutral signal and moderate trend strength (ADX: 20.4) suggest a wait-and-watch approach. The recent 4% stake sale by the government, as reported by HDFC Sky, may have led to a temporary decline in stock price, but the overall financial health of IRFC, as indicated by its earnings results, remains a key factor to consider."
       }
     ]
   },
@@ -2833,16 +2833,6 @@
   },
   "ADANIENT.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 72.3,
-        "signal": "STRONG BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 3038.0,
-        "rsi": 49.2,
-        "reasoning": "The recent news of Adani AGM 2026 and the company's intrinsic value being potentially 52% above its share price, as reported by simplywall.st, are driving the stock's bullish trend. Additionally, the technical indicators such as the MACD crossover and SuperTrend are strengthening, supporting the buy verdict."
-      },
       {
         "date": "2026-06-26",
         "score": 73.8,
@@ -3132,21 +3122,21 @@
         "price": 3050.0,
         "rsi": 38.2,
         "reasoning": "The recent statement by Adani Enterprises to stock exchanges clarifying that there are no allegations against the company is a positive development, and the strengthening MACD crossover indicates a potential upside. Additionally, the strong trend strength as indicated by the ADX of 31.6 suggests that the current trend is likely to continue."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 54.7,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "MEDIUM",
+        "price": 3041.9,
+        "rsi": 36.1,
+        "reasoning": "The current neutral signal and strengthening MACD crossover indicate a potential trend reversal, but the falling OBV trend and low volume ratio raise concerns. Recent news about Adani Enterprises' intrinsic value being potentially above its share price is positive, but the lack of allegations against the company does not directly impact the stock's technicals."
       }
     ]
   },
   "HINDUNILVR.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 63.7,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 2174.2,
-        "rsi": 64.1,
-        "reasoning": "The recent news and sentiment analysis suggest a positive outlook for Hindustan Unilever Limited, driven by strong consumer demand in the defensive sector. The technical indicators, such as the SuperTrend and Trend Strength, also support a bullish stance. However, the falling OBV trend and weakening MACD crossover are concerns that need to be monitored."
-      },
       {
         "date": "2026-06-26",
         "score": 63.7,
@@ -3436,6 +3426,16 @@
         "price": 2085.3,
         "rsi": 48.6,
         "reasoning": "The current neutral signal and weakening MACD crossover suggest a cautious approach, while the strong trend strength indicated by ADX suggests that the stock may be due for a breakout. Recent news about the company going ex-dividend may also impact investor decisions."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 47.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "MEDIUM",
+        "price": 2083.4,
+        "rsi": 42.9,
+        "reasoning": "The current neutral signal and weakening MACD crossover suggest a cautious approach, while the strong trend strength indicated by ADX suggests that the stock may be due for a trend reversal. Recent news about the company going ex-dividend may not be a strong enough catalyst to drive the price up. The overall sentiment is positive but lacks strong negative factors to consider a buy or sell verdict."
       }
     ]
   },
@@ -3489,16 +3489,6 @@
   },
   "NCC.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 69.5,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 153.59,
-        "rsi": 63.1,
-        "reasoning": "The recent recovery in NCC Limited's stock price after the NHAI two-year debarment news, coupled with the overall benign growth prospects, supports a buy verdict. The rising OBV trend and strong ADX also indicate a bullish stance. However, the weakening MACD crossover is a concern that tempers the confidence level."
-      },
       {
         "date": "2026-06-26",
         "score": 69.5,
@@ -3788,21 +3778,21 @@
         "price": 143.57,
         "rsi": 55.0,
         "reasoning": "The recent recovery in NCC Limited's stock price after hitting a 52-week low due to NHAI's two-year debarment indicates strong investor confidence. Additionally, the company's benign growth prospects, as reported by Simply Wall St, underpin its share price. The strengthening MACD crossover and rising OBV trend also support a bullish outlook."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 73.8,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 143.78,
+        "rsi": 55.4,
+        "reasoning": "The recent recovery in NCC Limited's stock price after hitting a 52-week low due to NHAI's two-year debarment indicates strong investor confidence. Additionally, the company's benign growth prospects, as reported by Simply Wall Street, underpin its share price. The strengthening MACD crossover and rising OBV trend also support a bullish outlook."
       }
     ]
   },
   "DMART.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 68.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 4294.6,
-        "rsi": 59.9,
-        "reasoning": "The strong Trend Strength (ADX) of 32.9 and rising OBV trend indicate a bullish outlook for DMART.NS, despite the recent 0.95% decline in price. The company's new store openings and ESOP scheme allotments are also positive developments. Recent news of a 2.7% share price fall despite new store openings may present a buying opportunity."
-      },
       {
         "date": "2026-06-26",
         "score": 68.8,
@@ -4092,21 +4082,21 @@
         "price": 3946.0,
         "rsi": 49.5,
         "reasoning": "The recent store expansion and strong quarterly earnings are positives, but the current price drop and weakening MACD crossover indicate a need for caution. The strong trend strength (ADX: 27.4) suggests that the stock may continue its overall uptrend, but the neutral RSI (49.5) and low volume ratio (0.51) warrant a hold verdict."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 67.1,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 3952.0,
+        "rsi": 50.1,
+        "reasoning": "The strengthening MACD crossover and rising OBV trend indicate a bullish outlook for DMART.NS, supported by the recent expansion of its store count to 506. Additionally, the company's first-quarter earnings report may have positively influenced analyst sentiment, as seen in the recent news."
       }
     ]
   },
   "SETFGOLD.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 30.8,
-        "signal": "SELL",
-        "ai_verdict": "SELL",
-        "ai_confidence": "MEDIUM",
-        "price": 118.34,
-        "rsi": 26.9,
-        "reasoning": "The recent decline in gold prices, as indicated by the 2.39% drop in SETFGOLD.NS, coupled with the weakening MACD crossover, suggests a bearish trend. Additionally, the strong trend strength (ADX: 36.9) and falling OBV trend further support the sell verdict. The recent news of gold ETFs surging to record highs may not be sustainable, given the current market sentiment."
-      },
       {
         "date": "2026-06-26",
         "score": 38.1,
@@ -4396,21 +4386,21 @@
         "price": 123.34,
         "rsi": 63.7,
         "reasoning": "The strengthening MACD crossover and rising OBV trend indicate a bullish sentiment, while the recent 1.91% price increase suggests a positive momentum. Additionally, the RBI's recent measures to boost the economy may lead to increased investment in gold ETFs. The NSE data also shows a strong trend strength, supporting the buy signal."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 56.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "MEDIUM",
+        "price": 125.84,
+        "rsi": 73.7,
+        "reasoning": "The current RSI of 73.7 indicates overbought conditions, and the recent 2.03% price increase may lead to a correction. Additionally, the sentiment analysis shows a negative sentiment due to losses in Gold and Silver ETFs, which could impact the stock price. The strengthening MACD crossover and bullish SuperTrend are positive indicators, but the overbought condition takes precedence."
       }
     ]
   },
   "GOLDBEES.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 28.3,
-        "signal": "SELL",
-        "ai_verdict": "SELL",
-        "ai_confidence": "MEDIUM",
-        "price": 114.96,
-        "rsi": 26.8,
-        "reasoning": "The recent price drop of 2.21% and the oversold RSI of 26.8 indicate a bearish trend. Additionally, the falling OBV trend and strong ADX of 35.3 suggest that the selling pressure is likely to continue, as per the recent market trends observed on the NSE."
-      },
       {
         "date": "2026-06-26",
         "score": 35.1,
@@ -4700,21 +4690,21 @@
         "price": 119.39,
         "rsi": 63.7,
         "reasoning": "The recent price movement of GOLDBEES.NS indicates a strengthening trend, supported by the MACD crossover and rising OBV trend. Additionally, the overall sentiment in the gold market remains positive, driven by global economic uncertainty, which could further boost the price of gold and consequently, GOLDBEES.NS."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 66.8,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 121.95,
+        "rsi": 73.8,
+        "reasoning": "The recent price surge in gold, coupled with the strengthening MACD crossover and rising OBV trend, supports a bullish outlook for GOLDBEES.NS. Additionally, the RBI's recent measures to boost the economy may lead to increased investment in gold ETFs, further driving up the price."
       }
     ]
   },
   "LTFOODS.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 68.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 385.55,
-        "rsi": 50.5,
-        "reasoning": "The strengthening MACD crossover and bullish SuperTrend indicate a positive momentum for LT Foods Limited, while the recent 14% rebound on heavy volumes suggests a strong market sentiment. The company's expansion plans, such as the DAAWAT Experience Hub, may also contribute to its growth. The strong Trend Strength (ADX) of 29.8 further supports the bullish outlook."
-      },
       {
         "date": "2026-06-26",
         "score": 68.8,
@@ -5004,21 +4994,21 @@
         "price": 417.15,
         "rsi": 74.0,
         "reasoning": "The stock's bullish SuperTrend and strengthening MACD crossover indicate a strong uptrend, while the recent news articles suggest the company's fundamentals are strong. However, the overbought RSI of 74.0 may lead to a minor correction, providing a buying opportunity. The SEBI's regulatory environment and RBI's monetary policy will also influence the consumer defensive sector's performance."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 71.5,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 417.4,
+        "rsi": 74.0,
+        "reasoning": "The stock's strong trend strength indicated by an ADX of 26.1 and rising OBV trend support the buy verdict, despite the stock being overbought with an RSI of 74.0. Recent news articles suggest the company's stock is going strong, aligning with market fundamentals."
       }
     ]
   },
   "JIOFIN.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 56.0,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 239.43,
-        "rsi": 52.9,
-        "reasoning": "The current neutral signal and moderate trend strength (ADX: 22.0) suggest a cautious approach. The recent 9-day bullish streak may be losing momentum, as indicated by the weakening MACD crossover and falling OBV trend."
-      },
       {
         "date": "2026-06-26",
         "score": 56.0,
@@ -5308,21 +5298,21 @@
         "price": 261.95,
         "rsi": 72.2,
         "reasoning": "The recent Q1 results showing a 156% rise in net profit to Rs 830 crore and revenue more than tripling are key factors driving the bullish sentiment. Additionally, the stock's strong streak of six consecutive bullish days and the overall positive sentiment with words like 'profit' and 'beat' indicate a favorable outlook."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 65.2,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 264.75,
+        "rsi": 69.9,
+        "reasoning": "The recent Q1 results showing a 156% rise in net profit to Rs 830 crore and revenue more than tripling are key drivers for the stock's current bullish trend. Additionally, the stock's strong streak of 7 consecutive bullish days and positive sentiment around its profit growth support the buy verdict."
       }
     ]
   },
   "IOC.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 63.3,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 143.89,
-        "rsi": 59.0,
-        "reasoning": "The recent 21% EPS beat by Indian Oil Corporation Limited is a significant positive factor, and the overall bullish trend in the energy sector driven by increasing oil demand supports the buy signal. Additionally, the stock's continuous bullish streak for 9 consecutive days indicates strong market sentiment."
-      },
       {
         "date": "2026-06-26",
         "score": 63.3,
@@ -5612,21 +5602,21 @@
         "price": 144.0,
         "rsi": 55.7,
         "reasoning": "The recent 78% YoY rise in Q4 net profit and the overall bullish technical indicators, such as the strengthening MACD crossover and rising OBV trend, support a buy verdict. Additionally, the positive sentiment from the recent news, including the profit beat, further reinforces this stance."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 74.9,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 144.01,
+        "rsi": 56.0,
+        "reasoning": "The recent 21% EPS beat and strengthening MACD crossover are key factors driving the bullish sentiment. Additionally, the rising OBV trend and bullish SuperTrend indicate a positive momentum in the stock. With SEBI's regulations and RBI's monetary policies supporting the energy sector, IOC is well-positioned for growth."
       }
     ]
   },
   "GAIL.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 72.6,
-        "signal": "STRONG BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 172.85,
-        "rsi": 59.2,
-        "reasoning": "The strong composite score of 72.6 and the bullish SuperTrend indicate a positive outlook for GAIL. Additionally, the appointment of a new Director (Finance) may bring fresh perspectives to the company's financial management, which could further boost investor confidence."
-      },
       {
         "date": "2026-06-26",
         "score": 72.6,
@@ -5916,21 +5906,21 @@
         "price": 176.96,
         "rsi": 58.3,
         "reasoning": "The recent earnings beat has boosted investor sentiment, and the strengthening MACD crossover indicates a potential uptrend. Additionally, the rising OBV trend suggests increasing buying pressure, which could drive the stock price higher. The positive sentiment from the news, with the company beating analyst forecasts, further supports the bullish outlook."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 79.4,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 176.06,
+        "rsi": 57.6,
+        "reasoning": "GAIL's recent Q4 results beat analyst forecasts, and brokerages are eyeing an 18% upside, which is a significant positive catalyst. Additionally, the stock's strong trend strength, as indicated by the ADX of 27.8, suggests a continued bullish momentum. The recent acquisition of a bioenergy stake also diversifies the company's portfolio, which could lead to long-term growth."
       }
     ]
   },
   "TATACAP.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 70.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 363.65,
-        "rsi": 76.4,
-        "reasoning": "The recent quarterly profit rise and subdued debut of Tata Capital, coupled with the very strong trend strength indicated by the ADX of 56.0, suggest a positive outlook for the stock. The rising OBV trend and bullish SuperTrend also support this view. Additionally, the overall positive sentiment with 'profit' being a key positive sentiment indicator further reinforces the buy verdict."
-      },
       {
         "date": "2026-06-26",
         "score": 70.8,
@@ -6220,21 +6210,21 @@
         "price": 371.9,
         "rsi": 69.3,
         "reasoning": "The recent surge in TATACAP.NS can be attributed to its strong Q4 results, with a 43% rise in net profit, and the overall bullish trend in the financial services sector. The technical indicators, such as the MACD crossover and SuperTrend, also suggest a strengthening bullish momentum. Additionally, the positive sentiment around the stock, with keywords like 'profit', 'beat', and 'surge', further supports the buy verdict."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 73.5,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "HIGH",
+        "price": 383.8,
+        "rsi": 72.5,
+        "reasoning": "The recent surge in TATACAP.NS stock price can be attributed to the strong Q4 results, with a 43% increase in net profit, and the announcement of a dividend. Additionally, the overall bullish trend in the financial services sector, driven by positive sentiment from SEBI and RBI, supports the buying decision."
       }
     ]
   },
   "BPCL.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 65.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 309.75,
-        "rsi": 59.9,
-        "reasoning": "The recent drop in BPCL's stock price due to doubts over US-Iran talks presents a buying opportunity, as the company's financials remain strong. The bullish SuperTrend and moderate trend strength (ADX) also support a positive outlook. However, the falling OBV trend and weakening MACD crossover are concerns that need to be monitored."
-      },
       {
         "date": "2026-06-26",
         "score": 65.8,
@@ -6524,21 +6514,21 @@
         "price": 326.25,
         "rsi": 63.3,
         "reasoning": "The recent revenue beat of 17% and a 34.41% year-over-year increase in net sales are significant positives. Additionally, the technical indicators such as the strengthening MACD crossover and rising OBV trend support the bullish outlook."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 68.5,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 325.25,
+        "rsi": 59.5,
+        "reasoning": "The recent Q1 results showing a 23% YoY revenue rise despite a net loss due to higher crude oil prices, along with a streak of 10 consecutive bullish days, support the buy verdict. Additionally, the rising OBV trend and bullish SuperTrend indicate positive momentum. However, the weakening MACD crossover and weak trend strength (ADX) are concerns."
       }
     ]
   },
   "RAJESHEXPO.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 54.8,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 97.02,
-        "rsi": 48.7,
-        "reasoning": "The recent price drop of 4.99% and the NEUTRAL signal from the composite score of 54.8/100 suggest a cautious approach. The inconsistency in regulatory disclosures and the resulting confusion, as reported by Moneycontrol.com, may impact investor confidence, while the strong trend strength indicated by the ADX of 39.5 could support a potential rebound."
-      },
       {
         "date": "2026-06-26",
         "score": 54.8,
@@ -6828,21 +6818,21 @@
         "price": 85.31,
         "rsi": 46.2,
         "reasoning": "The strengthening MACD crossover and rising OBV trend indicate a potential upside for Rajesh Exports Limited, despite recent inconsistencies in regulatory disclosures. The moderate trend strength (ADX: 21.5) also suggests a stable momentum. Recent news of share price plunge and inconsistencies in disclosures may have created a buying opportunity."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 55.7,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "MEDIUM",
+        "price": 84.5,
+        "rsi": 44.4,
+        "reasoning": "The current price of \u20b984.5 and a neutral composite score of 55.7/100 suggest a hold strategy, considering the recent 31% share price plunge and inconsistencies in regulatory disclosures. The strengthening MACD crossover and rising OBV trend are positive indicators, but the overall sentiment is cautious due to recent price falls."
       }
     ]
   },
   "TMPV.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 46.6,
-        "signal": "NEUTRAL",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 353.2,
-        "rsi": 29.4,
-        "reasoning": "The stock's RSI is in the oversold territory at 29.4, indicating a potential reversal. Additionally, the MACD crossover is strengthening, which could lead to a bullish trend. Recent news about institutional ownership and the company's expansion plans could also support the stock's price."
-      },
       {
         "date": "2026-06-26",
         "score": 46.6,
@@ -7132,21 +7122,21 @@
         "price": 349.8,
         "rsi": 67.5,
         "reasoning": "The current neutral signal and strengthening MACD crossover indicate a potential for upward movement, but the weak trend strength (ADX: 15.6) and neutral RSI (67.5) suggest caution. Recent news about Tata Motors Passenger Vehicles Ltd rising for a third straight session is a positive indicator. However, the overall sentiment is mixed, with both positive and negative news."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 65.2,
+        "signal": "BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 344.5,
+        "rsi": 58.4,
+        "reasoning": "The recent price decline of 1.52% presents a buying opportunity, considering the overall bullish SuperTrend and rising OBV trend. Additionally, the company's stock has been rising for the third straight session, indicating positive momentum. The neutral RSI of 58.4 also suggests that the stock is not overbought, providing room for further upside."
       }
     ]
   },
   "MHRIL.NS": {
     "history": [
-      {
-        "date": "2026-06-25",
-        "score": 59.7,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 240.06,
-        "rsi": 70.6,
-        "reasoning": "The recent announcement of Mahindra Holidays' plans to expand into the leisure hospitality business with an investment of \u20b91,000 crore is a significant positive catalyst, and the company's solid earnings reflect its strength as a business. Additionally, the rising OBV trend and strong trend strength (ADX) indicate a bullish outlook. However, the overbought RSI and weakening MACD crossover are causes for caution."
-      },
       {
         "date": "2026-06-26",
         "score": 59.7,
@@ -7436,6 +7426,16 @@
         "price": 233.24,
         "rsi": 52.5,
         "reasoning": "The recent announcement of Mahindra Holidays' plans to expand into the leisure hospitality business with an investment of \u20b91,000 crore is a significant positive catalyst, and the strengthening MACD crossover and rising OBV trend indicate strong buying momentum. Additionally, the company's revenue growth prospects and the overall bullish trend in the consumer cyclical sector support the buy verdict."
+      },
+      {
+        "date": "2026-08-06",
+        "score": 72.4,
+        "signal": "STRONG BUY",
+        "ai_verdict": "BUY",
+        "ai_confidence": "MEDIUM",
+        "price": 232.18,
+        "rsi": 51.7,
+        "reasoning": "The strengthening MACD crossover and rising OBV trend indicate a positive momentum for MHRIL.NS, while the recent news on revenue breakdown and forecast for 2027 suggest a potential for growth. The strong trend strength (ADX) of 26.4 also supports the bullish outlook."
       }
     ]
   }
