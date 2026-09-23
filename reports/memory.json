@@ -2,16 +2,6 @@
   "RELIANCE.NS": {
     "history": [
       {
-        "date": "2026-08-12",
-        "score": 62.7,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 1329.0,
-        "rsi": 65.7,
-        "reasoning": "The recent Q1 results beating earnings expectations and the overall bullish trend in the energy sector driven by SEBI's regulations and RBI's monetary policies are the two most important factors supporting the buy verdict. Additionally, the sentiment analysis shows a positive tone with words like 'beat' and 'buy' appearing in the recent news, further reinforcing the buy decision."
-      },
-      {
         "date": "2026-08-13",
         "score": 70.3,
         "signal": "BUY",
@@ -300,21 +290,21 @@
         "price": 1240.4,
         "rsi": 28.7,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 53.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 1248.0,
+        "rsi": 33.8,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "TCS.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 61.4,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 2349.7,
-        "rsi": 57.5,
-        "reasoning": "The recent decline in TCS stock price, despite a bullish SuperTrend indicator, presents a buying opportunity, especially considering the strong trend strength indicated by the ADX of 47.2. The news of N Chandrasekaran stepping down has led to a short-term correction, but the company's fundamentals remain intact."
-      },
       {
         "date": "2026-08-13",
         "score": 71.8,
@@ -604,21 +594,21 @@
         "price": 2105.0,
         "rsi": 19.1,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 41.5,
+        "signal": "SELL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 2089.6,
+        "rsi": 19.7,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "APOLLOHOSP.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 29.3,
-        "signal": "SELL",
-        "ai_verdict": "SELL",
-        "ai_confidence": "MEDIUM",
-        "price": 8597.0,
-        "rsi": 36.8,
-        "reasoning": "The recent price drop and falling OBV trend indicate a lack of buying interest, while the weakening MACD crossover suggests a potential downtrend. Additionally, the upcoming Q1 FY27 results on August 13 may lead to increased volatility, making it a good time to sell."
-      },
       {
         "date": "2026-08-13",
         "score": 45.2,
@@ -908,21 +898,21 @@
         "price": 8835.5,
         "rsi": 55.7,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 70.5,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 9069.0,
+        "rsi": 65.5,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "DIVISLAB.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 62.5,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 8600.0,
-        "rsi": 82.8,
-        "reasoning": "The recent earnings beat and strong trend strength (ADX: 73.6) are key factors driving the bullish sentiment. Additionally, the rising OBV trend and bullish SuperTrend indicate a positive outlook for Divi's Laboratories. The company's ability to navigate through challenging market conditions, such as the ongoing drought in Germany, is also a testament to its resilience."
-      },
       {
         "date": "2026-08-13",
         "score": 64.8,
@@ -1212,6 +1202,16 @@
         "price": 9352.0,
         "rsi": 54.8,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 74.0,
+        "signal": "STRONG BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 9624.0,
+        "rsi": 61.5,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
@@ -1265,16 +1265,6 @@
   },
   "HDFCBANK.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 52.0,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 729.0,
-        "rsi": 36.0,
-        "reasoning": "The current neutral signal and strengthening MACD crossover indicate a potential trend reversal, but the falling OBV trend and very strong trend strength suggest caution. Recent news on HDFC Bank shares extending their fall despite a bullish view from the Street also warrants a wait-and-see approach."
-      },
       {
         "date": "2026-08-13",
         "score": 52.0,
@@ -1564,21 +1554,21 @@
         "price": 738.6,
         "rsi": 67.7,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 67.7,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 737.25,
+        "rsi": 65.0,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "ICICIBANK.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 73.9,
-        "signal": "STRONG BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 1431.7,
-        "rsi": 53.1,
-        "reasoning": "The strong composite score of 73.9 and the bullish SuperTrend indicate a positive outlook for ICICI Bank. Additionally, the bank's scheduled investor meets on August 17 and 18 may lead to positive announcements, supporting the bullish trend. Recent insider selling may be a cause for concern, but the overall sentiment remains positive."
-      },
       {
         "date": "2026-08-13",
         "score": 64.5,
@@ -1868,21 +1858,21 @@
         "price": 1339.6,
         "rsi": 17.0,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 50.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 1340.0,
+        "rsi": 15.0,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "INFY.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 71.7,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 1176.1,
-        "rsi": 74.3,
-        "reasoning": "The strong Trend Strength (ADX) of 27.1 and rising OBV trend indicate a bullish momentum, while the recent 1D change of -1.23% presents a buying opportunity. The company's decent fundamentals, as highlighted by simplywall.st, also support the buy verdict."
-      },
       {
         "date": "2026-08-13",
         "score": 71.7,
@@ -2172,21 +2162,21 @@
         "price": 1029.4,
         "rsi": 21.6,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 46.0,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 1020.5,
+        "rsi": 21.7,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "MARUTI.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 64.4,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 13875.0,
-        "rsi": 65.7,
-        "reasoning": "The recent Q1 profit beat and margin recovery are key factors driving the buy verdict, supported by a strong trend strength indicated by the ADX of 31.7. The overall sentiment is positive with mentions of 'profit', 'beat', and 'buy' in the news, aligning with the bullish streak of 10 consecutive days."
-      },
       {
         "date": "2026-08-13",
         "score": 64.4,
@@ -2476,6 +2466,16 @@
         "price": 12190.0,
         "rsi": 25.1,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 55.1,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 12230.0,
+        "rsi": 26.9,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
@@ -2505,16 +2505,6 @@
   },
   "IRFC.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 53.0,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 88.26,
-        "rsi": 56.8,
-        "reasoning": "The neutral composite score of 53.0 and the weakening MACD crossover indicate a lack of clear direction in the stock. Additionally, the recent 4% stake sale by the government has led to a fall in IRFC's share price, contributing to the neutral outlook."
-      },
       {
         "date": "2026-08-13",
         "score": 53.0,
@@ -2804,6 +2794,16 @@
         "price": 80.0,
         "rsi": 36.9,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 61.0,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 81.0,
+        "rsi": 42.0,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
@@ -2833,16 +2833,6 @@
   },
   "ADANIENT.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 46.5,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 2985.7,
-        "rsi": 45.8,
-        "reasoning": "The current neutral signal and weakening MACD crossover indicate a lack of clear direction in the stock's price movement. Additionally, the strong trend strength (ADX) suggests that the current trend, although bearish, is robust. Recent news about the Adani Group stocks rally after US court relief could potentially impact the stock's price, but its effect is yet to be fully realized."
-      },
       {
         "date": "2026-08-13",
         "score": 45.4,
@@ -3132,21 +3122,21 @@
         "price": 2997.0,
         "rsi": 59.3,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 68.2,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 2993.2,
+        "rsi": 58.2,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "HINDUNILVR.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 46.1,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 2063.0,
-        "rsi": 39.1,
-        "reasoning": "The recent Q1 results disappointment has led to a 7% tumble in the stock price, and with the technical indicators showing a neutral trend, it's best to wait for the Q2 results to gauge the company's performance. The strong trend strength (ADX) and bullish SuperTrend are positives, but the falling OBV trend and weakening MACD crossover are concerns. The recent news of disappointing Q1 numbers and the warning of food-supply risk from persistent drought in Germany are also factors to consider."
-      },
       {
         "date": "2026-08-13",
         "score": 56.5,
@@ -3436,6 +3426,16 @@
         "price": 1933.8,
         "rsi": 39.9,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 62.1,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 1950.0,
+        "rsi": 47.1,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
@@ -3489,16 +3489,6 @@
   },
   "NCC.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 70.0,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 143.41,
-        "rsi": 59.8,
-        "reasoning": "The strong trend strength indicated by the ADX score of 31.0 and the rising OBV trend support the bullish outlook for NCC Limited, despite the recent minor correction. The benign growth prospects as reported by simplywall.st also underpin the share price. The overall sentiment is positive with growth being a key factor."
-      },
       {
         "date": "2026-08-13",
         "score": 70.0,
@@ -3788,21 +3778,21 @@
         "price": 134.41,
         "rsi": 35.8,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 56.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 136.05,
+        "rsi": 28.1,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "DMART.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 59.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 4040.0,
-        "rsi": 52.8,
-        "reasoning": "The recent store opening in Barabanki, taking the total count to 506, is a positive development for Avenue Supermarts. Additionally, the strengthening MACD crossover and rising OBV trend suggest a potential upside. However, concerns flagged by analysts after the Q1 update may impact the stock's performance."
-      },
       {
         "date": "2026-08-13",
         "score": 60.0,
@@ -4092,21 +4082,21 @@
         "price": 3777.0,
         "rsi": 44.9,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 67.1,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 3834.8,
+        "rsi": 59.8,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "SETFGOLD.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 58.5,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 130.48,
-        "rsi": 75.6,
-        "reasoning": "The recent price surge in gold, coupled with the strengthening MACD crossover, suggests a bullish trend for SBI Gold ETF. Additionally, the rising OBV trend indicates increasing buying pressure, supporting the buy verdict. Recent news on losses in gold and silver ETFs may lead to a temporary correction, but the overall trend remains positive."
-      },
       {
         "date": "2026-08-13",
         "score": 58.5,
@@ -4396,21 +4386,21 @@
         "price": 128.91,
         "rsi": 48.8,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 64.7,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 128.64,
+        "rsi": 54.1,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "GOLDBEES.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 64.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 126.45,
-        "rsi": 75.9,
-        "reasoning": "The recent surge in gold ETFs, with Nippon India Gold BeES accounting for nearly 5% of global inflows in 2025, indicates strong investor interest. Additionally, the strengthening MACD crossover and rising OBV trend suggest a bullish outlook, despite the RSI indicating overbought conditions."
-      },
       {
         "date": "2026-08-13",
         "score": 64.8,
@@ -4700,21 +4690,21 @@
         "price": 125.0,
         "rsi": 48.9,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 64.7,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 124.73,
+        "rsi": 54.3,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "LTFOODS.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 71.5,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 426.7,
-        "rsi": 82.2,
-        "reasoning": "The stock's strong trend strength and rising OBV trend support the bullish view, despite the overbought RSI. Recent news on food-supply risk from drought could boost demand for LT Foods' products. The company's past performance and SEBI's regulations on food processing industry also add to the positive outlook."
-      },
       {
         "date": "2026-08-13",
         "score": 68.8,
@@ -5004,21 +4994,21 @@
         "price": 421.35,
         "rsi": 36.4,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 71.5,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 430.0,
+        "rsi": 43.0,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "JIOFIN.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 61.0,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 256.05,
-        "rsi": 71.7,
-        "reasoning": "The recent two-fold jump in Q1 profit has led to a surge in Jio Financial Services' shares, indicating strong financial performance. Additionally, the bullish SuperTrend and very strong Trend Strength (ADX) suggest a positive momentum in the stock. However, the overbought RSI and weakening MACD crossover are cautionary signs."
-      },
       {
         "date": "2026-08-13",
         "score": 53.5,
@@ -5308,21 +5298,21 @@
         "price": 230.7,
         "rsi": 36.6,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 61.0,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 232.15,
+        "rsi": 39.0,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "IOC.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 52.4,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 140.6,
-        "rsi": 51.7,
-        "reasoning": "The current neutral signal is supported by a weak trend strength indicated by the ADX of 14.1, and the recent declaration of a second interim dividend by Indian Oil's board may not immediately impact the stock price. The bearish MACD crossover also suggests a cautious approach."
-      },
       {
         "date": "2026-08-13",
         "score": 72.6,
@@ -5612,21 +5602,21 @@
         "price": 137.8,
         "rsi": 52.3,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 76.5,
+        "signal": "STRONG BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 138.15,
+        "rsi": 51.1,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "GAIL.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 88.5,
-        "signal": "STRONG BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "HIGH",
-        "price": 177.95,
-        "rsi": 58.3,
-        "reasoning": "The recent Q4 results beating analyst forecasts and the overall bullish technical indicators, such as the MACD crossover and rising OBV trend, support a buy verdict. Additionally, the strong trend strength indicated by the ADX suggests a potential for further upside. The positive sentiment from the recent news also adds to the bullish outlook."
-      },
       {
         "date": "2026-08-13",
         "score": 84.4,
@@ -5916,21 +5906,21 @@
         "price": 171.84,
         "rsi": 46.4,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 61.8,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 172.95,
+        "rsi": 44.5,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "TATACAP.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 59.2,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 367.05,
-        "rsi": 69.0,
-        "reasoning": "The recent Q1 2027 earnings call highlighted robust profit growth, which is a positive factor for TATACAP.NS. Additionally, the stock's strong trend strength, as indicated by the ADX of 39.7, suggests a continued bullish momentum. However, the falling OBV trend and weakening MACD crossover are concerns that need to be monitored."
-      },
       {
         "date": "2026-08-13",
         "score": 59.4,
@@ -6220,21 +6210,21 @@
         "price": 341.1,
         "rsi": 30.4,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 63.1,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 350.05,
+        "rsi": 32.4,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "BPCL.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 65.8,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 317.0,
-        "rsi": 57.8,
-        "reasoning": "The recent Q1 results showing a 23% YoY revenue rise and a beat on analyst estimates are positive factors. However, the net loss due to higher crude oil prices is a concern. The overall energy sector trends and SEBI's regulatory environment will also impact BPCL's performance."
-      },
       {
         "date": "2026-08-13",
         "score": 63.5,
@@ -6524,21 +6514,21 @@
         "price": 313.6,
         "rsi": 42.9,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 77.5,
+        "signal": "STRONG BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 315.75,
+        "rsi": 45.1,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "RAJESHEXPO.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 49.3,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 83.13,
-        "rsi": 30.9,
-        "reasoning": "The current neutral signal and strengthening MACD crossover indicate a potential trend reversal, but the recent price plunge and inconsistencies in regulatory disclosures are causes for concern. The strong trend strength (ADX) suggests that the stock may continue its current trend, but the falling OBV trend is a negative indicator. Recent news of a 31% share price plunge and inconsistencies in disclosures have negatively impacted sentiment."
-      },
       {
         "date": "2026-08-13",
         "score": 35.2,
@@ -6828,21 +6818,21 @@
         "price": 68.74,
         "rsi": 22.9,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 33.0,
+        "signal": "SELL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 68.53,
+        "rsi": 3.5,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "TMPV.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 45.8,
-        "signal": "NEUTRAL",
-        "ai_verdict": "HOLD",
-        "ai_confidence": "MEDIUM",
-        "price": 343.0,
-        "rsi": 70.4,
-        "reasoning": "The current RSI of 70.4 indicates overbought conditions, and the weakening MACD crossover suggests a potential correction. Additionally, the recent news of Tata Motors Passenger Vehicles Ltd rising for the third straight session may have already factored in the positive sentiment, limiting further upside."
-      },
       {
         "date": "2026-08-13",
         "score": 56.8,
@@ -7132,21 +7122,21 @@
         "price": 300.05,
         "rsi": 36.2,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 48.9,
+        "signal": "NEUTRAL",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 300.5,
+        "rsi": 37.4,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
   },
   "MHRIL.NS": {
     "history": [
-      {
-        "date": "2026-08-12",
-        "score": 58.0,
-        "signal": "BUY",
-        "ai_verdict": "BUY",
-        "ai_confidence": "MEDIUM",
-        "price": 224.88,
-        "rsi": 63.4,
-        "reasoning": "The recent announcement of Mahindra Holidays' plans to expand into the leisure hospitality business with an investment of \u20b91,000 crore is a significant positive catalyst, and the strong trend strength indicated by the ADX of 27.5 supports the bullish outlook. However, the falling OBV trend and weakening MACD crossover are concerns that temper the enthusiasm."
-      },
       {
         "date": "2026-08-13",
         "score": 55.5,
@@ -7435,6 +7425,16 @@
         "ai_confidence": "LOW",
         "price": 199.07,
         "rsi": 36.9,
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
+      },
+      {
+        "date": "2026-09-23",
+        "score": 58.2,
+        "signal": "BUY",
+        "ai_verdict": "HOLD",
+        "ai_confidence": "LOW",
+        "price": 201.39,
+        "rsi": 39.1,
         "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits."
       }
     ]
