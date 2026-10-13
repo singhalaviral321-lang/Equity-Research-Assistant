@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "time": "21:20",
+  "date": "2026-10-13",
+  "time": "19:23",
   "total_stocks": 24,
   "summary": {
     "strong_buys": 0,
@@ -11,96 +11,6 @@
   },
   "top_momentum": [
     {
-      "ticker": "NCC.NS",
-      "name": "NCC Limited",
-      "sector": "Industrials",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 59.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 70.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.32,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 35.9
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 132.16,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 125.05,
-        "r1": 127.75,
-        "r2": 130.43,
-        "s1": 122.37,
-        "s2": 119.67,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 11.075403,
-        "pb": 0.98442537,
-        "dividend_yield": 1.76,
-        "analyst_target": 188.7,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 77463707648
-      },
-      "news": {
-        "ticker": "NCC.NS",
-        "headlines": [
-          "NCC (NCC) Share/Stock Price Live, NSE - TechGraph",
-          "NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest",
-          "Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [
-            "growth"
-          ],
-          "negative": []
-        },
-        "news_summary": "NCC (NCC) Share/Stock Price Live, NSE - TechGraph. NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest. Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street",
-        "fetched_at": "2026-10-12T21:20:05.054829"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:01.248236",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
       "ticker": "IRFC.NS",
       "name": "Indian Railway Finance Corporation Limited",
       "sector": "Financial Services",
@@ -109,10 +19,10 @@
       "change_1w": NaN,
       "change_1m": NaN,
       "signal": "BUY",
-      "composite_score": 58.1,
+      "composite_score": 60.6,
       "scores": {
         "technical": 57.0,
-        "volume": 50.0,
+        "volume": 60.0,
         "event": 50.0,
         "fundamental": 83.0
       },
@@ -123,34 +33,34 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 1.66,
+        "volume_ratio": 1.36,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 49.6
+        "mfi": 56.9
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 78.81,
+        "ema_21": 78.69,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 74.65,
-        "r1": 75.25,
-        "r2": 75.79,
-        "s1": 74.11,
-        "s2": 73.51,
+        "pivot": 76.79,
+        "r1": 78.78,
+        "r2": 80.06,
+        "s1": 75.51,
+        "s2": 73.52,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 14.090909,
-        "pb": 1.7831259,
-        "dividend_yield": 2.81,
+        "pe": 15.022641,
+        "pb": 1.831903,
+        "dividend_yield": 2.71,
         "analyst_target": 60.0,
         "recommendation": "none",
         "earnings_date": null,
-        "market_cap": 1012809203712
+        "market_cap": 1040514482176
       },
       "news": {
         "ticker": "IRFC.NS",
@@ -167,13 +77,13 @@
           "negative": []
         },
         "news_summary": "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today. IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India. how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India",
-        "fetched_at": "2026-10-12T21:20:06.870151"
+        "fetched_at": "2026-10-13T19:23:41.644339"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:53.871130",
+      "analyzed_at": "2026-10-13T19:23:19.204756",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -196,10 +106,10 @@
       "change_1w": NaN,
       "change_1m": NaN,
       "signal": "BUY",
-      "composite_score": 58.1,
+      "composite_score": 59.1,
       "scores": {
         "technical": 57.0,
-        "volume": 38.0,
+        "volume": 42.0,
         "event": 70.0,
         "fundamental": 83.0
       },
@@ -210,41 +120,41 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 1.23,
+        "volume_ratio": 1.08,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 28.2
+        "mfi": 36.6
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 171.08,
+        "ema_21": 170.7,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 167.14,
-        "r1": 167.97,
-        "r2": 169.3,
-        "s1": 165.81,
-        "s2": 164.98,
+        "pivot": 167.88,
+        "r1": 168.85,
+        "r2": 170.79,
+        "s1": 165.94,
+        "s2": 164.97,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 11.1051235,
-        "pb": 1.2313629,
+        "pe": 11.212525,
+        "pb": 1.2416174,
         "dividend_yield": 3.3,
         "analyst_target": 195.36667,
         "recommendation": "buy",
         "earnings_date": null,
-        "market_cap": 1097446522880
+        "market_cap": 1106585845760
       },
       "news": {
         "ticker": "GAIL.NS",
         "headlines": [
           "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph",
-          "GAIL Share Price - Upstox",
-          "GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/"
+          "GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/",
+          "GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - Simply Wall Street"
         ],
         "sources": [
           "Google News"
@@ -253,15 +163,105 @@
           "positive": [],
           "negative": []
         },
-        "news_summary": "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph. GAIL Share Price - Upstox. GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/",
-        "fetched_at": "2026-10-12T21:20:08.445015"
+        "news_summary": "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph. GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/. GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:43.729521"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building",
         "Analyst consensus: BUY"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:56.467693",
+      "analyzed_at": "2026-10-13T19:23:23.598217",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "NCC.NS",
+      "name": "NCC Limited",
+      "sector": "Industrials",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 59.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.31,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 36.0
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 131.36,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 123.62,
+        "r1": 125.19,
+        "r2": 126.99,
+        "s1": 121.82,
+        "s2": 120.25,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 11.007086,
+        "pb": 0.9915265,
+        "dividend_yield": 1.78,
+        "analyst_target": 188.7,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 78022492160
+      },
+      "news": {
+        "ticker": "NCC.NS",
+        "headlines": [
+          "NCC (NCC) Share/Stock Price Live, NSE - TechGraph",
+          "NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest",
+          "Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": []
+        },
+        "news_summary": "NCC (NCC) Share/Stock Price Live, NSE - TechGraph. NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest. Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:45.877920"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:37.141594",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -298,34 +298,34 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.72,
+        "volume_ratio": 0.7,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 32.5
+        "mfi": 38.7
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 416.37,
+        "ema_21": 416.19,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 407.47,
-        "r1": 411.78,
-        "r2": 415.52,
-        "s1": 403.73,
-        "s2": 399.42,
+        "pivot": 415.32,
+        "r1": 420.13,
+        "r2": 425.82,
+        "s1": 409.63,
+        "s2": 404.82,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 22.475597,
-        "pb": 8.074855,
-        "dividend_yield": 0.98,
+        "pe": 22.811123,
+        "pb": 3.1798122,
+        "dividend_yield": 0.97,
         "analyst_target": 519.0,
         "recommendation": "buy",
         "earnings_date": null,
-        "market_cap": 143918972928
+        "market_cap": 143849521152
       },
       "news": {
         "ticker": "LTFOODS.NS",
@@ -342,899 +342,14 @@
           "negative": []
         },
         "news_summary": "LT Foods (NSEI:LTFOODS) Stock Forecast & Analyst Predictions - Simply Wall Street. LTFOODS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView. LT Foods LTFOODS Reg 74(5) Compliance Certificate Q2 FY27 - Kalkine India",
-        "fetched_at": "2026-10-12T21:20:10.311580"
+        "fetched_at": "2026-10-13T19:23:47.771377"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building",
         "Analyst consensus: BUY"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:59.262594",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "RELIANCE.NS",
-      "name": "Reliance Industries Limited",
-      "sector": "Energy",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 56.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 50.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.86,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 42.8
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 1218.98,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 1169.83,
-        "r1": 1179.47,
-        "r2": 1188.63,
-        "s1": 1160.67,
-        "s2": 1151.03,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 20.986961,
-        "pb": 1.7347635,
-        "dividend_yield": 0.51,
-        "analyst_target": 1666.8,
-        "recommendation": "strong_buy",
-        "earnings_date": null,
-        "market_cap": 0
-      },
-      "news": {
-        "ticker": "RELIANCE.NS",
-        "headlines": [
-          "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance UK",
-          "Reliance Industries (NSEI:RELIANCE) - Stock Analysis - Simply Wall Street",
-          "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance UK. Reliance Industries (NSEI:RELIANCE) - Stock Analysis - Simply Wall Street. Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox",
-        "fetched_at": "2026-10-12T21:20:11.954902"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:48.518356",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    }
-  ],
-  "watchlist": [
-    {
-      "ticker": "NCC.NS",
-      "name": "NCC Limited",
-      "sector": "Industrials",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 59.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 70.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.32,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 35.9
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 132.16,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 125.05,
-        "r1": 127.75,
-        "r2": 130.43,
-        "s1": 122.37,
-        "s2": 119.67,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 11.075403,
-        "pb": 0.98442537,
-        "dividend_yield": 1.76,
-        "analyst_target": 188.7,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 77463707648
-      },
-      "news": {
-        "ticker": "NCC.NS",
-        "headlines": [
-          "NCC (NCC) Share/Stock Price Live, NSE - TechGraph",
-          "NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest",
-          "Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [
-            "growth"
-          ],
-          "negative": []
-        },
-        "news_summary": "NCC (NCC) Share/Stock Price Live, NSE - TechGraph. NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest. Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street",
-        "fetched_at": "2026-10-12T21:20:05.054829"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:01.248236",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "IRFC.NS",
-      "name": "Indian Railway Finance Corporation Limited",
-      "sector": "Financial Services",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 58.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 50.0,
-        "event": 50.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.66,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 49.6
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 78.81,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 74.65,
-        "r1": 75.25,
-        "r2": 75.79,
-        "s1": 74.11,
-        "s2": 73.51,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 14.090909,
-        "pb": 1.7831259,
-        "dividend_yield": 2.81,
-        "analyst_target": 60.0,
-        "recommendation": "none",
-        "earnings_date": null,
-        "market_cap": 1012809203712
-      },
-      "news": {
-        "ticker": "IRFC.NS",
-        "headlines": [
-          "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today",
-          "IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India",
-          "how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today. IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India. how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India",
-        "fetched_at": "2026-10-12T21:20:06.870151"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:53.871130",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "GAIL.NS",
-      "name": "GAIL (India) Limited",
-      "sector": "Utilities",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 58.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 38.0,
-        "event": 70.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.23,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 28.2
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 171.08,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 167.14,
-        "r1": 167.97,
-        "r2": 169.3,
-        "s1": 165.81,
-        "s2": 164.98,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 11.1051235,
-        "pb": 1.2313629,
-        "dividend_yield": 3.3,
-        "analyst_target": 195.36667,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 1097446522880
-      },
-      "news": {
-        "ticker": "GAIL.NS",
-        "headlines": [
-          "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph",
-          "GAIL Share Price - Upstox",
-          "GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph. GAIL Share Price - Upstox. GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/",
-        "fetched_at": "2026-10-12T21:20:08.445015"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:56.467693",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    }
-  ],
-  "avoid": [],
-  "all_results": [
-    {
-      "ticker": "NCC.NS",
-      "name": "NCC Limited",
-      "sector": "Industrials",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 59.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 70.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.32,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 35.9
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 132.16,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 125.05,
-        "r1": 127.75,
-        "r2": 130.43,
-        "s1": 122.37,
-        "s2": 119.67,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 11.075403,
-        "pb": 0.98442537,
-        "dividend_yield": 1.76,
-        "analyst_target": 188.7,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 77463707648
-      },
-      "news": {
-        "ticker": "NCC.NS",
-        "headlines": [
-          "NCC (NCC) Share/Stock Price Live, NSE - TechGraph",
-          "NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest",
-          "Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [
-            "growth"
-          ],
-          "negative": []
-        },
-        "news_summary": "NCC (NCC) Share/Stock Price Live, NSE - TechGraph. NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest. Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street",
-        "fetched_at": "2026-10-12T21:20:05.054829"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:01.248236",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "IRFC.NS",
-      "name": "Indian Railway Finance Corporation Limited",
-      "sector": "Financial Services",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 58.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 50.0,
-        "event": 50.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.66,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 49.6
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 78.81,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 74.65,
-        "r1": 75.25,
-        "r2": 75.79,
-        "s1": 74.11,
-        "s2": 73.51,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 14.090909,
-        "pb": 1.7831259,
-        "dividend_yield": 2.81,
-        "analyst_target": 60.0,
-        "recommendation": "none",
-        "earnings_date": null,
-        "market_cap": 1012809203712
-      },
-      "news": {
-        "ticker": "IRFC.NS",
-        "headlines": [
-          "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today",
-          "IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India",
-          "how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today. IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India. how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India",
-        "fetched_at": "2026-10-12T21:20:06.870151"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:53.871130",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "GAIL.NS",
-      "name": "GAIL (India) Limited",
-      "sector": "Utilities",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "BUY",
-      "composite_score": 58.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 38.0,
-        "event": 70.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.23,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 28.2
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 171.08,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 167.14,
-        "r1": 167.97,
-        "r2": 169.3,
-        "s1": 165.81,
-        "s2": 164.98,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 11.1051235,
-        "pb": 1.2313629,
-        "dividend_yield": 3.3,
-        "analyst_target": 195.36667,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 1097446522880
-      },
-      "news": {
-        "ticker": "GAIL.NS",
-        "headlines": [
-          "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph",
-          "GAIL Share Price - Upstox",
-          "GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph. GAIL Share Price - Upstox. GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/",
-        "fetched_at": "2026-10-12T21:20:08.445015"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:56.467693",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "LTFOODS.NS",
-      "name": "LT Foods Limited",
-      "sector": "Consumer Defensive",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 57.6,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 70.0,
-        "fundamental": 73.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.72,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 32.5
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 416.37,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 407.47,
-        "r1": 411.78,
-        "r2": 415.52,
-        "s1": 403.73,
-        "s2": 399.42,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 22.475597,
-        "pb": 8.074855,
-        "dividend_yield": 0.98,
-        "analyst_target": 519.0,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 143918972928
-      },
-      "news": {
-        "ticker": "LTFOODS.NS",
-        "headlines": [
-          "LT Foods (NSEI:LTFOODS) Stock Forecast & Analyst Predictions - Simply Wall Street",
-          "LTFOODS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-          "LT Foods LTFOODS Reg 74(5) Compliance Certificate Q2 FY27 - Kalkine India"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "LT Foods (NSEI:LTFOODS) Stock Forecast & Analyst Predictions - Simply Wall Street. LTFOODS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView. LT Foods LTFOODS Reg 74(5) Compliance Certificate Q2 FY27 - Kalkine India",
-        "fetched_at": "2026-10-12T21:20:10.311580"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:59.262594",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "RELIANCE.NS",
-      "name": "Reliance Industries Limited",
-      "sector": "Energy",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 56.1,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 50.0,
-        "fundamental": 83.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.86,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 42.8
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 1218.98,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 1169.83,
-        "r1": 1179.47,
-        "r2": 1188.63,
-        "s1": 1160.67,
-        "s2": 1151.03,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 20.986961,
-        "pb": 1.7347635,
-        "dividend_yield": 0.51,
-        "analyst_target": 1666.8,
-        "recommendation": "strong_buy",
-        "earnings_date": null,
-        "market_cap": 0
-      },
-      "news": {
-        "ticker": "RELIANCE.NS",
-        "headlines": [
-          "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance UK",
-          "Reliance Industries (NSEI:RELIANCE) - Stock Analysis - Simply Wall Street",
-          "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance UK. Reliance Industries (NSEI:RELIANCE) - Stock Analysis - Simply Wall Street. Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox",
-        "fetched_at": "2026-10-12T21:20:11.954902"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:48.518356",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "HINDUNILVR.NS",
-      "name": "Hindustan Unilever Limited",
-      "sector": "Consumer Defensive",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 55.4,
-      "scores": {
-        "technical": 57.0,
-        "volume": 42.0,
-        "event": 70.0,
-        "fundamental": 58.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.12,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 30.3
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 1905.51,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 1854.9,
-        "r1": 1870.7,
-        "r2": 1884.7,
-        "s1": 1840.9,
-        "s2": 1825.1,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 40.822872,
-        "pb": 8.777164,
-        "dividend_yield": 2.37,
-        "analyst_target": 2400.6843,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 4277900673024
-      },
-      "news": {
-        "ticker": "HINDUNILVR.NS",
-        "headlines": [
-          "Hindustan Unilever Ltd. Share Price Today - Hindustan Unilever Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-          "Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "Hindustan Unilever stock at INR 1,820.70, 0.1 percent above yearly low - ad-hoc-news.de"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Hindustan Unilever Ltd. Share Price Today - Hindustan Unilever Ltd. Stock Price Live NSE/BSE - CNBC TV18. Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada. Hindustan Unilever stock at INR 1,820.70, 0.1 percent above yearly low - ad-hoc-news.de",
-        "fetched_at": "2026-10-12T21:20:13.622835"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building",
-        "Analyst consensus: BUY"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:51.062276",
+      "analyzed_at": "2026-10-13T19:23:28.131594",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -1257,10 +372,10 @@
       "change_1w": NaN,
       "change_1m": NaN,
       "signal": "NEUTRAL",
-      "composite_score": 54.6,
+      "composite_score": 56.6,
       "scores": {
         "technical": 57.0,
-        "volume": 30.0,
+        "volume": 38.0,
         "event": 70.0,
         "fundamental": 73.0
       },
@@ -1271,41 +386,41 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.77,
+        "volume_ratio": 1.76,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 22.8
+        "mfi": 18.1
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 11978.82,
+        "ema_21": 11918.48,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 11374.0,
-        "r1": 11501.0,
-        "r2": 11582.0,
-        "s1": 11293.0,
-        "s2": 11166.0,
+        "pivot": 11369.67,
+        "r1": 11464.33,
+        "r2": 11613.67,
+        "s1": 11220.33,
+        "s2": 11125.67,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 24.818495,
-        "pb": 3.319869,
-        "dividend_yield": 1.23,
+        "pe": 24.437683,
+        "pb": 3.2993307,
+        "dividend_yield": 1.24,
         "analyst_target": 15526.897,
         "recommendation": "buy",
         "earnings_date": null,
-        "market_cap": 3557464997888
+        "market_cap": 3535456698368
       },
       "news": {
         "ticker": "MARUTI.NS",
         "headlines": [
-          "Maruti Suzuki stock at INR 11,315 with a 24.8 P/ E ratio - ad-hoc-news.de",
-          "Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall Street",
-          "Maruti Suzuki sets results date as Citi rates Maruti Suzuki stock Buy - ad-hoc-news.de"
+          "Maruti Suzuki schedules October 27 results. Maruti Suzuki stock nears yearly low - ad-hoc-news.de",
+          "Maruti Suzuki (MARUTI.NS) Slips 1.51% to \u20b911,450 as Stock Drifts Toward Key Support Zone - Monthly Profile - siam.in",
+          "Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall Street"
         ],
         "sources": [
           "Google News"
@@ -1316,15 +431,1176 @@
           ],
           "negative": []
         },
-        "news_summary": "Maruti Suzuki stock at INR 11,315 with a 24.8 P/ E ratio - ad-hoc-news.de. Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall Street. Maruti Suzuki sets results date as Citi rates Maruti Suzuki stock Buy - ad-hoc-news.de",
-        "fetched_at": "2026-10-12T21:20:15.703956"
+        "news_summary": "Maruti Suzuki schedules October 27 results. Maruti Suzuki stock nears yearly low - ad-hoc-news.de. Maruti Suzuki (MARUTI.NS) Slips 1.51% to \u20b911,450 as Stock Drifts Toward Key Support Zone - Monthly Profile - siam.in. Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:49.544930"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building",
         "Analyst consensus: BUY"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:51.747992",
+      "analyzed_at": "2026-10-13T19:23:15.924680",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "IRFC.NS",
+      "name": "Indian Railway Finance Corporation Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 60.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 60.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.36,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 56.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 78.69,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 76.79,
+        "r1": 78.78,
+        "r2": 80.06,
+        "s1": 75.51,
+        "s2": 73.52,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 15.022641,
+        "pb": 1.831903,
+        "dividend_yield": 2.71,
+        "analyst_target": 60.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1040514482176
+      },
+      "news": {
+        "ticker": "IRFC.NS",
+        "headlines": [
+          "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today",
+          "IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India",
+          "how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today. IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India. how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India",
+        "fetched_at": "2026-10-13T19:23:41.644339"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:19.204756",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "GAIL.NS",
+      "name": "GAIL (India) Limited",
+      "sector": "Utilities",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 59.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.08,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 36.6
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 170.7,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 167.88,
+        "r1": 168.85,
+        "r2": 170.79,
+        "s1": 165.94,
+        "s2": 164.97,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 11.212525,
+        "pb": 1.2416174,
+        "dividend_yield": 3.3,
+        "analyst_target": 195.36667,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 1106585845760
+      },
+      "news": {
+        "ticker": "GAIL.NS",
+        "headlines": [
+          "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph",
+          "GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/",
+          "GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - Simply Wall Street"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph. GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/. GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:43.729521"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:23.598217",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "NCC.NS",
+      "name": "NCC Limited",
+      "sector": "Industrials",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 59.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.31,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 36.0
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 131.36,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 123.62,
+        "r1": 125.19,
+        "r2": 126.99,
+        "s1": 121.82,
+        "s2": 120.25,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 11.007086,
+        "pb": 0.9915265,
+        "dividend_yield": 1.78,
+        "analyst_target": 188.7,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 78022492160
+      },
+      "news": {
+        "ticker": "NCC.NS",
+        "headlines": [
+          "NCC (NCC) Share/Stock Price Live, NSE - TechGraph",
+          "NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest",
+          "Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": []
+        },
+        "news_summary": "NCC (NCC) Share/Stock Price Live, NSE - TechGraph. NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest. Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:45.877920"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:37.141594",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "avoid": [],
+  "all_results": [
+    {
+      "ticker": "IRFC.NS",
+      "name": "Indian Railway Finance Corporation Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 60.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 60.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.36,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 56.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 78.69,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 76.79,
+        "r1": 78.78,
+        "r2": 80.06,
+        "s1": 75.51,
+        "s2": 73.52,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 15.022641,
+        "pb": 1.831903,
+        "dividend_yield": 2.71,
+        "analyst_target": 60.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1040514482176
+      },
+      "news": {
+        "ticker": "IRFC.NS",
+        "headlines": [
+          "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today",
+          "IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India",
+          "how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Indian Railway Finance Corporation Ltd (IRFC) Share Price - Business Today. IRFC (NSE:IRFC): What Does the Q2 FY27 Depository Compliance Certificate Mean? - Kalkine India. how Fair Value models spotted 51% downside in Indian Railway Finance - Investing.com India",
+        "fetched_at": "2026-10-13T19:23:41.644339"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:19.204756",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "GAIL.NS",
+      "name": "GAIL (India) Limited",
+      "sector": "Utilities",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 59.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.08,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 36.6
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 170.7,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 167.88,
+        "r1": 168.85,
+        "r2": 170.79,
+        "s1": 165.94,
+        "s2": 164.97,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 11.212525,
+        "pb": 1.2416174,
+        "dividend_yield": 3.3,
+        "analyst_target": 195.36667,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 1106585845760
+      },
+      "news": {
+        "ticker": "GAIL.NS",
+        "headlines": [
+          "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph",
+          "GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/",
+          "GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - Simply Wall Street"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "GAIL (India) (GAIL) Share/Stock Price Live, NSE - TechGraph. GAIL (India) Limited (NSE: GAIL) Holds Near \u20b9172 After Marginal 0.14% Slip - Price Gap Fill - https://www.siam.in/. GAIL (India) Limited (NSE:GAIL) Stock Goes Ex-Dividend In Just Three Days - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:43.729521"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:23.598217",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "NCC.NS",
+      "name": "NCC Limited",
+      "sector": "Industrials",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 59.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.31,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 36.0
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 131.36,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 123.62,
+        "r1": 125.19,
+        "r2": 126.99,
+        "s1": 121.82,
+        "s2": 120.25,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 11.007086,
+        "pb": 0.9915265,
+        "dividend_yield": 1.78,
+        "analyst_target": 188.7,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 78022492160
+      },
+      "news": {
+        "ticker": "NCC.NS",
+        "headlines": [
+          "NCC (NCC) Share/Stock Price Live, NSE - TechGraph",
+          "NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest",
+          "Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [
+            "growth"
+          ],
+          "negative": []
+        },
+        "news_summary": "NCC (NCC) Share/Stock Price Live, NSE - TechGraph. NCC Ltd. Share Price Up 6.28% Today: Price Action Analysis - Univest. Benign Growth For NCC Limited (NSE:NCC) Underpins Its Share Price - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:45.877920"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:37.141594",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "name": "LT Foods Limited",
+      "sector": "Consumer Defensive",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 57.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.7,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 38.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 416.19,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 415.32,
+        "r1": 420.13,
+        "r2": 425.82,
+        "s1": 409.63,
+        "s2": 404.82,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 22.811123,
+        "pb": 3.1798122,
+        "dividend_yield": 0.97,
+        "analyst_target": 519.0,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 143849521152
+      },
+      "news": {
+        "ticker": "LTFOODS.NS",
+        "headlines": [
+          "LT Foods (NSEI:LTFOODS) Stock Forecast & Analyst Predictions - Simply Wall Street",
+          "LTFOODS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+          "LT Foods LTFOODS Reg 74(5) Compliance Certificate Q2 FY27 - Kalkine India"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "LT Foods (NSEI:LTFOODS) Stock Forecast & Analyst Predictions - Simply Wall Street. LTFOODS Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView. LT Foods LTFOODS Reg 74(5) Compliance Certificate Q2 FY27 - Kalkine India",
+        "fetched_at": "2026-10-13T19:23:47.771377"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:28.131594",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 56.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 38.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.76,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 18.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 11918.48,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 11369.67,
+        "r1": 11464.33,
+        "r2": 11613.67,
+        "s1": 11220.33,
+        "s2": 11125.67,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 24.437683,
+        "pb": 3.2993307,
+        "dividend_yield": 1.24,
+        "analyst_target": 15526.897,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 3535456698368
+      },
+      "news": {
+        "ticker": "MARUTI.NS",
+        "headlines": [
+          "Maruti Suzuki schedules October 27 results. Maruti Suzuki stock nears yearly low - ad-hoc-news.de",
+          "Maruti Suzuki (MARUTI.NS) Slips 1.51% to \u20b911,450 as Stock Drifts Toward Key Support Zone - Monthly Profile - siam.in",
+          "Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall Street"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [
+            "buy"
+          ],
+          "negative": []
+        },
+        "news_summary": "Maruti Suzuki schedules October 27 results. Maruti Suzuki stock nears yearly low - ad-hoc-news.de. Maruti Suzuki (MARUTI.NS) Slips 1.51% to \u20b911,450 as Stock Drifts Toward Key Support Zone - Monthly Profile - siam.in. Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:49.544930"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:15.924680",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 56.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.83,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 36.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1213.52,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1165.87,
+        "r1": 1178.53,
+        "r2": 1198.17,
+        "s1": 1146.23,
+        "s2": 1133.57,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 20.923601,
+        "pb": 1.7464392,
+        "dividend_yield": 0.52,
+        "analyst_target": 1666.8,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "RELIANCE.NS",
+        "headlines": [
+          "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "Reliance Industries (NSEI:RELIANCE) - Stock Analysis - Simply Wall Street",
+          "Nuvama keeps INR 1,766.00 target for Reliance stock - ad-hoc-news.de",
+          "Jio IPO may trigger Reliance\u2019s next big re-rating. Why Religare sees 47% upside ",
+          "Reliance Jio IPO: GMP already seeing 'Ambani premium' ahead of record issue launch "
+        ],
+        "sources": [
+          "Economic Times",
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore. Reliance Industries (NSEI:RELIANCE) - Stock Analysis - Simply Wall Street. Nuvama keeps INR 1,766.00 target for Reliance stock - ad-hoc-news.de",
+        "fetched_at": "2026-10-13T19:23:51.302896"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:10.687681",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 55.8,
+      "scores": {
+        "technical": 43.0,
+        "volume": 60.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 2.59,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 62.0
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 2132.94,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 2147.0,
+        "r1": 2173.1,
+        "r2": 2221.2,
+        "s1": 2098.9,
+        "s2": 2072.8,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 15.678457,
+        "pb": 6.9040527,
+        "dividend_yield": 2.26,
+        "analyst_target": 2390.262,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "TCS.NS",
+        "headlines": [
+          "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "TCS Share Price Today - Tata Consultancy Services on NSE/BSE - scanx.trade",
+          "Analysts Have Made A Financial Statement On Tata Consultancy Services Limited's (NSE:TCS) Second-Quarter Report - Simply Wall Street",
+          "Market wrap:  HCL Tech, TCS, Kotak Bank, Eternal top gainers and losers on Nifty and Sensex on Tuesday ",
+          "Rs 26,340 crore added in minutes! Why HCL Tech, TCS and other IT stocks rallied up to 7% "
+        ],
+        "sources": [
+          "Economic Times",
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [
+            "gain"
+          ],
+          "negative": []
+        },
+        "news_summary": "Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history - Yahoo Finance Singapore. TCS Share Price Today - Tata Consultancy Services on NSE/BSE - scanx.trade. Analysts Have Made A Financial Statement On Tata Consultancy Services Limited's (NSE:TCS) Second-Quarter Report - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:23:53.159188"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-10-13T19:23:11.787695",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys Limited",
+      "sector": "Technology",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 55.8,
+      "scores": {
+        "technical": 43.0,
+        "volume": 60.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.95,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 62.8
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1031.68,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1021.48,
+        "r1": 1032.32,
+        "r2": 1044.63,
+        "s1": 1009.17,
+        "s2": 998.33,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 14.422868,
+        "pb": 4.62047,
+        "dividend_yield": 4.9,
+        "analyst_target": 1179.9762,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4301869809664
+      },
+      "news": {
+        "ticker": "INFY.NS",
+        "headlines": [
+          "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+          "Infosys Limited (INFY.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox. Infosys Limited (INFY.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada. INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+        "fetched_at": "2026-10-13T19:23:55.188621"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-10-13T19:23:12.944277",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "name": "Hindustan Unilever Limited",
+      "sector": "Consumer Defensive",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 54.4,
+      "scores": {
+        "technical": 57.0,
+        "volume": 38.0,
+        "event": 70.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.57,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 29.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1897.8,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1834.83,
+        "r1": 1851.57,
+        "r2": 1882.43,
+        "s1": 1803.97,
+        "s2": 1787.23,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 41.237907,
+        "pb": 9.041343,
+        "dividend_yield": 2.42,
+        "analyst_target": 2395.6843,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4406658465792
+      },
+      "news": {
+        "ticker": "HINDUNILVR.NS",
+        "headlines": [
+          "Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "Kwality Walls India Ltd Share Price Today,, KWIL Share Price NSE, BSE - Business Today",
+          "Hindustan Unilever stock at INR 1,820.70, 0.1 percent above yearly low - ad-hoc-news.de"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Hindustan Unilever Limited (HINDUNILVR.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada. Kwality Walls India Ltd Share Price Today,, KWIL Share Price NSE, BSE - Business Today. Hindustan Unilever stock at INR 1,820.70, 0.1 percent above yearly low - ad-hoc-news.de",
+        "fetched_at": "2026-10-13T19:23:57.033998"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:14.861307",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "name": "Jio Financial Services Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 54.4,
+      "scores": {
+        "technical": 57.0,
+        "volume": 50.0,
+        "event": 50.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.31,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 30.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 221.77,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 214.51,
+        "r1": 216.7,
+        "r2": 219.96,
+        "s1": 211.25,
+        "s2": 209.06,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 67.22222,
+        "pb": 1.0300989,
+        "dividend_yield": 0.28,
+        "analyst_target": 290.33334,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1438164320256
+      },
+      "news": {
+        "ticker": "JIOFIN.NS",
+        "headlines": [
+          "Three analysts see INR 295.00 target for Jio Financial Services stock - ad-hoc-news.de",
+          "Jio Financial Services sets October 15 results: what it means for Jio Financial Services stock - ad-hoc-news.de",
+          "M&MFIN Share Price Today - M&M Financial Services on NSE/BSE - scanx.trade"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Three analysts see INR 295.00 target for Jio Financial Services stock - ad-hoc-news.de. Jio Financial Services sets October 15 results: what it means for Jio Financial Services stock - ad-hoc-news.de. M&MFIN Share Price Today - M&M Financial Services on NSE/BSE - scanx.trade",
+        "fetched_at": "2026-10-13T19:23:59.091189"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:26.911045",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -1361,41 +1637,41 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.87,
+        "volume_ratio": 0.38,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 28.7
+        "mfi": 13.0
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 302.19,
+        "ema_21": 300.58,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 286.98,
-        "r1": 290.22,
-        "r2": 292.63,
-        "s1": 284.57,
-        "s2": 281.33,
+        "pivot": 286.85,
+        "r1": 289.2,
+        "r2": 293.9,
+        "s1": 282.15,
+        "s2": 279.8,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 7.096533,
-        "pb": 1.213877,
-        "dividend_yield": 6.95,
+        "pe": 7.0857983,
+        "pb": 1.2262504,
+        "dividend_yield": 7.03,
         "analyst_target": 345.41934,
         "recommendation": "buy",
         "earnings_date": null,
-        "market_cap": 1215550455808
+        "market_cap": 1227940954112
       },
       "news": {
         "ticker": "BPCL.NS",
         "headlines": [
+          "Bharat Petroleum (NSEI:BPCL) Stock Forecast & Analyst Predictions - Simply Wall Street",
           "Is Bharat Petroleum Corporation the Best Stock in Its Sector? A Look at the Numbers - Univest",
           "CHENNPETRO Share Price Today - Chennai Petroleum Corporation on NSE/BSE - scanx.trade",
-          "Bharat Petroleum stock falls 1.82 percent as Q1 loss weighs - AD HOC NEWS",
           "BPCL Share Price Highlights: BPCL Stock Price History "
         ],
         "sources": [
@@ -1404,20 +1680,17 @@
         ],
         "sentiment_keywords": {
           "positive": [],
-          "negative": [
-            "loss",
-            "fall"
-          ]
+          "negative": []
         },
-        "news_summary": "Is Bharat Petroleum Corporation the Best Stock in Its Sector? A Look at the Numbers - Univest. CHENNPETRO Share Price Today - Chennai Petroleum Corporation on NSE/BSE - scanx.trade. Bharat Petroleum stock falls 1.82 percent as Q1 loss weighs - AD HOC NEWS",
-        "fetched_at": "2026-10-12T21:20:17.271393"
+        "news_summary": "Bharat Petroleum (NSEI:BPCL) Stock Forecast & Analyst Predictions - Simply Wall Street. Is Bharat Petroleum Corporation the Best Stock in Its Sector? A Look at the Numbers - Univest. CHENNPETRO Share Price Today - Chennai Petroleum Corporation on NSE/BSE - scanx.trade",
+        "fetched_at": "2026-10-13T19:24:01.200693"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building",
         "Analyst consensus: BUY"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:55.278623",
+      "analyzed_at": "2026-10-13T19:23:21.340859",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -1454,30 +1727,30 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 1.19,
+        "volume_ratio": 0.71,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 24.9
+        "mfi": 14.8
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 132.78,
+        "ema_21": 132.1,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 126.37,
-        "r1": 127.11,
-        "r2": 127.86,
-        "s1": 125.62,
-        "s2": 124.88,
+        "pivot": 126.3,
+        "r1": 127.25,
+        "r2": 129.15,
+        "s1": 124.4,
+        "s2": 123.45,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 5.1288867,
-        "pb": 0.78627795,
-        "dividend_yield": 2.57,
+        "pe": 5.121397,
+        "pb": 0.79123336,
+        "dividend_yield": 2.59,
         "analyst_target": 159.3871,
         "recommendation": "buy",
         "earnings_date": null,
@@ -1487,7 +1760,7 @@
         "ticker": "IOC.NS",
         "headlines": [
           "Indian Oil (NSEI:IOC) Stock Forecast & Analyst Predictions - Simply Wall Street",
-          "List of Oil & Gas Stocks in India (2026) - INDmoney",
+          "CHENNPETRO Share Price Today - Chennai Petroleum Corporation on NSE/BSE - scanx.trade",
           "Chennai Petroleum Corporation Ltd Share Price Today, CHENNPETRO Share Price NSE, BSE - Business Today"
         ],
         "sources": [
@@ -1497,285 +1770,15 @@
           "positive": [],
           "negative": []
         },
-        "news_summary": "Indian Oil (NSEI:IOC) Stock Forecast & Analyst Predictions - Simply Wall Street. List of Oil & Gas Stocks in India (2026) - INDmoney. Chennai Petroleum Corporation Ltd Share Price Today, CHENNPETRO Share Price NSE, BSE - Business Today",
-        "fetched_at": "2026-10-12T21:20:18.920316"
+        "news_summary": "Indian Oil (NSEI:IOC) Stock Forecast & Analyst Predictions - Simply Wall Street. CHENNPETRO Share Price Today - Chennai Petroleum Corporation on NSE/BSE - scanx.trade. Chennai Petroleum Corporation Ltd Share Price Today, CHENNPETRO Share Price NSE, BSE - Business Today",
+        "fetched_at": "2026-10-13T19:24:03.427928"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building",
         "Analyst consensus: BUY"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:57.855515",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "TCS.NS",
-      "name": "Tata Consultancy Services Limited",
-      "sector": "Technology",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 53.8,
-      "scores": {
-        "technical": 43.0,
-        "volume": 52.0,
-        "event": 70.0,
-        "fundamental": 73.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "weakening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.92,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 62.0
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 2133.74,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 2148.67,
-        "r1": 2211.33,
-        "r2": 2266.67,
-        "s1": 2093.33,
-        "s2": 2030.67,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 14.8955555,
-        "pb": 7.012877,
-        "dividend_yield": 2.23,
-        "analyst_target": 2390.262,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 0
-      },
-      "news": {
-        "ticker": "TCS.NS",
-        "headlines": [
-          "Tata Consultancy Services Limited (TCS.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "Analysts Have Made A Financial Statement On Tata Consultancy Services Limited's (NSE:TCS) Second-Quarter Report - Simply Wall Street",
-          "Tata Consultancy Services Ltd. Share Price Live Today - CNBC TV18",
-          "TCS shares rally 6% in 2 sessions after Q2 results. What are technicals indicating for the IT major? ",
-          "TCS Share Price Highlights: TCS Stock Price History "
-        ],
-        "sources": [
-          "Economic Times",
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Tata Consultancy Services Limited (TCS.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada. Analysts Have Made A Financial Statement On Tata Consultancy Services Limited's (NSE:TCS) Second-Quarter Report - Simply Wall Street. Tata Consultancy Services Ltd. Share Price Live Today - CNBC TV18",
-        "fetched_at": "2026-10-12T21:20:20.596173"
-      },
-      "reasons": [
-        "Analyst consensus: BUY"
-      ],
-      "risks": [
-        "MACD weakening \u2014 momentum fading"
-      ],
-      "analyzed_at": "2026-10-12T21:19:49.032398",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "INFY.NS",
-      "name": "Infosys Limited",
-      "sector": "Technology",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 53.8,
-      "scores": {
-        "technical": 43.0,
-        "volume": 52.0,
-        "event": 70.0,
-        "fundamental": 73.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "weakening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.81,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 56.2
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 1032.85,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 1020.53,
-        "r1": 1033.77,
-        "r2": 1044.13,
-        "s1": 1010.17,
-        "s2": 996.93,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 13.896458,
-        "pb": 4.4583664,
-        "dividend_yield": 4.89,
-        "analyst_target": 1179.9762,
-        "recommendation": "buy",
-        "earnings_date": null,
-        "market_cap": 4131350642688
-      },
-      "news": {
-        "ticker": "INFY.NS",
-        "headlines": [
-          "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
-          "Infosys Limited (INFY.NS) stock price, news, quote and history - Yahoo Finance Singapore",
-          "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox. Infosys Limited (INFY.NS) stock price, news, quote and history - Yahoo Finance Singapore. Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-        "fetched_at": "2026-10-12T21:20:22.231077"
-      },
-      "reasons": [
-        "Analyst consensus: BUY"
-      ],
-      "risks": [
-        "MACD weakening \u2014 momentum fading"
-      ],
-      "analyzed_at": "2026-10-12T21:19:49.749131",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "SETFGOLD.NS",
-      "name": "SBI Gold ETF",
-      "sector": "Unknown",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 53.2,
-      "scores": {
-        "technical": 57.0,
-        "volume": 50.0,
-        "event": 50.0,
-        "fundamental": 50.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.27,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 38.8
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 127.02,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 126.44,
-        "r1": 127.06,
-        "r2": 127.52,
-        "s1": 125.98,
-        "s2": 125.36,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": null,
-        "pb": null,
-        "dividend_yield": 0,
-        "analyst_target": null,
-        "recommendation": "none",
-        "earnings_date": null,
-        "market_cap": 0
-      },
-      "news": {
-        "ticker": "SETFGOLD.NS",
-        "headlines": [
-          "SBI Gold ETF Share Price Today - SBI Gold ETF Stock Price Live NSE/BSE - CNBC TV18",
-          "SETFGOLD ETF Profile: Dividends, Returns (NSE:SETFGOLD) - TradingView",
-          "Gold, silver ETFs fall up to 4% as stronger dollar, rate-hike fears weigh - Business Standard"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": [
-            "fall"
-          ]
-        },
-        "news_summary": "SBI Gold ETF Share Price Today - SBI Gold ETF Stock Price Live NSE/BSE - CNBC TV18. SETFGOLD ETF Profile: Dividends, Returns (NSE:SETFGOLD) - TradingView. Gold, silver ETFs fall up to 4% as stronger dollar, rate-hike fears weigh - Business Standard",
-        "fetched_at": "2026-10-12T21:20:23.796475"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:00.503906",
+      "analyzed_at": "2026-10-13T19:23:25.859847",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -1812,41 +1815,41 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.57,
+        "volume_ratio": 0.6,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 26.9
+        "mfi": 23.5
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 714.89,
+        "ema_21": 713.99,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 704.23,
-        "r1": 713.17,
-        "r2": 719.08,
-        "s1": 698.32,
-        "s2": 689.38,
+        "pivot": 705.7,
+        "r1": 711.05,
+        "r2": 717.2,
+        "s1": 699.55,
+        "s2": 694.2,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 15.407651,
-        "pb": 1.789936,
+        "pe": 15.555555,
+        "pb": 1.8130434,
         "dividend_yield": 1.84,
         "analyst_target": 981.6829,
         "recommendation": "strong_buy",
         "earnings_date": null,
-        "market_cap": 10868487094272
+        "market_cap": 11008794951680
       },
       "news": {
         "ticker": "HDFCBANK.NS",
         "headlines": [
           "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history - Yahoo Finance Singapore",
-          "HDFC Bank (NSEI:HDFCBANK) Stock Forecast & Analyst Predictions - Simply Wall Street",
-          "HDFC Bank Ltd (HDFCBANK) Share Price NSE - TechGraph"
+          "HDFC Bank Q2 FY27 Earnings Call Date and Dial-In Details - Kalkine India",
+          "HDFC Bank (NSEI:HDFCBANK) Stock Forecast & Analyst Predictions - Simply Wall Street"
         ],
         "sources": [
           "Google News"
@@ -1855,14 +1858,14 @@
           "positive": [],
           "negative": []
         },
-        "news_summary": "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history - Yahoo Finance Singapore. HDFC Bank (NSEI:HDFCBANK) Stock Forecast & Analyst Predictions - Simply Wall Street. HDFC Bank Ltd (HDFCBANK) Share Price NSE - TechGraph",
-        "fetched_at": "2026-10-12T21:20:27.501781"
+        "news_summary": "HDFC Bank Limited (HDFCBANK.NS) stock price, news, quote and history - Yahoo Finance Singapore. HDFC Bank Q2 FY27 Earnings Call Date and Dial-In Details - Kalkine India. HDFC Bank (NSEI:HDFCBANK) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:24:05.391711"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:57.218528",
+      "analyzed_at": "2026-10-13T19:23:24.622753",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -1899,41 +1902,41 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.7,
+        "volume_ratio": 0.78,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 37.0
+        "mfi": 37.6
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 2861.89,
+        "ema_21": 2840.81,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 2623.23,
-        "r1": 2664.17,
-        "r2": 2693.93,
-        "s1": 2593.47,
-        "s2": 2552.53,
+        "pivot": 2639.8,
+        "r1": 2654.4,
+        "r2": 2678.8,
+        "s1": 2615.4,
+        "s2": 2600.8,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 42.385174,
-        "pb": 4.20107,
+        "pe": 43.36283,
+        "pb": 4.3048987,
         "dividend_yield": 0.05,
         "analyst_target": 3773.0,
         "recommendation": "strong_buy",
         "earnings_date": null,
-        "market_cap": 3560290385920
+        "market_cap": 3648282427392
       },
       "news": {
         "ticker": "ADANIENT.NS",
         "headlines": [
           "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView",
-          "Adani Enterprises Ltd. Share Price Today - Adani Enterprises Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-          "Adani Enterprises stock sits at INR 2,630, 19.0 percent below high - ad-hoc-news.de"
+          "Jefferies maintains INR 3,830 target for Adani Enterprises stock - ad-hoc-news.de",
+          "Adani group stocks under pressure; Enterprises, Green Energy tank up to 7% - Business Standard"
         ],
         "sources": [
           "Google News"
@@ -1944,14 +1947,14 @@
             "fall"
           ]
         },
-        "news_summary": "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView. Adani Enterprises Ltd. Share Price Today - Adani Enterprises Ltd. Stock Price Live NSE/BSE - CNBC TV18. Adani Enterprises stock sits at INR 2,630, 19.0 percent below high - ad-hoc-news.de",
-        "fetched_at": "2026-10-12T21:20:29.273461"
+        "news_summary": "Weekly Recap: NSE:ADANIENT share fall and \u20b92 lakh crore plan - TradingView. Jefferies maintains INR 3,830 target for Adani Enterprises stock - ad-hoc-news.de. Adani group stocks under pressure; Enterprises, Green Energy tank up to 7% - Business Standard",
+        "fetched_at": "2026-10-13T19:24:07.296086"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:54.648976",
+      "analyzed_at": "2026-10-13T19:23:20.438196",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -1966,8 +1969,8 @@
       }
     },
     {
-      "ticker": "JIOFIN.NS",
-      "name": "Jio Financial Services Limited",
+      "ticker": "TATACAP.NS",
+      "name": "Tata Capital Limited",
       "sector": "Financial Services",
       "price": NaN,
       "change_1d": NaN,
@@ -1988,7 +1991,7 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.58,
+        "volume_ratio": 0.44,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
@@ -1998,47 +2001,49 @@
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 222.61,
+        "ema_21": 334.2,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 213.71,
-        "r1": 216.66,
-        "r2": 218.71,
-        "s1": 211.66,
-        "s2": 208.71,
+        "pivot": 325.17,
+        "r1": 332.33,
+        "r2": 337.67,
+        "s1": 319.83,
+        "s2": 312.67,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 66.28882,
-        "pb": 1.0095253,
-        "dividend_yield": 0.28,
-        "analyst_target": 290.33334,
+        "pe": 26.380836,
+        "pb": 3.012541,
+        "dividend_yield": 0.17,
+        "analyst_target": 407.92856,
         "recommendation": "strong_buy",
         "earnings_date": null,
-        "market_cap": 1409440546816
+        "market_cap": 1381599412224
       },
       "news": {
-        "ticker": "JIOFIN.NS",
+        "ticker": "TATACAP.NS",
         "headlines": [
-          "Jio Financial Services stock at INR 213.45 with INR 1.4 trillion value - ad-hoc-news.de",
-          "Jio Financial Services Ltd Share Price Today,, JIOFIN Share Price NSE, BSE - Business Today",
-          "M&MFIN Share Price Today - M&M Financial Services on NSE/BSE - scanx.trade"
+          "Tata Capital Ltd Dividend History, Yield & Record Date - INDmoney",
+          "Tata Capital Ltd (NSE:TATACAP) Full Year 2026 Earnings Call Highlights: Robust Growth Amidst ... - Yahoo Finance",
+          "TATA CAPITAL LIMITED Share Price - Live NSE: TATACAP Stock Price & Chart - Upstox"
         ],
         "sources": [
           "Google News"
         ],
         "sentiment_keywords": {
-          "positive": [],
+          "positive": [
+            "growth"
+          ],
           "negative": []
         },
-        "news_summary": "Jio Financial Services stock at INR 213.45 with INR 1.4 trillion value - ad-hoc-news.de. Jio Financial Services Ltd Share Price Today,, JIOFIN Share Price NSE, BSE - Business Today. M&MFIN Share Price Today - M&M Financial Services on NSE/BSE - scanx.trade",
-        "fetched_at": "2026-10-12T21:20:31.198117"
+        "news_summary": "Tata Capital Ltd Dividend History, Yield & Record Date - INDmoney. Tata Capital Ltd (NSE:TATACAP) Full Year 2026 Earnings Call Highlights: Robust Growth Amidst ... - Yahoo Finance. TATA CAPITAL LIMITED Share Price - Live NSE: TATACAP Stock Price & Chart - Upstox",
+        "fetched_at": "2026-10-13T19:24:09.193136"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:58.576391",
+      "analyzed_at": "2026-10-13T19:23:39.457618",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -2075,59 +2080,57 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.89,
+        "volume_ratio": 0.6,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 52.6
+        "mfi": 51.7
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 1350.09,
+        "ema_21": 1349.17,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 1352.23,
-        "r1": 1362.17,
-        "r2": 1369.33,
-        "s1": 1345.07,
-        "s2": 1335.13,
+        "pivot": 1344.13,
+        "r1": 1353.77,
+        "r2": 1367.53,
+        "s1": 1330.37,
+        "s2": 1320.73,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 17.321613,
-        "pb": 2.5265048,
-        "dividend_yield": 0.89,
+        "pe": 17.58273,
+        "pb": 2.5645907,
+        "dividend_yield": 0.9,
         "analyst_target": 1746.7382,
         "recommendation": "strong_buy",
         "earnings_date": null,
-        "market_cap": 9619448528896
+        "market_cap": 9764458201088
       },
       "news": {
         "ticker": "ICICIBANK.NS",
         "headlines": [
           "ICICI Bank (NSEI:ICICIBANK) Stock Forecast & Analyst Predictions - Simply Wall Street",
-          "ICICI Bank (ICICIBANK) Share/Stock Price Live, NSE - TechGraph",
-          "ICICI Bank stock draws an INR 2,000 target as profit rises 16 percent - AD HOC NEWS"
+          "ICICIBANK Outlook for the Week - Equitypandit",
+          "ICICI Bank (ICICIBANK) Share/Stock Price Live, NSE - TechGraph"
         ],
         "sources": [
           "Google News"
         ],
         "sentiment_keywords": {
-          "positive": [
-            "profit"
-          ],
+          "positive": [],
           "negative": []
         },
-        "news_summary": "ICICI Bank (NSEI:ICICIBANK) Stock Forecast & Analyst Predictions - Simply Wall Street. ICICI Bank (ICICIBANK) Share/Stock Price Live, NSE - TechGraph. ICICI Bank stock draws an INR 2,000 target as profit rises 16 percent - AD HOC NEWS",
-        "fetched_at": "2026-10-12T21:20:32.916848"
+        "news_summary": "ICICI Bank (NSEI:ICICIBANK) Stock Forecast & Analyst Predictions - Simply Wall Street. ICICIBANK Outlook for the Week - Equitypandit. ICICI Bank (ICICIBANK) Share/Stock Price Live, NSE - TechGraph",
+        "fetched_at": "2026-10-13T19:24:11.004976"
       },
       "reasons": [],
       "risks": [
         "MACD weakening \u2014 momentum fading"
       ],
-      "analyzed_at": "2026-10-12T21:19:50.301693",
+      "analyzed_at": "2026-10-13T19:23:13.874782",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -2142,8 +2145,8 @@
       }
     },
     {
-      "ticker": "MHRIL.NS",
-      "name": "Mahindra Holidays & Resorts India Limited",
+      "ticker": "RAJESHEXPO.NS",
+      "name": "Rajesh Exports Limited",
       "sector": "Consumer Cyclical",
       "price": NaN,
       "change_1d": NaN,
@@ -2153,183 +2156,9 @@
       "composite_score": 51.7,
       "scores": {
         "technical": 57.0,
-        "volume": 50.0,
-        "event": 50.0,
-        "fundamental": 40.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.39,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 38.2
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 197.38,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 187.31,
-        "r1": 189.71,
-        "r2": 191.4,
-        "s1": 185.62,
-        "s2": 183.22,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 73.24335,
-        "pb": 4.994167,
-        "dividend_yield": 0.0,
-        "analyst_target": 295.0,
-        "recommendation": "none",
-        "earnings_date": null,
-        "market_cap": 38848999424
-      },
-      "news": {
-        "ticker": "MHRIL.NS",
-        "headlines": [
-          "MHRIL Share Price Today near yearly low; valuation view - Univest",
-          "Mahindra Holidays & Resorts (MHRIL.NS) Edges Lower to \u20b9193.61 as Traders Watch Key Support Zone - Chandelier Stop - siam.in",
-          "MHRIL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "MHRIL Share Price Today near yearly low; valuation view - Univest. Mahindra Holidays & Resorts (MHRIL.NS) Edges Lower to \u20b9193.61 as Traders Watch Key Support Zone - Chandelier Stop - siam.in. MHRIL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-        "fetched_at": "2026-10-12T21:20:34.556554"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:59.889691",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "DMART.NS",
-      "name": "Avenue Supermarts Limited",
-      "sector": "Consumer Defensive",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 51.7,
-      "scores": {
-        "technical": 57.0,
-        "volume": 50.0,
-        "event": 50.0,
-        "fundamental": 40.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 4.1,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 34.4
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 3711.79,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 3539.47,
-        "r1": 3581.23,
-        "r2": 3645.67,
-        "s1": 3475.03,
-        "s2": 3433.27,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 71.73097,
-        "pb": 8.409475,
-        "dividend_yield": 0.0,
-        "analyst_target": 4066.5,
-        "recommendation": "hold",
-        "earnings_date": null,
-        "market_cap": 2194956222464
-      },
-      "news": {
-        "ticker": "DMART.NS",
-        "headlines": [
-          "Avenue Supermarts Ltd. Share Price Today - Avenue Supermarts Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-          "Avenue Supermarts Share Price - Live NSE: DMART Stock Price & Chart - Upstox",
-          "Avenue Supermarts Limited (NSE:DMART) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - Simply Wall Street"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Avenue Supermarts Ltd. Share Price Today - Avenue Supermarts Ltd. Stock Price Live NSE/BSE - CNBC TV18. Avenue Supermarts Share Price - Live NSE: DMART Stock Price & Chart - Upstox. Avenue Supermarts Limited (NSE:DMART) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - Simply Wall Street",
-        "fetched_at": "2026-10-12T21:20:38.196901"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:05.054629",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "TATACAP.NS",
-      "name": "Tata Capital Limited",
-      "sector": "Financial Services",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 51.4,
-      "scores": {
-        "technical": 57.0,
         "volume": 38.0,
         "event": 50.0,
-        "fundamental": 58.0
+        "fundamental": 60.0
       },
       "key_indicators": {
         "rsi": NaN,
@@ -2338,60 +2167,148 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 1.33,
+        "volume_ratio": 1.32,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 23.6
+        "mfi": 27.0
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 334.92,
+        "ema_21": 66.01,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 316.98,
-        "r1": 321.12,
-        "r2": 323.53,
-        "s1": 314.57,
-        "s2": 310.43,
+        "pivot": 56.42,
+        "r1": 57.84,
+        "r2": 60.41,
+        "s1": 53.85,
+        "s2": 52.43,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 25.647058,
-        "pb": 3.0065649,
-        "dividend_yield": 0.18,
-        "analyst_target": 407.92856,
-        "recommendation": "strong_buy",
+        "pe": 8.947987,
+        "pb": 0.09127708,
+        "dividend_yield": 0.0,
+        "analyst_target": null,
+        "recommendation": "none",
         "earnings_date": null,
-        "market_cap": 1378858565632
+        "market_cap": 15746214912
       },
       "news": {
-        "ticker": "TATACAP.NS",
+        "ticker": "RAJESHEXPO.NS",
         "headlines": [
-          "TATA CAPITAL LIMITED Share Price - Live NSE: TATACAP Stock Price & Chart - Upstox",
-          "Tata Capital Ltd Dividend History, Yield & Record Date - INDmoney",
-          "Tata Capital Ltd (NSE:TATACAP) Q1 2027 Earnings Call Highlights: Robust Profit Growth and ... - Yahoo Finance"
+          "Rajesh Exports Ltd. Share Price Today - Rajesh Exports Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "RAJESHEXPO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+          "Rajesh Exports Limited's (NSE:RAJESHEXPO) 31% Share Price Plunge Could Signal Some Risk - Simply Wall Street"
         ],
         "sources": [
           "Google News"
         ],
         "sentiment_keywords": {
-          "positive": [
-            "profit",
-            "growth"
-          ],
-          "negative": []
+          "positive": [],
+          "negative": [
+            "plunge"
+          ]
         },
-        "news_summary": "TATA CAPITAL LIMITED Share Price - Live NSE: TATACAP Stock Price & Chart - Upstox. Tata Capital Ltd Dividend History, Yield & Record Date - INDmoney. Tata Capital Ltd (NSE:TATACAP) Q1 2027 Earnings Call Highlights: Robust Profit Growth and ... - Yahoo Finance",
-        "fetched_at": "2026-10-12T21:20:39.757461"
+        "news_summary": "Rajesh Exports Ltd. Share Price Today - Rajesh Exports Ltd. Stock Price Live NSE/BSE - CNBC TV18. RAJESHEXPO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView. Rajesh Exports Limited's (NSE:RAJESHEXPO) 31% Share Price Plunge Could Signal Some Risk - Simply Wall Street",
+        "fetched_at": "2026-10-13T19:24:12.903290"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:20:03.845286",
+      "analyzed_at": "2026-10-13T19:23:38.247569",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "SETFGOLD.NS",
+      "name": "SBI Gold ETF",
+      "sector": "Unknown",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 51.2,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 50.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.61,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 38.8
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 127.02,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 126.44,
+        "r1": 127.06,
+        "r2": 127.52,
+        "s1": 125.98,
+        "s2": 125.36,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": null,
+        "pb": null,
+        "dividend_yield": 0,
+        "analyst_target": null,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "SETFGOLD.NS",
+        "headlines": [
+          "SBI Gold ETF Share Price Today - SBI Gold ETF Stock Price Live NSE/BSE - CNBC TV18",
+          "Gold, silver ETFs fall up to 4% as stronger dollar, rate-hike fears weigh - Business Standard",
+          "SETFGOLD ETF Profile: Dividends, Returns (NSE:SETFGOLD) - TradingView"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": [
+            "fall"
+          ]
+        },
+        "news_summary": "SBI Gold ETF Share Price Today - SBI Gold ETF Stock Price Live NSE/BSE - CNBC TV18. Gold, silver ETFs fall up to 4% as stronger dollar, rate-hike fears weigh - Business Standard. SETFGOLD ETF Profile: Dividends, Returns (NSE:SETFGOLD) - TradingView",
+        "fetched_at": "2026-10-13T19:24:14.689970"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:36.035737",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -2428,34 +2345,34 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.73,
+        "volume_ratio": 0.85,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
         "cmf": NaN,
-        "mfi": 33.5
+        "mfi": 38.9
       },
       "price_levels": {
         "sma_50": NaN,
         "sma_200": null,
-        "ema_21": 9339.27,
+        "ema_21": 9347.16,
         "bb_upper": NaN,
         "bb_lower": NaN,
-        "pivot": 9357.83,
-        "r1": 9442.67,
-        "r2": 9545.33,
-        "s1": 9255.17,
-        "s2": 9170.33,
+        "pivot": 9384.83,
+        "r1": 9472.67,
+        "r2": 9519.33,
+        "s1": 9338.17,
+        "s2": 9250.33,
         "pct_from_52w_high": NaN
       },
       "fundamentals": {
-        "pe": 85.527626,
-        "pb": 14.929344,
+        "pe": 85.02747,
+        "pb": 14.706021,
         "dividend_yield": 0.32,
-        "analyst_target": 8536.482,
+        "analyst_target": 8571.311,
         "recommendation": "hold",
         "earnings_date": null,
-        "market_cap": 2502306824192
+        "market_cap": 2464875806720
       },
       "news": {
         "ticker": "DIVISLAB.NS",
@@ -2472,276 +2389,13 @@
           "negative": []
         },
         "news_summary": "Divi's Laboratories (NSEI:DIVISLAB) Stock Forecast & Analyst Predictions - Simply Wall Street. DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE - scanx.trade. Divi's Laboratories (DIVISLAB) Share Price, News, Stock Market Cap NSE/BSE - TechGraph",
-        "fetched_at": "2026-10-12T21:20:41.485317"
+        "fetched_at": "2026-10-13T19:24:16.576459"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:53.332477",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "TMPV.NS",
-      "name": "Tata Motors Passenger Vehicles Limited",
-      "sector": "Consumer Cyclical",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 50.9,
-      "scores": {
-        "technical": 57.0,
-        "volume": 30.0,
-        "event": 50.0,
-        "fundamental": 68.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.81,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 29.8
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 291.91,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 278.48,
-        "r1": 282.37,
-        "r2": 284.83,
-        "s1": 276.02,
-        "s2": 272.13,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": null,
-        "pb": 0.9346578,
-        "dividend_yield": 1.07,
-        "analyst_target": 355.44,
-        "recommendation": "hold",
-        "earnings_date": null,
-        "market_cap": 1047627169792
-      },
-      "news": {
-        "ticker": "TMPV.NS",
-        "headlines": [
-          "Tata Motors Passenger Vehicles Ltd. Share Price Live Today - CNBC TV18",
-          "Tata Motors posts record Q2 sales: what it means for Tata Motors stock - ad-hoc-news.de",
-          "Tata Motors Passenger Vehicles (TMPV) Share Price, NSE - TechGraph"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Tata Motors Passenger Vehicles Ltd. Share Price Live Today - CNBC TV18. Tata Motors posts record Q2 sales: what it means for Tata Motors stock - ad-hoc-news.de. Tata Motors Passenger Vehicles (TMPV) Share Price, NSE - TechGraph",
-        "fetched_at": "2026-10-12T21:20:43.168406"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:04.506526",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "APOLLOHOSP.NS",
-      "name": "Apollo Hospitals Enterprise Limited",
-      "sector": "Healthcare",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 49.9,
-      "scores": {
-        "technical": 57.0,
-        "volume": 38.0,
-        "event": 50.0,
-        "fundamental": 48.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 1.52,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 17.6
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 8404.14,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 7943.5,
-        "r1": 8111.5,
-        "r2": 8195.5,
-        "s1": 7859.5,
-        "s2": 7691.5,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 53.524715,
-        "pb": 11.792346,
-        "dividend_yield": 0.25,
-        "analyst_target": 9821.5,
-        "recommendation": "strong_buy",
-        "earnings_date": null,
-        "market_cap": 1117925670912
-      },
-      "news": {
-        "ticker": "APOLLOHOSP.NS",
-        "headlines": [
-          "Apollo Hospitals Enterprise (NSEI:APOLLOHOSP) Stock Forecast & Analyst Predictions - Simply Wall Street",
-          "Apollo Hospitals stock last stood at INR 7,775.00 with P/ E 53.5 - ad-hoc-news.de",
-          "Credent Connect N Care Ltd (CREDENT) Share Price - Business Today"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": []
-        },
-        "news_summary": "Apollo Hospitals Enterprise (NSEI:APOLLOHOSP) Stock Forecast & Analyst Predictions - Simply Wall Street. Apollo Hospitals stock last stood at INR 7,775.00 with P/ E 53.5 - ad-hoc-news.de. Credent Connect N Care Ltd (CREDENT) Share Price - Business Today",
-        "fetched_at": "2026-10-12T21:20:45.113796"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:19:52.438155",
-      "ai_analysis": {
-        "verdict": "HOLD",
-        "confidence": "LOW",
-        "agrees_with_signal": true,
-        "one_liner": "Fallback: Manual review needed (AI unavailable)",
-        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
-        "key_risk": "Technical failure / No connection to AI",
-        "key_catalyst": "Resolution of connectivity",
-        "news_impact": "NEUTRAL",
-        "time_horizon": "SHORT (1-3 days)",
-        "memory_note": null
-      }
-    },
-    {
-      "ticker": "RAJESHEXPO.NS",
-      "name": "Rajesh Exports Limited",
-      "sector": "Consumer Cyclical",
-      "price": NaN,
-      "change_1d": NaN,
-      "change_1w": NaN,
-      "change_1m": NaN,
-      "signal": "NEUTRAL",
-      "composite_score": 49.7,
-      "scores": {
-        "technical": 57.0,
-        "volume": 30.0,
-        "event": 50.0,
-        "fundamental": 60.0
-      },
-      "key_indicators": {
-        "rsi": NaN,
-        "rsi_signal": "oversold",
-        "macd_crossover": "strengthening",
-        "adx": NaN,
-        "trend_strength": "weak",
-        "supertrend": "bearish",
-        "volume_ratio": 0.79,
-        "obv_trend": "falling",
-        "bb_position": NaN,
-        "stoch_k": NaN,
-        "cmf": NaN,
-        "mfi": 21.9
-      },
-      "price_levels": {
-        "sma_50": NaN,
-        "sma_200": null,
-        "ema_21": 67.09,
-        "bb_upper": NaN,
-        "bb_lower": NaN,
-        "pivot": 57.92,
-        "r1": 58.77,
-        "r2": 59.93,
-        "s1": 56.76,
-        "s2": 55.91,
-        "pct_from_52w_high": NaN
-      },
-      "fundamentals": {
-        "pe": 9.662588,
-        "pb": 0.09459748,
-        "dividend_yield": 0.0,
-        "analyst_target": null,
-        "recommendation": "none",
-        "earnings_date": null,
-        "market_cap": 16319019008
-      },
-      "news": {
-        "ticker": "RAJESHEXPO.NS",
-        "headlines": [
-          "Rajesh Exports Ltd. Share Price Today - Rajesh Exports Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-          "RAJESHEXPO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-          "Rajesh Exports Limited's (NSE:RAJESHEXPO) 31% Share Price Plunge Could Signal Some Risk - Simply Wall Street"
-        ],
-        "sources": [
-          "Google News"
-        ],
-        "sentiment_keywords": {
-          "positive": [],
-          "negative": [
-            "plunge"
-          ]
-        },
-        "news_summary": "Rajesh Exports Ltd. Share Price Today - Rajesh Exports Ltd. Stock Price Live NSE/BSE - CNBC TV18. RAJESHEXPO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView. Rajesh Exports Limited's (NSE:RAJESHEXPO) 31% Share Price Plunge Could Signal Some Risk - Simply Wall Street",
-        "fetched_at": "2026-10-12T21:20:46.806670"
-      },
-      "reasons": [
-        "MACD histogram expanding \u2014 momentum building"
-      ],
-      "risks": [],
-      "analyzed_at": "2026-10-12T21:20:02.148848",
+      "analyzed_at": "2026-10-13T19:23:18.204643",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
@@ -2778,7 +2432,7 @@
         "adx": NaN,
         "trend_strength": "weak",
         "supertrend": "bearish",
-        "volume_ratio": 0.99,
+        "volume_ratio": 0.94,
         "obv_trend": "falling",
         "bb_position": NaN,
         "stoch_k": NaN,
@@ -2812,7 +2466,7 @@
         "headlines": [
           "Nippon India ETF Gold BeES Share Price NSE/BSE - Live Price Charts & Performance - HDFC Sky",
           "Vodafone Idea, Cupid to IDFC First Bank\u2014 These are the top most traded stocks on the NSE today - Livemint",
-          "GOLDAXIS ETF Price and Chart \u2014 NSE:GOLDAXIS - TradingView"
+          "Nippon India Gold BeES tops as Indian gold ETFs account for nearly 5% of global inflows in 2025 - Moneycontrol.com"
         ],
         "sources": [
           "Google News"
@@ -2821,14 +2475,364 @@
           "positive": [],
           "negative": []
         },
-        "news_summary": "Nippon India ETF Gold BeES Share Price NSE/BSE - Live Price Charts & Performance - HDFC Sky. Vodafone Idea, Cupid to IDFC First Bank\u2014 These are the top most traded stocks on the NSE today - Livemint. GOLDAXIS ETF Price and Chart \u2014 NSE:GOLDAXIS - TradingView",
-        "fetched_at": "2026-10-12T21:20:48.353664"
+        "news_summary": "Nippon India ETF Gold BeES Share Price NSE/BSE - Live Price Charts & Performance - HDFC Sky. Vodafone Idea, Cupid to IDFC First Bank\u2014 These are the top most traded stocks on the NSE today - Livemint. Nippon India Gold BeES tops as Indian gold ETFs account for nearly 5% of global inflows in 2025 - Moneycontrol.com",
+        "fetched_at": "2026-10-13T19:24:18.477804"
       },
       "reasons": [
         "MACD histogram expanding \u2014 momentum building"
       ],
       "risks": [],
-      "analyzed_at": "2026-10-12T21:19:55.848943",
+      "analyzed_at": "2026-10-13T19:23:22.401223",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "name": "Apollo Hospitals Enterprise Limited",
+      "sector": "Healthcare",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 47.9,
+      "scores": {
+        "technical": 57.0,
+        "volume": 30.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.71,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 16.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 8346.94,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 7878.0,
+        "r1": 7997.0,
+        "r2": 8219.0,
+        "s1": 7656.0,
+        "s2": 7537.0,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 52.48033,
+        "pb": 11.937949,
+        "dividend_yield": 0.26,
+        "analyst_target": 9836.5,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1131728994304
+      },
+      "news": {
+        "ticker": "APOLLOHOSP.NS",
+        "headlines": [
+          "Apollo Hospitals Enterprise Limited (APOLLOHOSP.NS) Jumps 4.72% as Healthcare Major Approaches Resistance Zone - Stock Surge Alerts - https://www.siam.in/",
+          "Jefferies sets INR 10,350 target for Apollo Hospitals stock - ad-hoc-news.de",
+          "Apollo Hospitals Share Price - Live NSE: APOLLOHOSP Stock Price & Chart - Upstox"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [
+            "surge"
+          ],
+          "negative": []
+        },
+        "news_summary": "Apollo Hospitals Enterprise Limited (APOLLOHOSP.NS) Jumps 4.72% as Healthcare Major Approaches Resistance Zone - Stock Surge Alerts - https://www.siam.in/. Jefferies sets INR 10,350 target for Apollo Hospitals stock - ad-hoc-news.de. Apollo Hospitals Share Price - Live NSE: APOLLOHOSP Stock Price & Chart - Upstox",
+        "fetched_at": "2026-10-13T19:24:20.278357"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:17.067695",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TMPV.NS",
+      "name": "Tata Motors Passenger Vehicles Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 47.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.78,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 35.6
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 291.23,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 282.67,
+        "r1": 287.53,
+        "r2": 290.62,
+        "s1": 279.58,
+        "s2": 274.72,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": null,
+        "pb": 0.939258,
+        "dividend_yield": 1.05,
+        "analyst_target": 355.44,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 1052783345664
+      },
+      "news": {
+        "ticker": "TMPV.NS",
+        "headlines": [
+          "Tata Motors Passenger Vehicles Share Price Target 2026: Stock Analysis, Share Price Today, Bull Case and Bear Case After Q1 FY27 - Univest",
+          "Tata Motors posts record Q2 sales: what it means for Tata Motors stock - ad-hoc-news.de",
+          "Tata Motors Passenger Vehicles (TMPV) Share Price, NSE - TechGraph"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Tata Motors Passenger Vehicles Share Price Target 2026: Stock Analysis, Share Price Today, Bull Case and Bear Case After Q1 FY27 - Univest. Tata Motors posts record Q2 sales: what it means for Tata Motors stock - ad-hoc-news.de. Tata Motors Passenger Vehicles (TMPV) Share Price, NSE - TechGraph",
+        "fetched_at": "2026-10-13T19:24:22.045504"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-10-13T19:23:40.620651",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "DMART.NS",
+      "name": "Avenue Supermarts Limited",
+      "sector": "Consumer Defensive",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 46.7,
+      "scores": {
+        "technical": 57.0,
+        "volume": 30.0,
+        "event": 50.0,
+        "fundamental": 40.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.57,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 22.5
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 3680.26,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 3387.83,
+        "r1": 3425.07,
+        "r2": 3485.23,
+        "s1": 3327.67,
+        "s2": 3290.43,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 72.11682,
+        "pb": 8.45471,
+        "dividend_yield": 0.0,
+        "analyst_target": 3913.3438,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 2206763057152
+      },
+      "news": {
+        "ticker": "DMART.NS",
+        "headlines": [
+          "Avenue Supermarts Ltd. Share Price Today - Avenue Supermarts Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "Avenue Supermarts Limited (NSE:DMART) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - Simply Wall Street",
+          "Avenue Supermarts Ltd. Actuals & Estimates (NSE:DMART) - TradingView"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Avenue Supermarts Ltd. Share Price Today - Avenue Supermarts Ltd. Stock Price Live NSE/BSE - CNBC TV18. Avenue Supermarts Limited (NSE:DMART) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - Simply Wall Street. Avenue Supermarts Ltd. Actuals & Estimates (NSE:DMART) - TradingView",
+        "fetched_at": "2026-10-13T19:24:24.037177"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-10-13T19:23:41.644192",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "MHRIL.NS",
+      "name": "Mahindra Holidays & Resorts India Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 43.4,
+      "scores": {
+        "technical": 43.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 40.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.6,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 43.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 196.95,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 191.55,
+        "r1": 195.82,
+        "r2": 199.01,
+        "s1": 188.36,
+        "s2": 184.09,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 72.62737,
+        "pb": 4.952166,
+        "dividend_yield": 0.0,
+        "analyst_target": 295.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 38522281984
+      },
+      "news": {
+        "ticker": "MHRIL.NS",
+        "headlines": [
+          "Mahindra Holidays & Resorts (MHRIL.NS) Edges Lower to \u20b9193.61 as Traders Watch Key Support Zone - Chandelier Stop - siam.in",
+          "MHRIL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+          "Mahindra Holidays & Resorts India Ltd Share Price Today NSE/BSE Charts - Alice Blue"
+        ],
+        "sources": [
+          "Google News"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Mahindra Holidays & Resorts (MHRIL.NS) Edges Lower to \u20b9193.61 as Traders Watch Key Support Zone - Chandelier Stop - siam.in. MHRIL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView. Mahindra Holidays & Resorts India Ltd Share Price Today NSE/BSE Charts - Alice Blue",
+        "fetched_at": "2026-10-13T19:24:25.990975"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-10-13T19:23:29.243818",
       "ai_analysis": {
         "verdict": "HOLD",
         "confidence": "LOW",
