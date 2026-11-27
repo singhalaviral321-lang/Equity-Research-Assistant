@@ -1,0 +1,2559 @@
+{
+  "date": "2026-11-27",
+  "time": "21:29",
+  "total_stocks": 24,
+  "summary": {
+    "strong_buys": 0,
+    "buys": 2,
+    "neutrals": 22,
+    "sells": 0,
+    "errors": 0
+  },
+  "top_momentum": [
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys Limited",
+      "sector": "Technology",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 60.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.93,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 64.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1125.43,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1172.1,
+        "r1": 1195.9,
+        "r2": 1208.8,
+        "s1": 1159.2,
+        "s2": 1135.4,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 15.330227,
+        "pb": 4.785274,
+        "dividend_yield": 4.4,
+        "analyst_target": 1189.6904,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4663198351360
+      },
+      "news": {
+        "ticker": "INFY.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:38.448003"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:27.511995",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "IRFC.NS",
+      "name": "Indian Railway Finance Corporation Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 58.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.75,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 67.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 80.89,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 81.84,
+        "r1": 82.98,
+        "r2": 83.66,
+        "s1": 81.16,
+        "s2": 80.02,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 14.583334,
+        "pb": 1.7728968,
+        "dividend_yield": 2.67,
+        "analyst_target": 60.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1074884640768
+      },
+      "news": {
+        "ticker": "IRFC.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:48.924162"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:30.786687",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "GAIL.NS",
+      "name": "GAIL (India) Limited",
+      "sector": "Utilities",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 56.4,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.8,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 55.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 183.86,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 188.43,
+        "r1": 189.71,
+        "r2": 191.43,
+        "s1": 186.71,
+        "s2": 185.43,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 9.635416,
+        "pb": 1.2571436,
+        "dividend_yield": 2.93,
+        "analyst_target": 201.06667,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1216389709824
+      },
+      "news": {
+        "ticker": "GAIL.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:57.067505"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:32.863758",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "name": "Jio Financial Services Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 54.9,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.78,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 62.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 223.01,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 226.53,
+        "r1": 230.47,
+        "r2": 233.94,
+        "s1": 223.06,
+        "s2": 219.12,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 84.63878,
+        "pb": 1.1465834,
+        "dividend_yield": 0.26,
+        "analyst_target": 286.5,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1525509390336
+      },
+      "news": {
+        "ticker": "JIOFIN.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:05.138511"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:34.667035",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "IOC.NS",
+      "name": "Indian Oil Corporation Limited",
+      "sector": "Energy",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 53.9,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.5,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 47.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 142.59,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 144.9,
+        "r1": 145.63,
+        "r2": 146.83,
+        "s1": 143.7,
+        "s2": 142.97,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 4.2043734,
+        "pb": 0.8516909,
+        "dividend_yield": 2.25,
+        "analyst_target": 157.41936,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "IOC.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:11.600934"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:34.049976",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys Limited",
+      "sector": "Technology",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 60.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.93,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 64.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1125.43,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1172.1,
+        "r1": 1195.9,
+        "r2": 1208.8,
+        "s1": 1159.2,
+        "s2": 1135.4,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 15.330227,
+        "pb": 4.785274,
+        "dividend_yield": 4.4,
+        "analyst_target": 1189.6904,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4663198351360
+      },
+      "news": {
+        "ticker": "INFY.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:38.448003"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:27.511995",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "IRFC.NS",
+      "name": "Indian Railway Finance Corporation Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 58.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.75,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 67.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 80.89,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 81.84,
+        "r1": 82.98,
+        "r2": 83.66,
+        "s1": 81.16,
+        "s2": 80.02,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 14.583334,
+        "pb": 1.7728968,
+        "dividend_yield": 2.67,
+        "analyst_target": 60.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1074884640768
+      },
+      "news": {
+        "ticker": "IRFC.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:48.924162"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:30.786687",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "avoid": [],
+  "all_results": [
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys Limited",
+      "sector": "Technology",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 60.1,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.93,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 64.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1125.43,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1172.1,
+        "r1": 1195.9,
+        "r2": 1208.8,
+        "s1": 1159.2,
+        "s2": 1135.4,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 15.330227,
+        "pb": 4.785274,
+        "dividend_yield": 4.4,
+        "analyst_target": 1189.6904,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4663198351360
+      },
+      "news": {
+        "ticker": "INFY.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:38.448003"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building",
+        "Analyst consensus: BUY"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:27.511995",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "IRFC.NS",
+      "name": "Indian Railway Finance Corporation Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "BUY",
+      "composite_score": 58.6,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.75,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 67.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 80.89,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 81.84,
+        "r1": 82.98,
+        "r2": 83.66,
+        "s1": 81.16,
+        "s2": 80.02,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 14.583334,
+        "pb": 1.7728968,
+        "dividend_yield": 2.67,
+        "analyst_target": 60.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1074884640768
+      },
+      "news": {
+        "ticker": "IRFC.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:48.924162"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:30.786687",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "GAIL.NS",
+      "name": "GAIL (India) Limited",
+      "sector": "Utilities",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 56.4,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.8,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 55.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 183.86,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 188.43,
+        "r1": 189.71,
+        "r2": 191.43,
+        "s1": 186.71,
+        "s2": 185.43,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 9.635416,
+        "pb": 1.2571436,
+        "dividend_yield": 2.93,
+        "analyst_target": 201.06667,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 1216389709824
+      },
+      "news": {
+        "ticker": "GAIL.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:29:57.067505"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:32.863758",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "JIOFIN.NS",
+      "name": "Jio Financial Services Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 54.9,
+      "scores": {
+        "technical": 57.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.78,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 62.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 223.01,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 226.53,
+        "r1": 230.47,
+        "r2": 233.94,
+        "s1": 223.06,
+        "s2": 219.12,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 84.63878,
+        "pb": 1.1465834,
+        "dividend_yield": 0.26,
+        "analyst_target": 286.5,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1525509390336
+      },
+      "news": {
+        "ticker": "JIOFIN.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:05.138511"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:34.667035",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "IOC.NS",
+      "name": "Indian Oil Corporation Limited",
+      "sector": "Energy",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 53.9,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.5,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 47.7
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 142.59,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 144.9,
+        "r1": 145.63,
+        "r2": 146.83,
+        "s1": 143.7,
+        "s2": 142.97,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 4.2043734,
+        "pb": 0.8516909,
+        "dividend_yield": 2.25,
+        "analyst_target": 157.41936,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "IOC.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:11.600934"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:34.049976",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TMPV.NS",
+      "name": "Tata Motors Passenger Vehicles Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 53.9,
+      "scores": {
+        "technical": 57.0,
+        "volume": 42.0,
+        "event": 50.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.63,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 31.2
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 271.78,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 261.4,
+        "r1": 263.3,
+        "r2": 264.6,
+        "s1": 260.1,
+        "s2": 258.2,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": null,
+        "pb": 0.90374106,
+        "dividend_yield": 1.15,
+        "analyst_target": 310.96,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 950225600512
+      },
+      "news": {
+        "ticker": "TMPV.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:20.279496"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:38.011651",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Technology",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 53.8,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 70.0,
+        "fundamental": 73.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.9,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 55.8
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 2441.57,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 2601.4,
+        "r1": 2679.2,
+        "r2": 2718.1,
+        "s1": 2562.5,
+        "s2": 2484.7,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 18.032385,
+        "pb": 7.822382,
+        "dividend_yield": 1.82,
+        "analyst_target": 2395.3901,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "TCS.NS",
+        "headlines": [
+          "TCS Share Price Highlights: TCS Stock Price History "
+        ],
+        "sources": [
+          "Economic Times"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "TCS Share Price Highlights: TCS Stock Price History ",
+        "fetched_at": "2026-11-27T21:30:28.099371"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:26.999407",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "BPCL.NS",
+      "name": "Bharat Petroleum Corporation Limited",
+      "sector": "Energy",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 53.0,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 70.0,
+        "fundamental": 68.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.71,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 50.2
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 305.24,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 307.25,
+        "r1": 309.4,
+        "r2": 311.15,
+        "s1": 305.5,
+        "s2": 303.35,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 8.343699,
+        "pb": 1.2995135,
+        "dividend_yield": 6.5,
+        "analyst_target": 334.09677,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 1338645938176
+      },
+      "news": {
+        "ticker": "BPCL.NS",
+        "headlines": [
+          "BPCL Share Price Highlights: BPCL Stock Price History "
+        ],
+        "sources": [
+          "Economic Times"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "BPCL Share Price Highlights: BPCL Stock Price History ",
+        "fetched_at": "2026-11-27T21:30:37.318732"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:31.897802",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "SETFGOLD.NS",
+      "name": "SBI Gold ETF",
+      "sector": "Unknown",
+      "price": 120.02,
+      "change_1d": 0.0,
+      "change_1w": -0.64,
+      "change_1m": -4.3,
+      "signal": "NEUTRAL",
+      "composite_score": 52.8,
+      "scores": {
+        "technical": 55.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 50.0
+      },
+      "key_indicators": {
+        "rsi": 28.1,
+        "rsi_signal": "oversold",
+        "macd_crossover": "bullish_crossover",
+        "adx": 43.3,
+        "trend_strength": "very_strong",
+        "supertrend": "bullish",
+        "volume_ratio": 0.0,
+        "obv_trend": "falling",
+        "bb_position": 27.6,
+        "stoch_k": 23.6,
+        "cmf": NaN,
+        "mfi": 60.8
+      },
+      "price_levels": {
+        "sma_50": 126.61,
+        "sma_200": null,
+        "ema_21": 122.08,
+        "bb_upper": 126.92,
+        "bb_lower": 117.39,
+        "pivot": 120.02,
+        "r1": 120.02,
+        "r2": 120.02,
+        "s1": 120.02,
+        "s2": 120.02,
+        "pct_from_52w_high": -12.6
+      },
+      "fundamentals": {
+        "pe": null,
+        "pb": null,
+        "dividend_yield": 0,
+        "analyst_target": null,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "SETFGOLD.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:44.118520"
+      },
+      "reasons": [
+        "MACD bullish crossover \u2014 trend turning up",
+        "SuperTrend bullish \u2014 trend following signal"
+      ],
+      "risks": [
+        "Price below 50 DMA \u2014 bearish structure"
+      ],
+      "analyzed_at": "2026-11-27T21:29:35.916410",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "name": "ICICI Bank Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 52.3,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.51,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 68.2
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1543.38,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1622.43,
+        "r1": 1640.57,
+        "r2": 1670.13,
+        "s1": 1592.87,
+        "s2": 1574.73,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 19.567728,
+        "pb": 2.9280267,
+        "dividend_yield": 0.74,
+        "analyst_target": 1783.6097,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 11447979474944
+      },
+      "news": {
+        "ticker": "ICICIBANK.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:52.428108"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:27.899453",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "NCC.NS",
+      "name": "NCC Limited",
+      "sector": "Industrials",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 52.3,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.87,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 69.3
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 128.79,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 128.75,
+        "r1": 129.7,
+        "r2": 131.24,
+        "s1": 127.21,
+        "s2": 126.26,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 11.197244,
+        "pb": 1.0054526,
+        "dividend_yield": 1.72,
+        "analyst_target": 173.7,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 81620058112
+      },
+      "news": {
+        "ticker": "NCC.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:30:59.917278"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:36.494886",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "TATACAP.NS",
+      "name": "Tata Capital Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 51.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 37.0,
+        "event": 70.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.64,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 75.5
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 342.07,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 350.15,
+        "r1": 353.4,
+        "r2": 356.5,
+        "s1": 347.05,
+        "s2": 343.8,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 24.018362,
+        "pb": 2.947677,
+        "dividend_yield": 0.16,
+        "analyst_target": 398.86667,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 1434097287168
+      },
+      "news": {
+        "ticker": "TATACAP.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:31:06.221462"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:37.454767",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "name": "Divi's Laboratories Limited",
+      "sector": "Healthcare",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 50.0,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 70.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.45,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 57.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 10802.67,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 11668.17,
+        "r1": 11746.33,
+        "r2": 11861.67,
+        "s1": 11552.83,
+        "s2": 11474.67,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 91.217545,
+        "pb": 17.03708,
+        "dividend_yield": 0.26,
+        "analyst_target": 11163.393,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 3068816785408
+      },
+      "news": {
+        "ticker": "DIVISLAB.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:31:16.717304"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:30.242836",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "name": "Hindustan Unilever Limited",
+      "sector": "Consumer Defensive",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 49.8,
+      "scores": {
+        "technical": 43.0,
+        "volume": 45.0,
+        "event": 70.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.29,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 75.4
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1994.33,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 2140.83,
+        "r1": 2160.67,
+        "r2": 2190.53,
+        "s1": 2110.97,
+        "s2": 2091.13,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 47.007103,
+        "pb": 10.191291,
+        "dividend_yield": 1.92,
+        "analyst_target": 2256.9473,
+        "recommendation": "buy",
+        "earnings_date": null,
+        "market_cap": 4974554644480
+      },
+      "news": {
+        "ticker": "HINDUNILVR.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:31:25.373646"
+      },
+      "reasons": [
+        "Analyst consensus: BUY"
+      ],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:28.467653",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries Limited",
+      "sector": "Energy",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 48.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 37.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.57,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 82.2
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 1323.2,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 1386.57,
+        "r1": 1411.33,
+        "r2": 1426.47,
+        "s1": 1371.43,
+        "s2": 1346.67,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 22.7851,
+        "pb": 1.9810406,
+        "dividend_yield": 0.43,
+        "analyst_target": 1610.0,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "RELIANCE.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:31:36.062370"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:26.486783",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 48.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 58.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.55,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 74.9
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 12928.41,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 14030.67,
+        "r1": 14149.33,
+        "r2": 14283.67,
+        "s1": 13896.33,
+        "s2": 13777.67,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 32.173244,
+        "pb": 3.970211,
+        "dividend_yield": 1.0,
+        "analyst_target": 14494.368,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 4327751286784
+      },
+      "news": {
+        "ticker": "MARUTI.NS",
+        "headlines": [
+          "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History "
+        ],
+        "sources": [
+          "Economic Times"
+        ],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History ",
+        "fetched_at": "2026-11-27T21:31:43.514132"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:29.063590",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "name": "HDFC Bank Limited",
+      "sector": "Financial Services",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 48.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 37.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.75,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 83.4
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 792.15,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 859.3,
+        "r1": 874.3,
+        "r2": 886.6,
+        "s1": 847.0,
+        "s2": 832.0,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 18.737705,
+        "pb": 2.1711383,
+        "dividend_yield": 1.51,
+        "analyst_target": 963.95,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 13230543994880
+      },
+      "news": {
+        "ticker": "HDFCBANK.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:31:52.759082"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:33.459558",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "LTFOODS.NS",
+      "name": "LT Foods Limited",
+      "sector": "Consumer Defensive",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 48.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 37.0,
+        "event": 50.0,
+        "fundamental": 83.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.09,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 90.4
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 418.85,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 423.42,
+        "r1": 425.83,
+        "r2": 428.07,
+        "s1": 421.18,
+        "s2": 418.77,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 22.271284,
+        "pb": 2.983663,
+        "dividend_yield": 0.94,
+        "analyst_target": 500.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 146245566464
+      },
+      "news": {
+        "ticker": "LTFOODS.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:02.462826"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:35.175896",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "GOLDBEES.NS",
+      "name": "Nippon India ETF Gold BeES",
+      "sector": "Unknown",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 48.2,
+      "scores": {
+        "technical": 57.0,
+        "volume": 30.0,
+        "event": 50.0,
+        "fundamental": 50.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "strengthening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.01,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 21.2
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 109.97,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 101.33,
+        "r1": 101.93,
+        "r2": 102.89,
+        "s1": 100.37,
+        "s2": 99.77,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": null,
+        "pb": null,
+        "dividend_yield": 0,
+        "analyst_target": null,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 0
+      },
+      "news": {
+        "ticker": "GOLDBEES.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:11.119797"
+      },
+      "reasons": [
+        "MACD histogram expanding \u2014 momentum building"
+      ],
+      "risks": [],
+      "analyzed_at": "2026-11-27T21:29:32.399332",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "name": "Apollo Hospitals Enterprise Limited",
+      "sector": "Healthcare",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 47.0,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.33,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 73.4
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 8708.04,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 9240.5,
+        "r1": 9270.0,
+        "r2": 9317.5,
+        "s1": 9193.0,
+        "s2": 9163.5,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 58.366905,
+        "pb": 12.374618,
+        "dividend_yield": 0.22,
+        "analyst_target": 9976.6,
+        "recommendation": "strong_buy",
+        "earnings_date": null,
+        "market_cap": 1312466403328
+      },
+      "news": {
+        "ticker": "APOLLOHOSP.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:17.328881"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:29.676232",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "name": "Adani Enterprises Limited",
+      "sector": "Energy",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 46.5,
+      "scores": {
+        "technical": 43.0,
+        "volume": 50.0,
+        "event": 50.0,
+        "fundamental": 48.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.23,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 40.6
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 2683.28,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 2671.7,
+        "r1": 2703.3,
+        "r2": 2746.6,
+        "s1": 2628.4,
+        "s2": 2596.8,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 56.286503,
+        "pb": 3.6397622,
+        "dividend_yield": 0.05,
+        "analyst_target": 3429.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 3574369091584
+      },
+      "news": {
+        "ticker": "ADANIENT.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:27.715702"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:31.360177",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "DMART.NS",
+      "name": "Avenue Supermarts Limited",
+      "sector": "Consumer Defensive",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 45.9,
+      "scores": {
+        "technical": 43.0,
+        "volume": 52.0,
+        "event": 50.0,
+        "fundamental": 40.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 1.08,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 66.8
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 3447.1,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 3549.73,
+        "r1": 3587.37,
+        "r2": 3641.73,
+        "s1": 3495.37,
+        "s2": 3457.73,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 74.05479,
+        "pb": 8.850329,
+        "dividend_yield": 0.0,
+        "analyst_target": 3881.879,
+        "recommendation": "hold",
+        "earnings_date": null,
+        "market_cap": 2310027870208
+      },
+      "news": {
+        "ticker": "DMART.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:37.267722"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:38.447864",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "RAJESHEXPO.NS",
+      "name": "Rajesh Exports Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 43.4,
+      "scores": {
+        "technical": 43.0,
+        "volume": 30.0,
+        "event": 50.0,
+        "fundamental": 60.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.8,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 24.4
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 50.08,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 45.55,
+        "r1": 46.09,
+        "r2": 47.05,
+        "s1": 44.59,
+        "s2": 44.05,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 7.9650354,
+        "pb": 0.07827574,
+        "dividend_yield": 0.0,
+        "analyst_target": null,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 13452044288
+      },
+      "news": {
+        "ticker": "RAJESHEXPO.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:44.062760"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:37.023409",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    },
+    {
+      "ticker": "MHRIL.NS",
+      "name": "Mahindra Holidays & Resorts India Limited",
+      "sector": "Consumer Cyclical",
+      "price": NaN,
+      "change_1d": NaN,
+      "change_1w": NaN,
+      "change_1m": NaN,
+      "signal": "NEUTRAL",
+      "composite_score": 42.1,
+      "scores": {
+        "technical": 43.0,
+        "volume": 37.0,
+        "event": 50.0,
+        "fundamental": 40.0
+      },
+      "key_indicators": {
+        "rsi": NaN,
+        "rsi_signal": "oversold",
+        "macd_crossover": "weakening",
+        "adx": NaN,
+        "trend_strength": "weak",
+        "supertrend": "bearish",
+        "volume_ratio": 0.77,
+        "obv_trend": "falling",
+        "bb_position": NaN,
+        "stoch_k": NaN,
+        "cmf": NaN,
+        "mfi": 92.1
+      },
+      "price_levels": {
+        "sma_50": NaN,
+        "sma_200": null,
+        "ema_21": 194.75,
+        "bb_upper": NaN,
+        "bb_lower": NaN,
+        "pivot": 197.15,
+        "r1": 200.48,
+        "r2": 204.9,
+        "s1": 192.73,
+        "s2": 189.4,
+        "pct_from_52w_high": NaN
+      },
+      "fundamentals": {
+        "pe": 71.45055,
+        "pb": 4.9679093,
+        "dividend_yield": 0.0,
+        "analyst_target": 275.0,
+        "recommendation": "none",
+        "earnings_date": null,
+        "market_cap": 39339073536
+      },
+      "news": {
+        "ticker": "MHRIL.NS",
+        "headlines": [],
+        "sources": [],
+        "sentiment_keywords": {
+          "positive": [],
+          "negative": []
+        },
+        "news_summary": "No recent news found for this ticker.",
+        "fetched_at": "2026-11-27T21:32:54.662791"
+      },
+      "reasons": [],
+      "risks": [
+        "MACD weakening \u2014 momentum fading"
+      ],
+      "analyzed_at": "2026-11-27T21:29:35.550144",
+      "ai_analysis": {
+        "verdict": "HOLD",
+        "confidence": "LOW",
+        "agrees_with_signal": true,
+        "one_liner": "Fallback: Manual review needed (AI unavailable)",
+        "reasoning": "Both AI models (Groq, Gemini) were unavailable or hit rate limits.",
+        "key_risk": "Technical failure / No connection to AI",
+        "key_catalyst": "Resolution of connectivity",
+        "news_impact": "NEUTRAL",
+        "time_horizon": "SHORT (1-3 days)",
+        "memory_note": null
+      }
+    }
+  ],
+  "errors": []
+}
